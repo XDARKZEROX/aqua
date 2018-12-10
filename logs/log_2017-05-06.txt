@@ -1,3 +1,0 @@
-[2017-05-06 19:30:59.071201] [info] 785035784037
-[2017-05-06 19:30:59.135772] [info] Envio de correo del pedido: 785035784037 al comprador enviado correctamente.
-[2017-05-06 19:30:59.214802] [info] Envio de correo del pedido: 785035784037 al cliente enviado correctamente.

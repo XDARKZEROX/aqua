@@ -1,3 +1,0 @@
-[2016-11-29 11:06:22.650211] [info] Firmas no coindieron para la orden: 
-[2016-11-29 12:43:11.315177] [info] Firmas no coindieron para la orden: 
-[2016-11-29 17:25:26.827395] [info] Firmas no coindieron para la orden: 

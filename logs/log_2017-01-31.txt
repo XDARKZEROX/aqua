@@ -1,3 +1,0 @@
-[2017-01-31 10:35:39.804584] [info] 712802087843
-[2017-01-31 10:35:39.963992] [info] Envio de correo del pedido: 712802087843 al comprador enviado correctamente.
-[2017-01-31 10:35:40.073965] [info] Envio de correo del pedido: 712802087843 al cliente enviado correctamente.

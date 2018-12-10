@@ -1,5 +1,0 @@
-[2017-03-05 7:49:23.018333] [info] Envio de correo del pedido: 662783753679 al comprador enviado correctamente.
-[2017-03-05 7:49:23.089950] [info] Envio de correo del pedido: 662783753679 al cliente enviado correctamente.
-[2017-03-05 21:01:10.493680] [info] 893925379081
-[2017-03-05 21:01:11.411716] [info] Envio de correo del pedido: 893925379081 al comprador enviado correctamente.
-[2017-03-05 21:01:11.479589] [info] Envio de correo del pedido: 893925379081 al cliente enviado correctamente.

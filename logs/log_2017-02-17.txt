@@ -1,2 +1,0 @@
-[2017-02-17 22:08:56.816446] [info] Envio de correo del pedido: 098285319088 al comprador enviado correctamente.
-[2017-02-17 22:08:56.892432] [info] Envio de correo del pedido: 098285319088 al cliente enviado correctamente.

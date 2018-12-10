@@ -1,4 +1,0 @@
-[2017-02-23 14:35:16.531420] [info] 392779940556
-[2017-02-23 14:35:16.531538] [info] El pedido con codigo:  392779940556 se le ha denegado el pago
-[2017-02-23 15:44:47.937567] [info] Envio de correo del pedido: 204714705934 al comprador enviado correctamente.
-[2017-02-23 15:44:47.999291] [info] Envio de correo del pedido: 204714705934 al cliente enviado correctamente.

@@ -1,6 +1,0 @@
-[2017-03-18 10:46:13.783576] [info] 426617424385
-[2017-03-18 10:46:13.965992] [info] Envio de correo del pedido: 426617424385 al comprador enviado correctamente.
-[2017-03-18 10:46:14.028842] [info] Envio de correo del pedido: 426617424385 al cliente enviado correctamente.
-[2017-03-18 18:47:31.360603] [info] 675305246821
-[2017-03-18 18:47:32.280822] [info] Envio de correo del pedido: 675305246821 al comprador enviado correctamente.
-[2017-03-18 18:47:32.346765] [info] Envio de correo del pedido: 675305246821 al cliente enviado correctamente.

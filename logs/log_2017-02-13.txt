@@ -1,5 +1,0 @@
-[2017-02-13 10:44:37.692604] [info] 453272208006
-[2017-02-13 10:44:37.692763] [info] El pedido con codigo:  453272208006 se le ha denegado el pago
-[2017-02-13 14:12:32.611763] [info] 944556507090
-[2017-02-13 14:12:32.797945] [info] Envio de correo del pedido: 944556507090 al comprador enviado correctamente.
-[2017-02-13 14:12:32.876904] [info] Envio de correo del pedido: 944556507090 al cliente enviado correctamente.

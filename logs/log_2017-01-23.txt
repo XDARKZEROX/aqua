@@ -1,3 +1,0 @@
-[2017-01-23 12:09:57.607409] [info] 002923380651
-[2017-01-23 12:09:57.735641] [info] Envio de correo del pedido: 002923380651 al comprador enviado correctamente.
-[2017-01-23 12:09:57.852597] [info] Envio de correo del pedido: 002923380651 al cliente enviado correctamente.

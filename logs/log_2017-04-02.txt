@@ -1,2 +1,0 @@
-[2017-04-02 14:11:31.210846] [info] Envio de correo del pedido: 305601749892 al comprador enviado correctamente.
-[2017-04-02 14:11:31.283670] [info] Envio de correo del pedido: 305601749892 al cliente enviado correctamente.

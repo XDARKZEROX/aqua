@@ -1,3 +1,0 @@
-[2017-03-22 10:56:49.648201] [info] 587274721040
-[2017-03-22 10:56:49.733304] [info] Envio de correo del pedido: 587274721040 al comprador enviado correctamente.
-[2017-03-22 10:56:49.806917] [info] Envio de correo del pedido: 587274721040 al cliente enviado correctamente.

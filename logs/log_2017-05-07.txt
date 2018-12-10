@@ -1,7 +1,0 @@
-[2017-05-07 2:10:23.517534] [info] 028957701720
-[2017-05-07 2:10:23.617489] [info] Envio de correo del pedido: 028957701720 al comprador enviado correctamente.
-[2017-05-07 2:10:23.692358] [info] Envio de correo del pedido: 028957701720 al cliente enviado correctamente.
-[2017-05-07 10:38:18.024183] [info] 896407531995
-[2017-05-07 10:38:18.024475] [info] El pedido con codigo:  896407531995 se le ha denegado el pago
-[2017-05-07 10:42:56.429414] [info] Envio de correo del pedido: 187180422751 al comprador enviado correctamente.
-[2017-05-07 10:42:56.492202] [info] Envio de correo del pedido: 187180422751 al cliente enviado correctamente.

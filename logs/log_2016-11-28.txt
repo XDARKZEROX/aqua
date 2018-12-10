@@ -1,2 +1,0 @@
-[2016-11-28 10:49:13.913780] [info] Firmas no coindieron para la orden: 
-[2016-11-28 12:07:55.662893] [info] Firmas no coindieron para la orden: 

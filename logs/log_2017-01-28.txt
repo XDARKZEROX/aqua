@@ -1,3 +1,0 @@
-[2017-01-28 11:34:06.143692] [info] 180158580360
-[2017-01-28 11:34:06.316721] [info] Envio de correo del pedido: 180158580360 al comprador enviado correctamente.
-[2017-01-28 11:34:06.420622] [info] Envio de correo del pedido: 180158580360 al cliente enviado correctamente.

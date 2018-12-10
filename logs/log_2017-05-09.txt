@@ -1,5 +1,0 @@
-[2017-05-09 10:12:08.446790] [info] 326371927260
-[2017-05-09 10:12:08.446906] [info] El pedido con codigo:  326371927260 se le ha denegado el pago
-[2017-05-09 17:59:36.696374] [info] 184555031810
-[2017-05-09 17:59:36.754267] [info] Envio de correo del pedido: 184555031810 al comprador enviado correctamente.
-[2017-05-09 17:59:36.801659] [info] Envio de correo del pedido: 184555031810 al cliente enviado correctamente.

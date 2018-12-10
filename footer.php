@@ -1,11 +1,11 @@
 	<footer class="footer">
 
-	    <script type="text/javascript" src="public/js/universal/jquery.js"></script>
+	    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
 
-		<script type="text/javascript" src="public/js/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
         <script type="text/javascript" src="public/js/cartmodal.js"></script>
         <script type="text/javascript" src="public/js/util.js"></script>
-        <script type="text/javascript" src="public/js/reservation.js?ver=1.5"></script>
+        <script type="text/javascript" src="public/js/reservation.js?ver=1.6"></script>
         <script type="text/javascript" src="public/js/home.js"></script>
 
 		<div class="navbar">

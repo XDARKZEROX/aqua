@@ -1,3 +1,0 @@
-[2017-01-25 11:36:40.423754] [info] 069363495446
-[2017-01-25 11:36:40.583626] [info] Envio de correo del pedido: 069363495446 al comprador enviado correctamente.
-[2017-01-25 11:36:40.711915] [info] Envio de correo del pedido: 069363495446 al cliente enviado correctamente.

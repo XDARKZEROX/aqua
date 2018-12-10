@@ -1,3 +1,0 @@
-[2017-01-11 9:56:18.915330] [info] 233188386866
-[2017-01-11 9:56:19.881992] [info] Envio de correo del pedido: 233188386866 al comprador enviado correctamente.
-[2017-01-11 9:56:19.993025] [info] Envio de correo del pedido: 233188386866 al cliente enviado correctamente.

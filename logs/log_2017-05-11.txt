@@ -1,9 +1,0 @@
-[2017-05-11 9:03:12.376859] [info] 032169582714
-[2017-05-11 9:03:12.473807] [info] Envio de correo del pedido: 032169582714 al comprador enviado correctamente.
-[2017-05-11 9:03:12.578066] [info] Envio de correo del pedido: 032169582714 al cliente enviado correctamente.
-[2017-05-11 12:23:49.016572] [info] 083004638399
-[2017-05-11 12:23:49.086584] [info] Envio de correo del pedido: 083004638399 al comprador enviado correctamente.
-[2017-05-11 12:23:49.154659] [info] Envio de correo del pedido: 083004638399 al cliente enviado correctamente.
-[2017-05-11 16:21:59.716789] [info] 842352706864
-[2017-05-11 16:21:59.776220] [info] Envio de correo del pedido: 842352706864 al comprador enviado correctamente.
-[2017-05-11 16:21:59.879698] [info] Envio de correo del pedido: 842352706864 al cliente enviado correctamente.

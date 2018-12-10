@@ -1,2 +1,0 @@
-[2017-05-04 15:43:31.265737] [info] Envio de correo del pedido: 057227797499 al comprador enviado correctamente.
-[2017-05-04 15:43:31.345257] [info] Envio de correo del pedido: 057227797499 al cliente enviado correctamente.

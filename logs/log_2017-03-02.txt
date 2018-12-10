@@ -1,6 +1,0 @@
-[2017-03-02 21:57:47.703241] [info] 830765639350
-[2017-03-02 21:57:47.967715] [info] Envio de correo del pedido: 830765639350 al comprador enviado correctamente.
-[2017-03-02 21:57:48.121772] [info] Envio de correo del pedido: 830765639350 al cliente enviado correctamente.
-[2017-03-02 22:57:42.980695] [info] 925474251194
-[2017-03-02 22:57:43.073863] [info] Envio de correo del pedido: 925474251194 al comprador enviado correctamente.
-[2017-03-02 22:57:43.146625] [info] Envio de correo del pedido: 925474251194 al cliente enviado correctamente.

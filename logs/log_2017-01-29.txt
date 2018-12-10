@@ -1,2 +1,0 @@
-[2017-01-29 18:00:43.367945] [info] Envio de correo del pedido: 518387891657 al comprador enviado correctamente.
-[2017-01-29 18:00:43.489798] [info] Envio de correo del pedido: 518387891657 al cliente enviado correctamente.

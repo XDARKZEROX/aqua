@@ -1,3 +1,0 @@
-[2017-03-20 16:36:30.769691] [info] 898848147994
-[2017-03-20 16:36:30.838192] [info] Envio de correo del pedido: 898848147994 al comprador enviado correctamente.
-[2017-03-20 16:36:30.903081] [info] Envio de correo del pedido: 898848147994 al cliente enviado correctamente.

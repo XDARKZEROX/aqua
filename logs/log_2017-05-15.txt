@@ -1,3 +1,0 @@
-[2017-05-15 18:36:54.372977] [info] 216898471264
-[2017-05-15 18:36:54.531341] [info] Envio de correo del pedido: 216898471264 al comprador enviado correctamente.
-[2017-05-15 18:36:54.609947] [info] Envio de correo del pedido: 216898471264 al cliente enviado correctamente.

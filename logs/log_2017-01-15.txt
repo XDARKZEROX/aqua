@@ -1,2 +1,0 @@
-[2017-01-15 17:06:17.927706] [info] 679864741678
-[2017-01-15 17:06:17.927824] [info] El pedido con codigo:  679864741678 se le ha denegado el pago

@@ -1,8 +1,0 @@
-[2017-01-17 11:42:22.757860] [info] 677698461971
-[2017-01-17 11:42:22.900882] [info] Envio de correo del pedido: 677698461971 al comprador enviado correctamente.
-[2017-01-17 11:42:23.028233] [info] Envio de correo del pedido: 677698461971 al cliente enviado correctamente.
-[2017-01-17 12:00:24.622016] [info] 856275483228
-[2017-01-17 12:00:24.622134] [info] El pedido con codigo:  856275483228 se le ha denegado el pago
-[2017-01-17 21:05:06.655409] [info] 808725337917
-[2017-01-17 21:05:06.798820] [info] Envio de correo del pedido: 808725337917 al comprador enviado correctamente.
-[2017-01-17 21:05:06.912388] [info] Envio de correo del pedido: 808725337917 al cliente enviado correctamente.
