@@ -1,0 +1,3 @@
+[2017-01-27 10:12:02.978189] [info] 700315536463
+[2017-01-27 10:12:03.105612] [info] Envio de correo del pedido: 700315536463 al comprador enviado correctamente.
+[2017-01-27 10:12:03.215728] [info] Envio de correo del pedido: 700315536463 al cliente enviado correctamente.

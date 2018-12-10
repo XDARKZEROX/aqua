@@ -1,0 +1,14 @@
+[2018-03-10 6:23:52.176493] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rawmon2017@gmail.com'
+    nombre: 'Monica'
+    apellido: 'Chacon'
+    empresa: ''
+    telefono: '600286722'
+    direccion: 'Misericordia 61'
+    provincia: 'Barcelona'
+    ciudad: 'Cerdanyola'
+    postalcode: '08290'
+    factura: 'Envio de Lunes a Viernes de 10 a 13 30 por favor'
+[2018-03-10 6:25:33.881181] [info] 627919297143
+[2018-03-10 6:25:34.004549] [info] Envio de correo del pedido: 627919297143 al comprador enviado correctamente.
+[2018-03-10 6:25:34.060425] [info] Envio de correo del pedido: 627919297143 al cliente enviado correctamente.

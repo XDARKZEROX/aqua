@@ -1,0 +1,50 @@
+[2017-11-16 7:55:03.906114] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'secretaria@praxislgconsultores.com'
+    nombre: 'Lucia'
+    apellido: 'Gato'
+    empresa: 'LUCIA GATO CONSULTORES, S.L.'
+    telefono: '943013683'
+    direccion: 'Zuatzu Kalea, 6 - 2ª Planta. Oficina 5. Edificio Bidasoa. Parque Empresarial Zuatzu'
+    provincia: 'Gipuzkoa'
+    ciudad: 'SanSebastian'
+    postalcode: '20018'
+    factura: ''
+[2017-11-16 7:56:00.007549] [info] 876708846603
+[2017-11-16 7:56:00.149719] [info] Envio de correo del pedido: 876708846603 al comprador enviado correctamente.
+[2017-11-16 7:56:00.198427] [info] Envio de correo del pedido: 876708846603 al cliente enviado correctamente.
+[2017-11-16 14:03:50.282601] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'moreennoo@hotmail.com'
+    nombre: 'david '
+    apellido: 'horna luque'
+    empresa: 'daviddt'
+    telefono: '606848721'
+    direccion: 'C/ sant albert 37b'
+    provincia: 'Barcelona'
+    ciudad: 'lliça de vall  (can prat)'
+    postalcode: '08185'
+    factura: ''
+[2017-11-16 16:56:34.607284] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'helenuelar@hotmail.com'
+    nombre: 'Elena'
+    apellido: 'Rodriguez collazo'
+    empresa: ''
+    telefono: '620906911'
+    direccion: 'Calle costa brava 22 esc dch 7C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid '
+    postalcode: '28034'
+    factura: ''
+[2017-11-16 16:57:35.165534] [info] 525729189136
+[2017-11-16 16:57:35.439593] [info] Envio de correo del pedido: 525729189136 al comprador enviado correctamente.
+[2017-11-16 16:57:35.521900] [info] Envio de correo del pedido: 525729189136 al cliente enviado correctamente.
+[2017-11-16 16:58:50.310714] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'helenuelar@hotmail.com'
+    nombre: 'Elena'
+    apellido: 'Rodriguez collazo'
+    empresa: ''
+    telefono: '620906911'
+    direccion: 'Calle costa brava 22 esc dch 7C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid '
+    postalcode: '28034'
+    factura: ''

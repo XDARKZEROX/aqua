@@ -1,0 +1,28 @@
+[2018-02-22 7:58:39.898185] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'santidominguez68@hotmail.com'
+    nombre: 'Santiago'
+    apellido: 'Domínguez Guisado'
+    empresa: ''
+    telefono: '639012180'
+    direccion: 'Avd. Isabel la Catolica 37 entlo2'
+    provincia: 'Barcelona '
+    ciudad: 'LHospitaletdellobregat'
+    postalcode: '08906'
+    factura: ''
+[2018-02-22 8:01:09.315702] [info] 099270855100
+[2018-02-22 8:01:09.444876] [info] Envio de correo del pedido: 099270855100 al comprador enviado correctamente.
+[2018-02-22 8:01:09.511727] [info] Envio de correo del pedido: 099270855100 al cliente enviado correctamente.
+[2018-02-22 12:15:49.885417] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'juanpalomarespalomares@hotmail.es'
+    nombre: 'Juan isidro '
+    apellido: 'Palomares palomares'
+    empresa: ''
+    telefono: '669732472'
+    direccion: 'Calle Capitan Cortés 2'
+    provincia: 'Alicante '
+    ciudad: 'Benidorm '
+    postalcode: '03502'
+    factura: ''
+[2018-02-22 12:19:18.603737] [info] 787478507939
+[2018-02-22 12:19:18.736098] [info] Envio de correo del pedido: 787478507939 al comprador enviado correctamente.
+[2018-02-22 12:19:18.788446] [info] Envio de correo del pedido: 787478507939 al cliente enviado correctamente.

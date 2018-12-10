@@ -1,0 +1,33 @@
+/* ==========================================================================
+	#pjCpComment
+========================================================================== */
+[id^=pjWrapper] .pjCpComment { padding: 15px; background: #7d8381; }
+[id^=pjWrapper] .pjCpCommentTitle { color: #f2f3ee; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpCommentDate { color: #4c4e4d; }
+[id^=pjWrapper] .pjCpCommentStars { color: #1ec290; }
+
+[id^=pjWrapper] .pjCpCommentActions .btn-default { border-color: #d0dad9; background: #d0dad9; color: #1ec290; }
+[id^=pjWrapper] .pjCpCommentActions .btn-default:hover { border-color: #f3f5f4; background: #f3f5f4; color: #1eaf84; }
+
+[id^=pjWrapper] .pjCpCommentActions .text-success { color: #1ec290; }
+[id^=pjWrapper] .pjCpCommentActions .text-danger { color: #4c4e4d; }
+[id^=pjWrapper] .pjCpCommentBody p { color: #4c4e4d; }
+
+/* ==========================================================================
+	#pjCpPagination
+========================================================================== */
+[id^=pjWrapper] .pjCpPagination .pjCpBtn { border-color: #d0dad9; background: #f3f5f4; color: #1eaf84; }
+[id^=pjWrapper] .pjCpPagination .pjCpBtn:hover { border-color: #d0dad9; background: #d0dad9; color: #1ec290; }
+
+[id^=pjWrapper] .pjCpPagination .pjCpBtnCurrent,
+[id^=pjWrapper] .pjCpPagination .pjCpBtnCurrent:hover { background: #1eaf84; color: #fff; }
+
+/* ==========================================================================
+	#pjCpForm
+========================================================================== */
+[id^=pjWrapper] .pjCpForm a { color: #1ec290; }
+[id^=pjWrapper] .pjCpFormTitle { color: #549e87; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpForm p,
+[id^=pjWrapper] .pjCpForm .control-label { color: #4c4e4d; }
+[id^=pjWrapper] .pjCpForm .pjCpBtnPrimary { border-color: #1eaf84; border-width: 2px; background: #1ec290; color: #fff; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpForm .pjCpBtnPrimary:hover { border-color: #1eaf84; background: #1eaf84; color: #fff; }

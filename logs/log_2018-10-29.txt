@@ -1,0 +1,41 @@
+[2018-10-29 10:29:05.660734] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'actionwear@hotmail.es'
+    nombre: 'Mathys International'
+    apellido: 'Heinisuo'
+    empresa: 'MATHYS INTL'
+    telefono: '956678301'
+    direccion: 'Avda Virgen del Carmen 31-33 trasero'
+    provincia: 'Cadiz'
+    ciudad: 'Algeciras'
+    postalcode: '11201'
+    factura: ''
+[2018-10-29 10:32:11.627723] [info] 115508603064
+[2018-10-29 10:32:11.627916] [info] El pedido con codigo:  115508603064 se le ha denegado el pago
+[2018-10-29 10:33:57.097126] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'actionwear@hotmail.es'
+    nombre: 'Matti'
+    apellido: 'Heinisuo'
+    empresa: ''
+    telefono: '956678301'
+    direccion: 'Avda Virgen del Carmen 31-33 trasero'
+    provincia: 'Cadiz'
+    ciudad: 'Algeciras'
+    postalcode: '11201'
+    factura: ''
+[2018-10-29 10:37:12.308243] [info] 964503237181
+[2018-10-29 10:37:12.385570] [info] Envio de correo del pedido: 964503237181 al comprador enviado correctamente.
+[2018-10-29 10:37:12.455966] [info] Envio de correo del pedido: 964503237181 al cliente enviado correctamente.
+[2018-10-29 21:36:37.329282] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'leonor.psique@gmail.com'
+    nombre: 'Leonor'
+    apellido: 'Fernández Mula'
+    empresa: ''
+    telefono: '629642513'
+    direccion: 'San Eusebi 57 ático segunda'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08006'
+    factura: ''
+[2018-10-29 21:40:09.196747] [info] 540290265931
+[2018-10-29 21:40:09.377031] [info] Envio de correo del pedido: 540290265931 al comprador enviado correctamente.
+[2018-10-29 21:40:09.539073] [info] Envio de correo del pedido: 540290265931 al cliente enviado correctamente.

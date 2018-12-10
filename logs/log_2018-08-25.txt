@@ -1,0 +1,14 @@
+[2018-08-25 19:32:44.074158] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'leonor.psique@gmail.com'
+    nombre: 'Leonor'
+    apellido: 'Fernández Mula '
+    empresa: ''
+    telefono: '629642513'
+    direccion: 'San Eusebi 57 ático segunda'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08006'
+    factura: 'Avisar día y hora de entrega '
+[2018-08-25 19:37:22.444530] [info] 382911627470
+[2018-08-25 19:37:22.857806] [info] Envio de correo del pedido: 382911627470 al comprador enviado correctamente.
+[2018-08-25 19:37:23.032176] [info] Envio de correo del pedido: 382911627470 al cliente enviado correctamente.

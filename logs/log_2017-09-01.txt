@@ -1,0 +1,50 @@
+[2017-09-01 6:22:13.715317] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lidia_marton@hotmail.com'
+    nombre: 'Lidia'
+    apellido: 'Marton Bedia'
+    empresa: ''
+    telefono: '636881457'
+    direccion: 'Avd Camilo Alonso Vega 16A - 3ºA, Dentista'
+    provincia: 'Cantabria'
+    ciudad: 'Santander'
+    postalcode: '39007'
+    factura: ''
+[2017-09-01 8:29:15.586352] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'susanylaia@gmail.com'
+    nombre: 'Susana'
+    apellido: 'Madrid'
+    empresa: ''
+    telefono: '650799234'
+    direccion: 'Lluís Millet, 10. 3-3'
+    provincia: 'Barcelona'
+    ciudad: 'Sant Joan Despí '
+    postalcode: '08970'
+    factura: ''
+[2017-09-01 8:29:57.368693] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'susanylaia@gmail.com'
+    nombre: 'Susana'
+    apellido: 'Madrid'
+    empresa: ''
+    telefono: '650799234'
+    direccion: 'Lluís Millet, 10. 3-3'
+    provincia: 'Barcelona'
+    ciudad: 'Sant Joan Despí '
+    postalcode: '08970'
+    factura: ''
+[2017-09-01 8:31:29.423396] [info] 577298704345
+[2017-09-01 8:31:29.545852] [info] Envio de correo del pedido: 577298704345 al comprador enviado correctamente.
+[2017-09-01 8:31:29.612134] [info] Envio de correo del pedido: 577298704345 al cliente enviado correctamente.
+[2017-09-01 10:55:59.914125] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jmvidal900@gmail.com'
+    nombre: 'Jose M '
+    apellido: 'Vidal'
+    empresa: ''
+    telefono: '675901298'
+    direccion: 'C Mar de Alboran 14'
+    provincia: 'Murcia'
+    ciudad: 'LosAlcazares'
+    postalcode: '30710'
+    factura: ''
+[2017-09-01 10:57:36.203677] [info] 036127483659
+[2017-09-01 10:57:36.273592] [info] Envio de correo del pedido: 036127483659 al comprador enviado correctamente.
+[2017-09-01 10:57:36.328942] [info] Envio de correo del pedido: 036127483659 al cliente enviado correctamente.

@@ -1,0 +1,27 @@
+[2017-08-16 9:08:12.149317] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'linfocitoTpeludo@yahoo.com'
+    nombre: 'Borja'
+    apellido: 'Cordón'
+    empresa: ''
+    telefono: '619824931'
+    direccion: 'Calle Jose Ortega y Gasset Portal 8 Piso 2A'
+    provincia: 'Madrid'
+    ciudad: 'AlcaladeHenares'
+    postalcode: '28805'
+    factura: 'Avisar al 619824931 antes de la entrega para confirmar presencia en domicilio Gracias'
+[2017-08-16 9:09:05.931927] [info] 996472688183
+[2017-08-16 9:09:06.054007] [info] Envio de correo del pedido: 996472688183 al comprador enviado correctamente.
+[2017-08-16 9:09:06.120822] [info] Envio de correo del pedido: 996472688183 al cliente enviado correctamente.
+[2017-08-16 14:46:41.457133] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'arnaucreacions@gmail.com'
+    nombre: 'lourdes'
+    apellido: 'auguet'
+    empresa: 'Arnau Creacions'
+    telefono: '615188589'
+    direccion: 'carrer del moli sn  llora '
+    provincia: 'Girona'
+    ciudad: 'girona'
+    postalcode: '17152'
+    factura: ''
+[2017-08-16 14:47:33.913602] [info] Envio de correo del pedido: 340666074393 al comprador enviado correctamente.
+[2017-08-16 14:47:33.981617] [info] Envio de correo del pedido: 340666074393 al cliente enviado correctamente.

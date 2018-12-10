@@ -1,0 +1,50 @@
+[2018-02-18 2:54:28.682718] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kimidue@hotmail.com'
+    nombre: 'ENRIQUE MIGUEL'
+    apellido: 'ARNEDO CORTES'
+    empresa: '44255612R'
+    telefono: '630432840'
+    direccion: 'ARQUITECTO JOSÉ CONTRERAS nº1, 1º A'
+    provincia: 'GRANADA'
+    ciudad: 'GRANADA'
+    postalcode: '18013'
+    factura: ''
+[2018-02-18 2:56:35.148324] [info] 076348514977
+[2018-02-18 2:56:35.273113] [info] Envio de correo del pedido: 076348514977 al comprador enviado correctamente.
+[2018-02-18 2:56:35.331377] [info] Envio de correo del pedido: 076348514977 al cliente enviado correctamente.
+[2018-02-18 19:28:12.169368] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karola.atencio@yahoo.com'
+    nombre: 'Karolina'
+    apellido: 'Atencio'
+    empresa: ''
+    telefono: '663883371'
+    direccion: 'calle mallorca 277'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08037'
+    factura: 'Piso 7 puerta 2'
+[2018-02-18 19:31:39.993196] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karola.atencio@yahoo.com'
+    nombre: 'Karolina'
+    apellido: 'Atencio'
+    empresa: ''
+    telefono: '663883371'
+    direccion: 'Calle mallorca 277'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08037'
+    factura: 'Piso 7 puerta 2'
+[2018-02-18 19:33:34.712294] [info] 992518062285
+[2018-02-18 19:33:34.869493] [info] Envio de correo del pedido: 992518062285 al comprador enviado correctamente.
+[2018-02-18 19:33:34.991286] [info] Envio de correo del pedido: 992518062285 al cliente enviado correctamente.
+[2018-02-18 20:30:49.631741] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ulyanaferre@gmail.com'
+    nombre: 'ulyana'
+    apellido: 'Ferreira Bala'
+    empresa: ''
+    telefono: '622691223'
+    direccion: 'Calle Jose Maria Martinez Cachero 32 2C'
+    provincia: 'ASTURIAS'
+    ciudad: 'OVIEDO'
+    postalcode: '33013'
+    factura: ''

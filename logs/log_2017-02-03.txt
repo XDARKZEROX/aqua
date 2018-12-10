@@ -1,0 +1,6 @@
+[2017-02-03 10:38:59.757591] [info] 197883189088
+[2017-02-03 10:38:59.904009] [info] Envio de correo del pedido: 197883189088 al comprador enviado correctamente.
+[2017-02-03 10:39:00.015238] [info] Envio de correo del pedido: 197883189088 al cliente enviado correctamente.
+[2017-02-03 14:22:00.510387] [info] 203591209692
+[2017-02-03 14:22:00.630222] [info] Envio de correo del pedido: 203591209692 al comprador enviado correctamente.
+[2017-02-03 14:22:00.744930] [info] Envio de correo del pedido: 203591209692 al cliente enviado correctamente.

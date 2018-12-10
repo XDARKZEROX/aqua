@@ -1,0 +1,28 @@
+[2018-02-25 19:45:28.061558] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'luissolemiguel@gmail.com'
+    nombre: 'Luis'
+    apellido: 'sole miguel'
+    empresa: 'TRANGES SIGLO XXI,S.l.U'
+    telefono: '607257452'
+    direccion: 'Paseo Salzereda número , 57 local'
+    provincia: 'Barcelona'
+    ciudad: 'Santa  coloma gramanet'
+    postalcode: '08922'
+    factura: ''
+[2018-02-25 19:47:42.884721] [info] 998399742682
+[2018-02-25 19:47:43.111892] [info] Envio de correo del pedido: 998399742682 al comprador enviado correctamente.
+[2018-02-25 19:47:43.238179] [info] Envio de correo del pedido: 998399742682 al cliente enviado correctamente.
+[2018-02-25 20:15:49.341619] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrillo89@gmail.com'
+    nombre: 'Paula'
+    apellido: 'Carrillo Sanchez'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'Calle Hiedra 28 3 C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28036'
+    factura: 'Entregar en horario de tarde'
+[2018-02-25 20:16:38.973133] [info] 807172827447
+[2018-02-25 20:16:39.072869] [info] Envio de correo del pedido: 807172827447 al comprador enviado correctamente.
+[2018-02-25 20:16:39.126089] [info] Envio de correo del pedido: 807172827447 al cliente enviado correctamente.

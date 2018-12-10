@@ -1,0 +1,11 @@
+[2018-08-16 4:42:14.638649] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jj@cerrajeriamasterkey.com'
+    nombre: 'Jose Juan'
+    apellido: 'LÓPEZ Campos'
+    empresa: ''
+    telefono: '658916943'
+    direccion: 'Bailen 20b'
+    provincia: 'Barcelona'
+    ciudad: 'Paretsdelvalles'
+    postalcode: '08150'
+    factura: ''

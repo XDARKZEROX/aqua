@@ -1,0 +1,68 @@
+SELECT * FROM aquavida.producto;
+
+use aquavida;
+
+DROP TABLE IF EXISTS `producto`;
+CREATE TABLE `producto` (
+  `code` int(11) NOT NULL,
+  `title` varchar(150) NOT NULL,
+  `description` varchar(500) NOT NULL,
+  `price` decimal(5,2) NOT NULL ,
+  `image` varchar(150) null,
+  `estimatedTime` varchar(250) null,
+  'estado' char(1) not null
+
+  PRIMARY KEY (`code`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+insert into `producto` VALUES ('101','AquaFit PH9+','AquaFit PH9 es un agua de alto rendimiento, sin los azucares ni calorías que se encuentran normalmente en las bebidas deportivas. Una combinación de electrolitos y un alto PH ( potencial de hidrogeno) de grado 9 que le da los elementos clave para ayudar a recuperar y a equilibrar tu cuerpo durante el ejercicio intenso.<br>Caja de 24 botellas.',
+28.80,'images/botella_detalle.jpg','Tiempo de entrega: 5 - 6 días hábiles','1');
+
+DROP TABLE IF EXISTS `tbCliente`;
+CREATE TABLE tbCliente
+(
+	iIdCliente INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+	vEmail VARCHAR(250) NULL,
+	vNombre VARCHAR(250) NULL,
+	vApellido VARCHAR(250) NULL,
+	vEmpresa VARCHAR(250) NULL,
+	vTelefono VARCHAR(250) NULL,
+	vProvincia VARCHAR(250) NULL,
+	vCiudad VARCHAR(250) NULL,
+	vCodigoPostal VARCHAR(250) NULL,
+	vDireccionEnvio VARCHAR(250) NULL,
+    vDireccionFactura VARCHAR(250) NULL
+);
+
+DROP TABLE IF EXISTS `tbFactura`;
+CREATE TABLE tbFactura
+(
+	iIdFactura INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+	vNumeroPedido VARCHAR(12),
+	iIdCliente INT,
+	dCostoEnvio DECIMAL(18,2),
+    dSubtotal DECIMAL(18,2),
+    dTotalPagar DECIMAL(18,2),
+    dFechaCompra DATE,
+    vIdenComercio VARCHAR(9),
+    vTipoTarjeta CHAR(1),
+    vEstadoPedido CHAR(1),
+
+    CONSTRAINT FOREIGN KEY (iIdCliente) REFERENCES tbCliente (iIdCliente)
+);
+
+DROP TABLE IF EXISTS `tbDetalleFactura`;
+CREATE TABLE tbDetalleFactura
+(
+	iIdDetalleFactura INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+	iIdFactura INT,
+    vNombreProducto VARCHAR(250),
+	iIdProducto INT,
+	iNumCaja INT,
+    dprecioUnitario DECIMAL(18,2),
+
+    CONSTRAINT FOREIGN KEY (iIdFactura) REFERENCES tbFactura (iIdFactura),
+    CONSTRAINT FOREIGN KEY (iIdProducto) REFERENCES producto (code)
+);
+<!--<form action="<?php echo $TPV->getPath('/realizarPago');?>" method="post" target="_blank">-->
+<!-- <?php echo $TPV->getFormHiddens();?>-->

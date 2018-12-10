@@ -1,0 +1,14 @@
+[2018-11-25 15:22:31.923013] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'luismiguel@luismiguelsegui.com'
+    nombre: 'Luis Miguel '
+    apellido: 'Seguí Morero'
+    empresa: 'Seguí Moreno SL'
+    telefono: '609686214'
+    direccion: 'Relatores 20 tercero B'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28012'
+    factura: 'Llamar antes de entregar trabajo fuera 609686214'
+[2018-11-25 15:24:56.015131] [info] 315057645586
+[2018-11-25 15:24:56.136151] [info] Envio de correo del pedido: 315057645586 al comprador enviado correctamente.
+[2018-11-25 15:24:56.236860] [info] Envio de correo del pedido: 315057645586 al cliente enviado correctamente.

@@ -1,0 +1,32 @@
+/* ==========================================================================
+	#pjCpComment
+========================================================================== */
+[id^=pjWrapper] .pjCpCommentTitle { color: #54b071; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpCommentDate { color: #4d4f4e; }
+[id^=pjWrapper] .pjCpCommentStars { color: #54b071; }
+
+[id^=pjWrapper] .pjCpCommentActions .btn-default { border-color: #d7dacf; background: #e3e3e1; color: #54b071; }
+[id^=pjWrapper] .pjCpCommentActions .btn-default:hover { border-color: #d7dacf; background: #d7dacf; color: #54b071; }
+
+[id^=pjWrapper] .pjCpCommentActions .text-success { color: #54b071; }
+[id^=pjWrapper] .pjCpCommentActions .text-danger { color: #3e3838; }
+[id^=pjWrapper] .pjCpCommentBody p { color: #4d4f4e; }
+
+/* ==========================================================================
+	#pjCpPagination
+========================================================================== */
+[id^=pjWrapper] .pjCpPagination .pjCpBtn { border-color: #d7dacf; background: #e3e3e1; color: #54b071; }
+[id^=pjWrapper] .pjCpPagination .pjCpBtn:hover { border-color: #d7dacf; background: #d7dacf; color: #54b071; }
+
+[id^=pjWrapper] .pjCpPagination .pjCpBtnCurrent,
+[id^=pjWrapper] .pjCpPagination .pjCpBtnCurrent:hover { background: #54b071; color: #fff; }
+
+/* ==========================================================================
+	#pjCpForm
+========================================================================== */
+[id^=pjWrapper] .pjCpForm a { color: #77a63e; }
+[id^=pjWrapper] .pjCpFormTitle { color: #54b071; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpForm p,
+[id^=pjWrapper] .pjCpForm .control-label { color: #4d4f4e; }
+[id^=pjWrapper] .pjCpForm .pjCpBtnPrimary { border-color: #77a63e; background: #9acf5b; color: #fff; }
+[id^=pjWrapper] .pjCpForm .pjCpBtnPrimary:hover { border-color: #77a63e; background: #77a63e; color: #fff; }

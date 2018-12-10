@@ -1,0 +1,27 @@
+[2017-10-26 10:18:53.229736] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'carmenmorav@yahoo.es'
+    nombre: 'carmen'
+    apellido: 'mora vazquez'
+    empresa: 'oarticular'
+    telefono: '687490119'
+    direccion: 'calle abora n 10 portal 2 3b'
+    provincia: 'tenerife'
+    ciudad: 'santa cruz'
+    postalcode: '38111'
+    factura: ''
+[2017-10-26 10:19:31.353163] [info] Envio de correo del pedido: 127362473535 al comprador enviado correctamente.
+[2017-10-26 10:19:31.397655] [info] Envio de correo del pedido: 127362473535 al cliente enviado correctamente.
+[2017-10-26 11:08:12.837523] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrillo89@gmail.com'
+    nombre: 'Paula'
+    apellido: 'Carrillo Sanchez'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'Calle Hiedra 28 3C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28036'
+    factura: 'Entregar a partir de las 14h por favor '
+[2017-10-26 11:10:22.330420] [info] 962133543804
+[2017-10-26 11:10:22.411348] [info] Envio de correo del pedido: 962133543804 al comprador enviado correctamente.
+[2017-10-26 11:10:22.469351] [info] Envio de correo del pedido: 962133543804 al cliente enviado correctamente.

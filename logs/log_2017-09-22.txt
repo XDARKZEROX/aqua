@@ -1,0 +1,14 @@
+[2017-09-22 14:28:54.716419] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karme32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Miró Flor'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: ''
+[2017-09-22 14:30:58.302337] [info] 225480608231
+[2017-09-22 14:30:58.418658] [info] Envio de correo del pedido: 225480608231 al comprador enviado correctamente.
+[2017-09-22 14:30:58.515311] [info] Envio de correo del pedido: 225480608231 al cliente enviado correctamente.

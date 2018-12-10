@@ -1,0 +1,11 @@
+[2017-10-03 16:05:14.406737] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pakisy-20@hotmail.com'
+    nombre: 'Paqui'
+    apellido: 'Ruiz '
+    empresa: ''
+    telefono: '645321127'
+    direccion: 'Ctra De la Roda (Tucumán'
+    provincia: 'Malaga'
+    ciudad: 'Navahermosa'
+    postalcode: '29329'
+    factura: 'Agricentro malaga '

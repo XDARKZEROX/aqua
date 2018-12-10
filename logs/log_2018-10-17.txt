@@ -1,0 +1,39 @@
+[2018-10-17 5:48:41.132539] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mathiuss2009@hotmail.com'
+    nombre: 'Matilde'
+    apellido: 'Largo'
+    empresa: ''
+    telefono: '617337105'
+    direccion: 'Calle MANRESA, 12 - Piso 3'
+    provincia: 'Navarra '
+    ciudad: 'Tudela'
+    postalcode: '31500'
+    factura: 'Llamar antes de la entrega '
+[2018-10-17 6:09:48.720443] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mathiuss2009@hotmail.com'
+    nombre: 'Matilde'
+    apellido: 'Largo'
+    empresa: ''
+    telefono: '617337105'
+    direccion: 'Calle MANRESA, 12 - Piso 3'
+    provincia: 'Navarra '
+    ciudad: 'Tudela'
+    postalcode: '31500'
+    factura: 'Llamar antes de la entrega '
+[2018-10-17 6:11:01.142899] [info] 233076391478
+[2018-10-17 6:11:01.242888] [info] Envio de correo del pedido: 233076391478 al comprador enviado correctamente.
+[2018-10-17 6:11:01.295234] [info] Envio de correo del pedido: 233076391478 al cliente enviado correctamente.
+[2018-10-17 7:52:54.148462] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'info@thebikinibox.net'
+    nombre: 'VIVIEN'
+    apellido: 'PONTZSCH'
+    empresa: 'THE BIKINI BOX'
+    telefono: '652734514'
+    direccion: 'PIRINEO 16A'
+    provincia: 'CERDANYOLA'
+    ciudad: 'CERDANYOLA'
+    postalcode: '08290'
+    factura: ''
+[2018-10-17 7:54:02.099109] [info] 491376349399
+[2018-10-17 7:54:02.173834] [info] Envio de correo del pedido: 491376349399 al comprador enviado correctamente.
+[2018-10-17 7:54:02.226516] [info] Envio de correo del pedido: 491376349399 al cliente enviado correctamente.

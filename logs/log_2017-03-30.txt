@@ -1,0 +1,12 @@
+[2017-03-30 9:08:22.377552] [info] 814036899927
+[2017-03-30 9:08:22.486155] [info] Envio de correo del pedido: 814036899927 al comprador enviado correctamente.
+[2017-03-30 9:08:22.552900] [info] Envio de correo del pedido: 814036899927 al cliente enviado correctamente.
+[2017-03-30 12:26:12.494345] [info] 945715394382
+[2017-03-30 12:26:12.602222] [info] Envio de correo del pedido: 945715394382 al comprador enviado correctamente.
+[2017-03-30 12:26:12.673078] [info] Envio de correo del pedido: 945715394382 al cliente enviado correctamente.
+[2017-03-30 18:28:20.521435] [info] 040631637993
+[2017-03-30 18:28:20.681993] [info] Envio de correo del pedido: 040631637993 al comprador enviado correctamente.
+[2017-03-30 18:28:20.749303] [info] Envio de correo del pedido: 040631637993 al cliente enviado correctamente.
+[2017-03-30 20:09:22.353868] [info] 770967465596
+[2017-03-30 20:09:22.466676] [info] Envio de correo del pedido: 770967465596 al comprador enviado correctamente.
+[2017-03-30 20:09:22.555013] [info] Envio de correo del pedido: 770967465596 al cliente enviado correctamente.

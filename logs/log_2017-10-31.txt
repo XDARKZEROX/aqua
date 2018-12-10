@@ -1,0 +1,67 @@
+[2017-10-31 6:44:54.381791] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'player--one@hotmail.com'
+    nombre: 'daniel '
+    apellido: 'ruiz olea'
+    empresa: 'essential hair salon '
+    telefono: '620686163'
+    direccion: 'avenida imperio argentina 6 local 6   essential hair salon'
+    provincia: 'malaga'
+    ciudad: 'malaga'
+    postalcode: '29004'
+    factura: 'peluquería essential hair salon'
+[2017-10-31 6:47:00.767093] [info] 110565007547
+[2017-10-31 6:47:00.911345] [info] Envio de correo del pedido: 110565007547 al comprador enviado correctamente.
+[2017-10-31 6:47:01.064210] [info] Envio de correo del pedido: 110565007547 al cliente enviado correctamente.
+[2017-10-31 11:32:57.790571] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'alex@elarcangel.com'
+    nombre: 'Alejandro'
+    apellido: 'Sánchez Bueno'
+    empresa: ''
+    telefono: '639076806'
+    direccion: 'Antonio López 234, Esc. H Ático B'
+    provincia: 'Comunidad de Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28026'
+    factura: ''
+[2017-10-31 11:36:05.191206] [info] 133202771094
+[2017-10-31 11:36:05.424274] [info] Envio de correo del pedido: 133202771094 al comprador enviado correctamente.
+[2017-10-31 11:36:05.607702] [info] Envio de correo del pedido: 133202771094 al cliente enviado correctamente.
+[2017-10-31 16:10:27.152381] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'd.calero1@gmail.com'
+    nombre: 'Diego'
+    apellido: 'Calero montoya'
+    empresa: 'S2 Fitness'
+    telefono: '647102566'
+    direccion: 'Doctor Fleming 3 polígono industrial'
+    provincia: 'Albacete'
+    ciudad: 'Villarrobledo'
+    postalcode: '02600'
+    factura: ''
+[2017-10-31 16:12:36.021404] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'd.calero1@gmail.com'
+    nombre: 'Diego'
+    apellido: 'Calero montoya'
+    empresa: 'S2 fitness'
+    telefono: '647102566'
+    direccion: 'Doctor Fleming 3'
+    provincia: 'Albacete'
+    ciudad: 'Villarrobledo '
+    postalcode: '02600'
+    factura: 'Por la mañana entrega'
+[2017-10-31 16:15:45.591156] [info] 293552628975
+[2017-10-31 16:15:45.745548] [info] Envio de correo del pedido: 293552628975 al comprador enviado correctamente.
+[2017-10-31 16:15:45.806022] [info] Envio de correo del pedido: 293552628975 al cliente enviado correctamente.
+[2017-10-31 20:47:50.605015] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'intuish@gmail.com'
+    nombre: 'alejandro'
+    apellido: 'ibañez souptes'
+    empresa: ''
+    telefono: '644218702'
+    direccion: 'urb. la basilica 27'
+    provincia: 'murcia'
+    ciudad: 'algezares'
+    postalcode: '30157'
+    factura: ''
+[2017-10-31 20:53:00.760094] [info] 557857974575
+[2017-10-31 20:53:01.638554] [info] Envio de correo del pedido: 557857974575 al comprador enviado correctamente.
+[2017-10-31 20:53:01.767944] [info] Envio de correo del pedido: 557857974575 al cliente enviado correctamente.

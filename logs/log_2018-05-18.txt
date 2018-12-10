@@ -1,0 +1,11 @@
+[2018-05-18 18:48:25.614820] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'irene.guzman.aritzeta@gmail.com'
+    nombre: 'Irene'
+    apellido: 'Guzman'
+    empresa: ''
+    telefono: '722340886'
+    direccion: 'Dolors Bigas 14 3 2'
+    provincia: 'Barcelona'
+    ciudad: 'SantCugat'
+    postalcode: '08174'
+    factura: ''

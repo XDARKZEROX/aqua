@@ -1,0 +1,14 @@
+[2018-05-03 13:58:34.792586] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'luky65@msn.com'
+    nombre: 'ignacio '
+    apellido: 'aduriz recalde'
+    empresa: ''
+    telefono: '652691362'
+    direccion: 'plaza san esteban 13  2'
+    provincia: 'guipuzkoa'
+    ciudad: 'oiartzun'
+    postalcode: '20180'
+    factura: ''
+[2018-05-03 14:11:57.540539] [info] 189927002019
+[2018-05-03 14:11:57.819664] [info] Envio de correo del pedido: 189927002019 al comprador enviado correctamente.
+[2018-05-03 14:11:58.203525] [info] Envio de correo del pedido: 189927002019 al cliente enviado correctamente.

@@ -1,0 +1,28 @@
+[2018-08-02 9:35:25.905386] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'costel_gabriel@hotmail.com'
+    nombre: 'Costel'
+    apellido: 'Sefer'
+    empresa: 'COSTEL Gabriel Sefer'
+    telefono: '627399528'
+    direccion: 'Calle Menasalbas nr 10'
+    provincia: 'San Pablo De Los Montes'
+    ciudad: 'San Pablo De Los Montes'
+    postalcode: '45120'
+    factura: 'Si no estamos en casa le pude dejar el paquete al vecino de la tienda de la casa nr 14Gracias'
+[2018-08-02 9:37:13.070744] [info] 226091396421
+[2018-08-02 9:37:13.201603] [info] Envio de correo del pedido: 226091396421 al comprador enviado correctamente.
+[2018-08-02 9:37:13.260976] [info] Envio de correo del pedido: 226091396421 al cliente enviado correctamente.
+[2018-08-02 14:17:43.164450] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ani_ch93@hotmail.com'
+    nombre: 'Ani'
+    apellido: 'Chakhoyan'
+    empresa: 'Bar kebab carolina'
+    telefono: '911738228'
+    direccion: 'Juan gris n1 portal 3 2b'
+    provincia: 'Torrejon de ardoz'
+    ciudad: 'Torrejon de ardoz'
+    postalcode: '28850'
+    factura: ''
+[2018-08-02 14:19:02.502209] [info] 996052643272
+[2018-08-02 14:19:02.573591] [info] Envio de correo del pedido: 996052643272 al comprador enviado correctamente.
+[2018-08-02 14:19:02.627747] [info] Envio de correo del pedido: 996052643272 al cliente enviado correctamente.

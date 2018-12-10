@@ -1,0 +1,39 @@
+[2017-10-08 18:05:28.157320] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'elpesca_sd@hotmail.com'
+    nombre: 'Santiago'
+    apellido: 'Domínguez Guisado'
+    empresa: ''
+    telefono: '639012180'
+    direccion: 'Avd. Isabel la Catolica 37 entlo2'
+    provincia: 'Barcelona'
+    ciudad: 'LHospitaletdeLlobregat'
+    postalcode: '08906'
+    factura: ''
+[2017-10-08 18:07:43.497800] [info] 562875623215
+[2017-10-08 18:07:43.563635] [info] Envio de correo del pedido: 562875623215 al comprador enviado correctamente.
+[2017-10-08 18:07:43.628468] [info] Envio de correo del pedido: 562875623215 al cliente enviado correctamente.
+[2017-10-08 22:41:11.270987] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anareutter@gmail.com'
+    nombre: 'Ana'
+    apellido: 'Reutter Reinking'
+    empresa: ''
+    telefono: '665984132'
+    direccion: 'Marques de la Ensenada 16 apartamento 510'
+    provincia: 'Madrid '
+    ciudad: 'Madrid'
+    postalcode: '28004'
+    factura: ''
+[2017-10-08 22:44:34.012393] [info] 290849121048
+[2017-10-08 22:44:34.082742] [info] Envio de correo del pedido: 290849121048 al comprador enviado correctamente.
+[2017-10-08 22:44:34.149522] [info] Envio de correo del pedido: 290849121048 al cliente enviado correctamente.
+[2017-10-08 23:56:37.977797] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'marthahaces@hotmail.com'
+    nombre: 'Martha'
+    apellido: 'Haces '
+    empresa: ''
+    telefono: '654499452'
+    direccion: 'Goya 67 Piso 4 '
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28001'
+    factura: ''

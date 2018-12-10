@@ -1,0 +1,67 @@
+[2017-08-08 8:48:10.964127] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rufinoalonso@gmail.com'
+    nombre: 'RUFINO'
+    apellido: 'ALONSO'
+    empresa: ''
+    telefono: '609439801'
+    direccion: 'Plaza Monasterio de San Benito 2 2B'
+    provincia: 'VALLADOLID'
+    ciudad: 'VALLADOLID'
+    postalcode: '47015'
+    factura: 'Sólo podemos recibirlo por las tardes Muchas gracias de antemano'
+[2017-08-08 8:48:57.364487] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rufinoalonso@gmail.com'
+    nombre: 'RUFINO'
+    apellido: 'ALONSO'
+    empresa: ''
+    telefono: '609439801'
+    direccion: 'Plaza Monasterio de San Benito 2 2B'
+    provincia: 'VALLADOLID'
+    ciudad: 'VALLADOLID'
+    postalcode: '47015'
+    factura: 'Sólo podemos recibirlo por las tardes Muchas gracias de antemano'
+[2017-08-08 8:57:23.578783] [info] 532332882930
+[2017-08-08 8:57:23.723314] [info] Envio de correo del pedido: 532332882930 al comprador enviado correctamente.
+[2017-08-08 8:57:23.780051] [info] Envio de correo del pedido: 532332882930 al cliente enviado correctamente.
+[2017-08-08 9:35:13.015826] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Adriangf1993@gmail.com'
+    nombre: 'ADRIAN '
+    apellido: 'GONZALEZ FRANCO'
+    empresa: ''
+    telefono: '633200074'
+    direccion: 'CAMINO DO LODAIRO 113'
+    provincia: 'CORUNA'
+    ciudad: 'NARON'
+    postalcode: '15570'
+    factura: ''
+[2017-08-08 9:36:54.734255] [info] 495541158157
+[2017-08-08 9:36:54.837642] [info] Envio de correo del pedido: 495541158157 al comprador enviado correctamente.
+[2017-08-08 9:36:54.889986] [info] Envio de correo del pedido: 495541158157 al cliente enviado correctamente.
+[2017-08-08 17:21:35.845403] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jorgejuanmonreal@yahoo.es'
+    nombre: 'jorge'
+    apellido: 'monreal'
+    empresa: 'usa nutrition international'
+    telefono: '692048343'
+    direccion: 'clot mingot 8     3C'
+    provincia: 'alicante'
+    ciudad: 'altea'
+    postalcode: '03590'
+    factura: ''
+[2017-08-08 17:23:05.747927] [info] 425308707165
+[2017-08-08 17:23:05.910049] [info] Envio de correo del pedido: 425308707165 al comprador enviado correctamente.
+[2017-08-08 17:23:05.988842] [info] Envio de correo del pedido: 425308707165 al cliente enviado correctamente.
+[2017-08-08 22:01:48.172744] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'helenafrade@mac.com'
+    nombre: 'Helena'
+    apellido: 'Frade'
+    empresa: 'Shen Art Box'
+    telefono: '663476997'
+    direccion: 'Libra 10 A'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28023'
+    factura: ''
+[2017-08-08 22:04:02.004095] [info] 967751847062
+[2017-08-08 22:04:02.071348] [info] Envio de correo del pedido: 967751847062 al comprador enviado correctamente.
+[2017-08-08 22:04:02.117070] [info] Envio de correo del pedido: 967751847062 al cliente enviado correctamente.

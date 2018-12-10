@@ -1,0 +1,14 @@
+[2017-12-10 9:17:12.484723] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'helenuelar@hotmail.com'
+    nombre: 'Elena'
+    apellido: 'Rodríguez Collazo '
+    empresa: ''
+    telefono: '620906911'
+    direccion: 'Calle costa brava 22 eso dcha 7C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28034'
+    factura: ''
+[2017-12-10 9:18:16.992325] [info] 008999086419
+[2017-12-10 9:18:17.122987] [info] Envio de correo del pedido: 008999086419 al comprador enviado correctamente.
+[2017-12-10 9:18:17.285053] [info] Envio de correo del pedido: 008999086419 al cliente enviado correctamente.

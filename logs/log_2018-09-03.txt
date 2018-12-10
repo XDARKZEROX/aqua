@@ -1,0 +1,14 @@
+[2018-09-03 9:10:22.644678] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'azuparedes@gmaill.com'
+    nombre: 'Azucena'
+    apellido: 'Martin Paredes'
+    empresa: ''
+    telefono: '609748437'
+    direccion: 'Calle Santa Maria Magdalena 20 bajo escalera derecha'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28016'
+    factura: 'Por favor entregar de nueve a una o a partir de las cuatro'
+[2018-09-03 9:12:22.979140] [info] 586997265066
+[2018-09-03 9:12:23.385533] [info] Envio de correo del pedido: 586997265066 al comprador enviado correctamente.
+[2018-09-03 9:12:23.451631] [info] Envio de correo del pedido: 586997265066 al cliente enviado correctamente.

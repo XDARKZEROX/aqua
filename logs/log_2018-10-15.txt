@@ -1,0 +1,42 @@
+[2018-10-15 11:41:41.477729] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'magisa1966@hotmail.com'
+    nombre: 'Manuel'
+    apellido: 'Salvatierra'
+    empresa: 'Cafetería Cory'
+    telefono: '687429902'
+    direccion: 'avenida virgen del carmen 31 ,(cafeteria Cory)'
+    provincia: 'Algeciras'
+    ciudad: 'Algeciras'
+    postalcode: '11203'
+    factura: 'Entregar a corina'
+[2018-10-15 11:43:51.053906] [info] 658664928015
+[2018-10-15 11:43:51.409462] [info] Envio de correo del pedido: 658664928015 al comprador enviado correctamente.
+[2018-10-15 11:43:51.757534] [info] Envio de correo del pedido: 658664928015 al cliente enviado correctamente.
+[2018-10-15 12:22:10.325512] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jmvidal900@gmail.com'
+    nombre: 'Jose M '
+    apellido: 'Vidal'
+    empresa: ''
+    telefono: '675901298'
+    direccion: 'Calle Mar de Alboran 14'
+    provincia: 'Murcia'
+    ciudad: 'LosAlcazares'
+    postalcode: '30710'
+    factura: ''
+[2018-10-15 12:23:59.927314] [info] 397752266024
+[2018-10-15 12:24:00.008572] [info] Envio de correo del pedido: 397752266024 al comprador enviado correctamente.
+[2018-10-15 12:24:00.085263] [info] Envio de correo del pedido: 397752266024 al cliente enviado correctamente.
+[2018-10-15 19:10:22.696969] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rosapadin1@hotmail.com'
+    nombre: 'ROSA'
+    apellido: 'PADIN PINEIRO'
+    empresa: ''
+    telefono: '667571289'
+    direccion: 'AVDA CONSTITUCION 91 PRIMERO D'
+    provincia: 'CORUA'
+    ciudad: 'BOIRO'
+    postalcode: '15930'
+    factura: ''
+[2018-10-15 19:13:54.672499] [info] 279770654701
+[2018-10-15 19:13:54.862907] [info] Envio de correo del pedido: 279770654701 al comprador enviado correctamente.
+[2018-10-15 19:13:55.085268] [info] Envio de correo del pedido: 279770654701 al cliente enviado correctamente.

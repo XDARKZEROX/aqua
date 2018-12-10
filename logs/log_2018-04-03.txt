@@ -1,0 +1,28 @@
+[2018-04-03 12:16:17.362976] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kwtaylor83@gmail.com'
+    nombre: 'Keith'
+    apellido: 'Taylor'
+    empresa: ''
+    telefono: '625828798'
+    direccion: 'Calle Estocolm 3 Entresuelo 2'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08005'
+    factura: ''
+[2018-04-03 12:17:53.761616] [info] 272189142146
+[2018-04-03 12:17:53.899069] [info] Envio de correo del pedido: 272189142146 al comprador enviado correctamente.
+[2018-04-03 12:17:54.081859] [info] Envio de correo del pedido: 272189142146 al cliente enviado correctamente.
+[2018-04-03 21:09:01.189169] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pere.gomez.castell@gmail.com'
+    nombre: 'Pere'
+    apellido: 'Gómez Castell'
+    empresa: ''
+    telefono: '656334946'
+    direccion: 'carrer Bigai 11 entlo 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08022'
+    factura: 'si no hay nadie en casa dejarlo al Sr portero'
+[2018-04-03 21:10:57.308960] [info] 626430321398
+[2018-04-03 21:10:57.421238] [info] Envio de correo del pedido: 626430321398 al comprador enviado correctamente.
+[2018-04-03 21:10:57.473951] [info] Envio de correo del pedido: 626430321398 al cliente enviado correctamente.

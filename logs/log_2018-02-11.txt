@@ -1,0 +1,14 @@
+[2018-02-11 17:43:18.769026] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nuriaalbendin@hotmail.com'
+    nombre: 'ANTONIO'
+    apellido: 'ALBENDIN GARCA'
+    empresa: 'TALLER ALBENDIN'
+    telefono: '666449491'
+    direccion: 'CALLE BOQUETILLO LOCAL 3 '
+    provincia: 'MALAGA'
+    ciudad: 'FUENGIROLA'
+    postalcode: '29640'
+    factura: ''
+[2018-02-11 17:44:35.612701] [info] 173787590466
+[2018-02-11 17:44:35.734615] [info] Envio de correo del pedido: 173787590466 al comprador enviado correctamente.
+[2018-02-11 17:44:35.873119] [info] Envio de correo del pedido: 173787590466 al cliente enviado correctamente.

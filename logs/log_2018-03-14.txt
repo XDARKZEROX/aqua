@@ -1,0 +1,11 @@
+[2018-03-14 19:03:21.624269] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'l.toledo.n@gmail.com'
+    nombre: 'Leonardo'
+    apellido: 'Toledo'
+    empresa: 'Particular'
+    telefono: '004917660907473'
+    direccion: 'Heideweg, 43'
+    provincia: 'NRW'
+    ciudad: 'Ibbenbüren'
+    postalcode: '49477'
+    factura: ''

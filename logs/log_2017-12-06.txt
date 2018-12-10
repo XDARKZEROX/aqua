@@ -1,0 +1,56 @@
+[2017-12-06 12:27:42.417304] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'c.berettacustodio@gmail.com'
+    nombre: 'cleber'
+    apellido: 'beretta'
+    empresa: ''
+    telefono: '609750587'
+    direccion: 'Paseo de Somosierra 56'
+    provincia: 'madrid'
+    ciudad: 'trescantos'
+    postalcode: '28760'
+    factura: ''
+[2017-12-06 12:30:33.306977] [info] 503407190516
+[2017-12-06 12:30:33.528222] [info] Envio de correo del pedido: 503407190516 al comprador enviado correctamente.
+[2017-12-06 12:30:33.712351] [info] Envio de correo del pedido: 503407190516 al cliente enviado correctamente.
+[2017-12-06 16:02:56.651638] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lilimarcalderon@hotmail.com'
+    nombre: 'liliana'
+    apellido: 'aguirre'
+    empresa: ''
+    telefono: '636658330'
+    direccion: 'carretera Alcazar km2 Cuenca nave azulejos Rafa POLIGONO INDUSTRIAL'
+    provincia: 'CUENCA'
+    ciudad: 'CUENCA'
+    postalcode: '16002'
+    factura: 'la casa queda al lado en la parte de atrás de azulejos rafa portón rojo fente a la gasolinera hermano nuno'
+[2017-12-06 16:09:26.330830] [info] 124259822132
+[2017-12-06 16:09:26.457530] [info] Envio de correo del pedido: 124259822132 al comprador enviado correctamente.
+[2017-12-06 16:09:26.537204] [info] Envio de correo del pedido: 124259822132 al cliente enviado correctamente.
+[2017-12-06 19:13:35.799993] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'dra.pirone@gmail.com'
+    nombre: 'Maria Augusta '
+    apellido: 'Pirone'
+    empresa: ''
+    telefono: '600861915'
+    direccion: 'Carrer de Vidal i de Valenciano n19 piso 1 puerta 3 '
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08005'
+    factura: 'Pedir al portero si no hay nadie que reciba por favor el pedido '
+[2017-12-06 19:14:56.601577] [info] 707594666936
+[2017-12-06 19:14:56.778834] [info] Envio de correo del pedido: 707594666936 al comprador enviado correctamente.
+[2017-12-06 19:14:56.828546] [info] Envio de correo del pedido: 707594666936 al cliente enviado correctamente.
+[2017-12-06 19:44:48.113822] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karme32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Flor'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: ''
+[2017-12-06 19:50:36.167067] [info] 396270096429
+[2017-12-06 19:50:36.304985] [info] Envio de correo del pedido: 396270096429 al comprador enviado correctamente.
+[2017-12-06 19:50:36.350693] [info] Envio de correo del pedido: 396270096429 al cliente enviado correctamente.

@@ -1,0 +1,375 @@
+@CHARSET "UTF-8";
+
+.pc-container a:link, .pc-container a:visited, .pc-container a:hover{
+	color: #2fa6ce;
+}
+
+/* comment list */
+.pc-comment-list{
+	overflow: hidden;
+	margin-bottom: 40px;
+}
+.pc-comment-box{
+	overflow: hidden;
+	border: 1px solid #ede5da;
+	background-color: #f5f2ed;
+	border-radius: 5px 5px 5px 5px;
+	margin-bottom: 20px;
+	color: #716e67;
+}
+.pc-comment-box .heading{
+	overflow: hidden;
+	background-color: #fcf9f4;
+	padding: 12px 6px 4px 12px;
+}
+.pc-comment-box .heading .comment-detail{
+	overflow: hidden;
+	float: left;
+}
+.pc-comment-box .heading img.avatar{
+	display: block;
+	float: left;
+	margin-right: 6px;
+}
+.pc-comment-box .heading .comment-detail label{
+	color: #2599be;
+	font-size: 16px;
+	font-weight: bold;
+	display: block;
+	margin-bottom: 4px;
+}
+.pc-comment-box .heading .comment-detail span{
+	display: block;
+	margin-bottom: 4px;
+}
+.pc-comment-box .heading .comment-detail .rating{
+	overflow: hidden;
+	background: url("../img/frontend/layout_3/small_rating_bg.png") no-repeat scroll 0 0 transparent;
+	height: 27px;
+	width: 102px;
+	text-align: center;
+}
+.pc-comment-box .heading .comment-detail .rating .star-outer{
+	overflow: hidden;
+	margin-top: 6px;
+	margin-left: 13px;
+}
+.pc-comment-box .heading .comment-detail .rating span{
+	display: block;
+	height: 14px;
+	width: 15px;
+	background: url("../img/frontend/layout_3/small_star.png") no-repeat scroll 0 0 transparent;
+	float: left;
+}
+.pc-comment-box .heading .comment-detail .rating span.yellow-star{
+	background-position: 0 -14px;
+}
+.pc-comment-box .heading .vote-container{
+	overflow: hidden;
+	float: right;
+	margin-top: 6px;
+	margin-right: 6px;
+}
+.pc-comment-box .heading .vote-container a{
+	display: block;
+	float: right;
+	height: 27px;
+	width: 28px;
+	margin-left: 4px;
+}
+.pc-comment-box .heading .vote-container label{
+	display: block;
+	float: right;
+	padding-top: 7px;
+	margin-left: 4px;
+}
+.pc-comment-box .heading .vote-container label.like-count{
+	color: #00cf9b;
+}
+.pc-comment-box .heading .vote-container label.dislike-count{
+	color: #ea6b72;
+}
+.pc-comment-box .heading .vote-container .pc-report{
+	background: url("../img/frontend/layout_3/report.png") no-repeat scroll 0 0 transparent;
+	margin-left: 8px;
+}
+.pc-comment-box .heading .vote-container a.like{
+	background: url("../img/frontend/layout_3/like.png") no-repeat scroll 0 0 transparent;
+}
+.pc-comment-box .heading .vote-container a.dislike{
+	background: url("../img/frontend/layout_3/dislike.png") no-repeat scroll 0 0 transparent;
+}
+.pc-comment-box .heading .vote-container a:HOVER{
+	background-position: 0 -27px;
+}
+.pc-comment-box .comment-text{
+	line-height: 20px;
+	background-color: #fcf9f4;
+	padding: 12px 6px 12px 12px;
+}
+.pc-comment-box .file-list{
+	border-top: 1px solid #ede5da;
+	padding-top: 6px;
+	padding-left: 12px;
+}
+.pc-comment-box .file-list label{
+	display: block;
+	float: left;
+	margin-right: 5px;
+	color: #726f6a;
+	font-weight: bold;
+}
+.pc-comment-box ul{
+	padding: 0px;
+	list-style: none;
+	margin-bottom: 4px;
+	margin-top: 0px;
+	overflow: hidden;
+}
+.pc-comment-box ul li a{
+	text-decoration: none;
+}
+/* pagination */
+.pc-paging-container{
+	overflow: hidden;
+}
+.pc-paginator{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.pc-paginator li{
+	display: block;
+	float: left;
+	height: 30px;
+	margin-right: 4px;
+}
+.pc-paginator li.dot{
+	height: 30px;
+	width: 31px;
+	text-align: center;
+	background: url("../img/frontend/layout_3/pag_back.png") no-repeat scroll 0 0 transparent;
+}
+.pc-paginator li.dot span{
+	font-size: 15px;
+	font: bold;
+	margin-top: 4px;
+	display: block;
+}
+.pc-paginator li a{
+	display: block;
+	float: left;
+}
+.pc-paginator li a.page-node{
+	color: #beb9b3;
+	height: 30px;
+	width: 31px;
+	text-align: center;
+	background: url("../img/frontend/layout_3/pag_back.png") no-repeat scroll 0 0 transparent;
+}
+.pc-paginator li a.page-node span{
+	display: block;
+	margin-top: 8px;
+}
+.pc-paginator li a.link-next{
+	margin-right: 6px;
+	background: url("../img/frontend/layout_3/next.png") no-repeat scroll 0 0 transparent;
+	height: 30px;
+	width: 31px;
+	text-align: center;
+}
+.pc-paginator li a.link-previous{
+	background: url("../img/frontend/layout_3/prev.png") no-repeat scroll 0 0 transparent;
+	height: 30px;
+	width: 31px;
+	text-align: center;
+}
+.pc-paginator li a.current{
+	background-position: 0 -30px;
+	color: #fde5b9;
+}
+.pc-paginator li a.page-node:HOVER{
+	color: #fde5b9;
+	background-position: 0 -30px;
+}
+.pc-paginator li a.link-next:hover, .pc-paginator li a.link-previous:hover{
+	background-position: 0 -30px;
+}
+/* buttons */
+.pc-button{
+	display: block;
+	height: 41px;
+	width: 184px;
+	color: #ffffff;
+	background: url(../img/frontend/layout_3/btn_background.png) 0 0 no-repeat;
+	border: none;
+	font-size: 14px;
+	font-weight: bold;
+}
+.pc-small-button{
+	display: block;
+	height: 29px;
+	width: 95px;
+	color: #ffffff;
+	background: url(../img/frontend/layout_3/btn_small_background.png) 0 0 no-repeat;
+	border: none;
+	font-size: 13px;
+	font-weight: bold;
+}
+.pc-small-button:hover{
+	background-position: 0 -29px;
+	cursor: pointer;
+}
+.pc-button:hover{
+	background-position: 0 -41px;
+	cursor: pointer;
+}
+
+/* post comment form */
+
+.pc-form{
+	margin: 12px; 
+}
+.pc-form p{
+	overflow: hidden;
+	margin: 0 0 24px;
+}
+.pc-form p .checkbox{
+	cursor: pointer;
+}
+.pc-form label.title{
+	display: block;
+	float: left;
+	padding: 7px 0 0;
+	width: 120px;
+	color: #6B645A;
+	font-size: 13px;
+}
+.pc-form .text, .pc-form .textarea{
+	border: 1px solid #d6d3ce;
+    border-radius: 14px 14px 14px 14px;
+    padding: 9px 6px;
+    font-size: 12px;
+    font-family: inherit;
+    background-color: #ffffff;
+    color: #888580;
+}
+
+.pc-form span.rating{
+	float: left;
+	display: block;
+	overflow: hidden;
+	background: url(../img/frontend/layout_3/rating_bg.png) 0 0 no-repeat;
+	width: 139px;
+	height: 41px;
+}
+.pc-form span.rating span.pc-star {
+	background: url(../img/frontend/layout_3/star.png) 0 0 no-repeat;
+	height: 22px;
+	width: 22px;
+	float: left;
+	display: block;
+}
+.pc-form span.rating span.star-hover{
+	background-position: 0 -22px;
+	cursor: pointer;
+}
+
+.pc-form-container{
+	overflow: hidden;
+	margin-bottom: 40px;
+	border: 1px solid #dedacf;
+	border-radius: 6px 6px 6px 6px;
+	background-color: #f5f2ed;
+}
+.pc-form-container .pc-heading{
+	overflow: hidden;
+	height: 44px;
+	background-color: #ffffff;
+	padding: 12px 12px 8px 12px;
+	border-bottom: 1px solid #dedacf;
+}
+.pc-form-container .pc-heading .pc-title{
+	overflow: hidden;
+	float: left;
+	height: 44px;
+}
+
+.pc-form-container .pc-heading .pc-title .title-text{
+	display: block;
+	margin: 13px 16px 0px 0px;
+	color: #6b645a;
+	font-size: 17px;
+	font-weight: bold;
+	
+}
+.pc-form-container .pc-info-text{
+	margin: 12px;
+} 
+.pc-form-container .pc-heading .pc-menu{
+	overflow: hidden;
+	float: right;
+	margin-top: 4px;
+}
+.pc-form-container .pc-heading .pc-menu abbr{
+	display: block;
+	float: right;
+}
+.pc-form-container .pc-heading .pc-menu .pc-menu-item{
+	display: block;
+	float: right;
+	height: 29px;
+	text-align: center;
+	margin-left: 4px;
+}
+.pc-form-container .pc-heading .pc-menu .pc-menu-item span{
+	display: block;
+	margin-top: 6px;
+	color: #ffffff;
+}
+.pc-form-container .pc-heading .pc-menu .left-item{
+	width: 101px;
+	background: url("../img/frontend/layout_3/menu_left.png") no-repeat scroll 0 0 transparent;
+}
+.pc-form-container .pc-heading .pc-menu .right-item{
+	width: 80px;
+	background: url("../img/frontend/layout_3/menu_right.png") no-repeat scroll 0 0 transparent;
+}
+.pc-form-container .pc-heading .pc-menu .pc-menu-item:hover{
+	background-position: 0 -29px;
+}
+.pc-form .pc-avatar{
+	display: block;
+	width: 60px;
+}
+
+.pc-form .pc-remove-icon{
+	background: url("../img/frontend/icon-delete.png") no-repeat scroll 0 0 transparent;
+    color: #A8A9AB;
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    line-height: 16px;
+    margin-left: 120px;
+    margin-top: 3px;
+    text-decoration: none;
+    text-indent: 20px;
+    width: 80px;
+}
+/* pc-error-message */
+.pc-message-container{
+	display: none;
+	color: red;
+	margin-bottom: 20px;
+}
+.pc-message-container ul li{
+	line-height: 20px;
+}
+.pc-message{
+	font-size: 14px;
+	color: #2fa6ce;
+}
+.pc-error{
+	font-size: 14px;
+	color: red;
+}

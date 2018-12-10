@@ -1,0 +1,28 @@
+[2018-10-28 15:01:02.985061] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'isidrocarmona@telefonica.net'
+    nombre: 'Isidro'
+    apellido: 'Carmona'
+    empresa: ''
+    telefono: '699088086'
+    direccion: 'OIAMENDI KALEA 3'
+    provincia: 'ALAVA'
+    ciudad: 'VITORIA'
+    postalcode: '01015'
+    factura: 'DIRECCION CORREOS EXPRESS VITORIA'
+[2018-10-28 15:03:18.562891] [info] 853568267877
+[2018-10-28 15:03:18.684273] [info] Envio de correo del pedido: 853568267877 al comprador enviado correctamente.
+[2018-10-28 15:03:18.755323] [info] Envio de correo del pedido: 853568267877 al cliente enviado correctamente.
+[2018-10-28 19:15:33.887061] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'c.gulias.o@gmail.com'
+    nombre: 'Cristina'
+    apellido: 'Gulias'
+    empresa: ''
+    telefono: '637032984'
+    direccion: 'Travesia de Vigo 78-4C'
+    provincia: 'Vigo'
+    ciudad: 'Vigo'
+    postalcode: '36206'
+    factura: ''
+[2018-10-28 19:18:34.862574] [info] 958464634442
+[2018-10-28 19:18:34.962603] [info] Envio de correo del pedido: 958464634442 al comprador enviado correctamente.
+[2018-10-28 19:18:35.052263] [info] Envio de correo del pedido: 958464634442 al cliente enviado correctamente.

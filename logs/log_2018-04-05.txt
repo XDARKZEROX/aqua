@@ -1,0 +1,14 @@
+[2018-04-05 21:05:00.792434] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'noemi-franco-colell@hotmail.com'
+    nombre: 'NOEMI'
+    apellido: 'franco colell'
+    empresa: 'Althaia'
+    telefono: '618266451'
+    direccion: 'MIRACLENº 49 2º2º'
+    provincia: 'barcelona'
+    ciudad: 'cardona'
+    postalcode: '08261'
+    factura: ''
+[2018-04-05 21:07:43.709053] [info] 626659406920
+[2018-04-05 21:07:43.872260] [info] Envio de correo del pedido: 626659406920 al comprador enviado correctamente.
+[2018-04-05 21:07:44.108282] [info] Envio de correo del pedido: 626659406920 al cliente enviado correctamente.

@@ -1,0 +1,39 @@
+[2017-09-28 15:55:07.894084] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nuriaalbendin@hotmail.com'
+    nombre: 'ANTONIO '
+    apellido: 'ALBENDIN GARCIA'
+    empresa: 'TALLERES ALBENDIN'
+    telefono: '666449491'
+    direccion: 'CALLE BOQUETILLO LOCAL 3'
+    provincia: 'MALAGA'
+    ciudad: 'FUENGIROLA'
+    postalcode: '29640'
+    factura: 'ESPALDA TORRES QUINTA '
+[2017-09-28 16:03:26.707927] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'raulrulo@hotmail.com'
+    nombre: 'David'
+    apellido: 'Garcia Mazariegos'
+    empresa: ''
+    telefono: '615607948'
+    direccion: 'Calle Horizon 3 portal J 7A'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28041'
+    factura: ''
+[2017-09-28 16:16:42.355827] [info] 951871389162
+[2017-09-28 16:16:42.657068] [info] Envio de correo del pedido: 951871389162 al comprador enviado correctamente.
+[2017-09-28 16:16:42.726119] [info] Envio de correo del pedido: 951871389162 al cliente enviado correctamente.
+[2017-09-28 16:57:34.892055] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nuriaalbendin@hotmail.com'
+    nombre: 'ANTONIO '
+    apellido: 'ALBENDIN GARCIA'
+    empresa: 'TALLERES ALBENDIN'
+    telefono: '666449491'
+    direccion: 'CALLE BOQUETILLO N 3'
+    provincia: 'MALAGA'
+    ciudad: 'FUENGIROLA'
+    postalcode: '29651'
+    factura: 'ESPALDA TORRES QUINTA'
+[2017-09-28 17:00:33.197781] [info] 676048484277
+[2017-09-28 17:00:33.348463] [info] Envio de correo del pedido: 676048484277 al comprador enviado correctamente.
+[2017-09-28 17:00:33.436016] [info] Envio de correo del pedido: 676048484277 al cliente enviado correctamente.

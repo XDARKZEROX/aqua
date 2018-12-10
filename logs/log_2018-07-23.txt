@@ -1,0 +1,28 @@
+[2018-07-23 7:19:34.812676] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'secretaria@praxislgconsultores.com'
+    nombre: 'Lucia'
+    apellido: 'Gato'
+    empresa: 'LUCIA GATO CONSULTORES, S.L.'
+    telefono: '943013683'
+    direccion: 'Zuatzu Kalea, 6 - 2ª Planta. Oficina 5. Edificio Bidasoa. Parque Empresarial Zuatzu'
+    provincia: 'SanSebastian'
+    ciudad: 'SanSebastian'
+    postalcode: '20018'
+    factura: ''
+[2018-07-23 7:19:56.155364] [info] 455010887251
+[2018-07-23 7:19:56.253469] [info] Envio de correo del pedido: 455010887251 al comprador enviado correctamente.
+[2018-07-23 7:19:56.303706] [info] Envio de correo del pedido: 455010887251 al cliente enviado correctamente.
+[2018-07-23 8:18:31.163146] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mathiuss2009@hotmail.com'
+    nombre: 'MATILDE '
+    apellido: 'LARGO'
+    empresa: ''
+    telefono: '617337105'
+    direccion: 'CALLE MANRESA NUMERO 12  PISO 3'
+    provincia: 'NAVARRA'
+    ciudad: 'TUDELA'
+    postalcode: '31500'
+    factura: 'LLAMAR ANTES DE LA ENTREGA'
+[2018-07-23 8:19:39.859554] [info] 578699578282
+[2018-07-23 8:19:39.944091] [info] Envio de correo del pedido: 578699578282 al comprador enviado correctamente.
+[2018-07-23 8:19:39.996944] [info] Envio de correo del pedido: 578699578282 al cliente enviado correctamente.

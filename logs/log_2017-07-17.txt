@@ -1,0 +1,78 @@
+[2017-07-17 8:26:34.054246] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'bea_16_4@hotmail.com'
+    nombre: 'BEATRIZ'
+    apellido: 'REAL'
+    empresa: ''
+    telefono: '648104908'
+    direccion: 'CTRA. N-V KM181.2, OPEL DE NAVALMORAL'
+    provincia: 'Cáceres'
+    ciudad: 'NAVALMORAL DE LA MATA'
+    postalcode: '10300'
+    factura: 'Opel de Navalmoral'
+[2017-07-17 8:26:50.257097] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'bea_16_4@hotmail.com'
+    nombre: 'BEATRIZ'
+    apellido: 'REAL'
+    empresa: ''
+    telefono: '648104908'
+    direccion: 'CTRA. N-V KM181.2, OPEL DE NAVALMORAL'
+    provincia: 'Cáceres'
+    ciudad: 'NAVALMORAL DE LA MATA'
+    postalcode: '10300'
+    factura: 'Opel de Navalmoral'
+[2017-07-17 8:35:49.935581] [info] 464770655284
+[2017-07-17 8:35:50.002579] [info] Envio de correo del pedido: 464770655284 al comprador enviado correctamente.
+[2017-07-17 8:35:50.101660] [info] Envio de correo del pedido: 464770655284 al cliente enviado correctamente.
+[2017-07-17 12:20:05.198698] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'begolacasta@gmail.com'
+    nombre: 'Begoña'
+    apellido: 'Santamaria Lacasta'
+    empresa: 'Begoña Santamaria Lacasta'
+    telefono: '933480020'
+    direccion: 'Calle Córcega 657  bajos. BSL PERRUQUERS'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08026'
+    factura: 'Lunes mañana cerrado'
+[2017-07-17 18:49:13.199006] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'enricarusg@gmail.com'
+    nombre: 'Enric'
+    apellido: 'Arus Gelabert'
+    empresa: ''
+    telefono: '672617941'
+    direccion: 'Jacint Verdaguer 53. 2'
+    provincia: 'Barcelona'
+    ciudad: 'SantFruitosdeBages'
+    postalcode: '08272'
+    factura: ''
+[2017-07-17 18:53:50.568233] [info] 351016223562
+[2017-07-17 18:53:50.689759] [info] Envio de correo del pedido: 351016223562 al comprador enviado correctamente.
+[2017-07-17 18:53:50.752806] [info] Envio de correo del pedido: 351016223562 al cliente enviado correctamente.
+[2017-07-17 20:11:52.130852] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Rownick@hotmail.com'
+    nombre: 'Sergio'
+    apellido: 'González Caldera'
+    empresa: '46748552v'
+    telefono: '649637892'
+    direccion: 'Calle President Macià 70 1-1'
+    provincia: 'Girona'
+    ciudad: 'Palamós'
+    postalcode: '17230'
+    factura: ''
+[2017-07-17 20:13:09.671062] [info] 597190004382
+[2017-07-17 20:13:09.746109] [info] Envio de correo del pedido: 597190004382 al comprador enviado correctamente.
+[2017-07-17 20:13:09.796335] [info] Envio de correo del pedido: 597190004382 al cliente enviado correctamente.
+[2017-07-17 20:34:51.038482] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mariluz@workman.es'
+    nombre: 'Maria'
+    apellido: 'Luz'
+    empresa: 'Ulla'
+    telefono: 'Casanova'
+    direccion: 'Soborvila,18'
+    provincia: 'Lugo'
+    ciudad: 'Lugo'
+    postalcode: '27150'
+    factura: ''
+[2017-07-17 20:38:24.520678] [info] 936223480357
+[2017-07-17 20:38:24.646650] [info] Envio de correo del pedido: 936223480357 al comprador enviado correctamente.
+[2017-07-17 20:38:24.702975] [info] Envio de correo del pedido: 936223480357 al cliente enviado correctamente.

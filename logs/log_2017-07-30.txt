@@ -1,0 +1,63 @@
+[2017-07-30 0:14:00.981057] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'loly_fl@hotmail.com'
+    nombre: 'Loly'
+    apellido: 'Ferreiro Lopez'
+    empresa: ''
+    telefono: '663520561'
+    direccion: 'C Monte dos Postes 35'
+    provincia: 'A Coruña'
+    ciudad: 'Santiago de Compostela'
+    postalcode: '15703'
+    factura: ''
+[2017-07-30 0:20:29.467230] [info] 137753429323
+[2017-07-30 0:20:29.467354] [info] El pedido con codigo:  137753429323 se le ha denegado el pago
+[2017-07-30 0:23:06.964632] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'loly_fl@hotmail.com'
+    nombre: 'Loly'
+    apellido: 'Ferreiro Lopez'
+    empresa: ''
+    telefono: '663520561'
+    direccion: 'C Monte dos Postes 35'
+    provincia: 'A Coruña'
+    ciudad: 'Santiago de Compostela'
+    postalcode: '15703'
+    factura: ''
+[2017-07-30 0:24:29.600450] [info] 380281420930
+[2017-07-30 0:24:29.700669] [info] Envio de correo del pedido: 380281420930 al comprador enviado correctamente.
+[2017-07-30 0:24:29.755080] [info] Envio de correo del pedido: 380281420930 al cliente enviado correctamente.
+[2017-07-30 10:28:15.910566] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'JOSE MANUEL'
+    apellido: 'Blanco Montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'Calle Juana de Vega 2  planta 8'
+    provincia: 'ACoruna'
+    ciudad: 'ACoruna'
+    postalcode: '15003'
+    factura: ''
+[2017-07-30 10:30:36.681471] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'Jose Manuel'
+    apellido: 'Blanco Montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'Calle Juana de Vega 2  planta 8'
+    provincia: 'ACoruna'
+    ciudad: 'ACoruna'
+    postalcode: '15003'
+    factura: ''
+[2017-07-30 10:31:29.462907] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'Jose Manuel'
+    apellido: 'Blanco Montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'Calle Juana de Vega 2  planta 8'
+    provincia: 'ACoruna'
+    ciudad: 'ACoruna'
+    postalcode: '15003'
+    factura: ''
+[2017-07-30 10:33:41.649842] [info] 783480362813
+[2017-07-30 10:33:41.717381] [info] Envio de correo del pedido: 783480362813 al comprador enviado correctamente.
+[2017-07-30 10:33:41.764130] [info] Envio de correo del pedido: 783480362813 al cliente enviado correctamente.

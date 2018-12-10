@@ -1,0 +1,67 @@
+[2017-10-22 18:39:21.984128] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pere.gomez@llap.jazztel.es'
+    nombre: 'Pere'
+    apellido: 'Gómez Castell'
+    empresa: ''
+    telefono: '656334946'
+    direccion: 'carrer Bigai 11 entlo 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08022'
+    factura: 'si no hay nadie en casa dejarlo al portero de 9 a 1 y de 5 a 7'
+[2017-10-22 18:43:47.482971] [info] 035642432330
+[2017-10-22 18:43:47.583056] [info] Envio de correo del pedido: 035642432330 al comprador enviado correctamente.
+[2017-10-22 18:43:47.682174] [info] Envio de correo del pedido: 035642432330 al cliente enviado correctamente.
+[2017-10-22 19:28:05.175848] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'VIANEDU@GMAIL.COM'
+    nombre: 'LUCIA'
+    apellido: 'KEMOKAI'
+    empresa: ''
+    telefono: '642915593'
+    direccion: 'CALLE MATA 37 BAJO'
+    provincia: 'CIUDADREAL'
+    ciudad: 'CIUDADREAL'
+    postalcode: '13004'
+    factura: ''
+[2017-10-22 19:34:35.927501] [info] 820486807002
+[2017-10-22 19:34:36.027997] [info] Envio de correo del pedido: 820486807002 al comprador enviado correctamente.
+[2017-10-22 19:34:36.103313] [info] Envio de correo del pedido: 820486807002 al cliente enviado correctamente.
+[2017-10-22 22:00:34.203700] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karme32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Flor'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: ''
+[2017-10-22 22:02:38.371700] [info] 280850285683
+[2017-10-22 22:02:38.472480] [info] Envio de correo del pedido: 280850285683 al comprador enviado correctamente.
+[2017-10-22 22:02:38.557462] [info] Envio de correo del pedido: 280850285683 al cliente enviado correctamente.
+[2017-10-22 22:20:40.944153] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'josuatomik@hotmail.com'
+    nombre: 'Josu'
+    apellido: 'Arroyo'
+    empresa: ''
+    telefono: '688682769'
+    direccion: 'Arriluzeaga n10a bajo b'
+    provincia: 'Bizkaia'
+    ciudad: 'Durango'
+    postalcode: '48200'
+    factura: ''
+[2017-10-22 22:21:10.062159] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'josuatomik@hotmail.com'
+    nombre: 'Josu'
+    apellido: 'Arroyo'
+    empresa: ''
+    telefono: '688682769'
+    direccion: 'Arriluzeaga n10a bajo b'
+    provincia: 'Bizkaia'
+    ciudad: 'Durango'
+    postalcode: '48200'
+    factura: ''
+[2017-10-22 22:23:44.358340] [info] 962223748690
+[2017-10-22 22:23:44.449680] [info] Envio de correo del pedido: 962223748690 al comprador enviado correctamente.
+[2017-10-22 22:23:44.496141] [info] Envio de correo del pedido: 962223748690 al cliente enviado correctamente.

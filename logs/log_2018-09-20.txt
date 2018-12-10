@@ -1,0 +1,64 @@
+[2018-09-20 0:39:38.187076] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: ' Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua, 23 - 4°, Izd'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2018-09-20 0:48:10.504556] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'simarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua, 23 - 4°, Izd'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2018-09-20 0:50:03.074965] [info] 346559345009
+[2018-09-20 0:50:04.684226] [info] Envio de correo del pedido: 346559345009 al comprador enviado correctamente.
+[2018-09-20 0:50:05.464065] [info] Envio de correo del pedido: 346559345009 al cliente enviado correctamente.
+[2018-09-20 8:11:57.226902] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'olya.petrenko@gmail.com'
+    nombre: 'Olga'
+    apellido: 'Petrenko'
+    empresa: ''
+    telefono: '655023968'
+    direccion: 'Urb Las Lonas del Virrey Monte Paraiso 13 Bajo B'
+    provincia: 'Malaga'
+    ciudad: 'Marbella'
+    postalcode: '29602'
+    factura: ''
+[2018-09-20 8:15:31.892630] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'olya.petrenko@gmail.com'
+    nombre: 'Olga'
+    apellido: 'Petrenko'
+    empresa: ''
+    telefono: '655023968'
+    direccion: 'Urb Las Lonas del Virrey Monte Paraiso 13 Bajo B'
+    provincia: 'Malaga'
+    ciudad: 'Marbella'
+    postalcode: '29602'
+    factura: ''
+[2018-09-20 8:17:27.531728] [info] 766742411787
+[2018-09-20 8:17:27.617311] [info] Envio de correo del pedido: 766742411787 al comprador enviado correctamente.
+[2018-09-20 8:17:27.660428] [info] Envio de correo del pedido: 766742411787 al cliente enviado correctamente.
+[2018-09-20 10:33:52.051588] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'admin@mecanizadoscopsl.es'
+    nombre: 'Lorena'
+    apellido: 'Obradors Fernandez'
+    empresa: 'Mecanizados COP'
+    telefono: '933 77 31 08'
+    direccion: 'Treball 25'
+    provincia: 'Barcelona'
+    ciudad: 'Cornella'
+    postalcode: '08940'
+    factura: ''
+[2018-09-20 10:36:14.414170] [info] 769478216635
+[2018-09-20 10:36:14.540254] [info] Envio de correo del pedido: 769478216635 al comprador enviado correctamente.
+[2018-09-20 10:36:14.654417] [info] Envio de correo del pedido: 769478216635 al cliente enviado correctamente.

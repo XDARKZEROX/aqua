@@ -1,0 +1,25 @@
+[2017-12-17 12:47:24.962671] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ivan@trabajaportucuenta.com'
+    nombre: 'IVAN'
+    apellido: 'FERNANDEZ'
+    empresa: 'IVAN FERNANDEZ'
+    telefono: '607436168'
+    direccion: 'PASEO LA MAGDALENA, 1 1D'
+    provincia: 'Vizcaya'
+    ciudad: 'BALMASEDA'
+    postalcode: '48800'
+    factura: ''
+[2017-12-17 12:48:19.488245] [info] 241067371877
+[2017-12-17 12:48:19.666196] [info] Envio de correo del pedido: 241067371877 al comprador enviado correctamente.
+[2017-12-17 12:48:19.748951] [info] Envio de correo del pedido: 241067371877 al cliente enviado correctamente.
+[2017-12-17 19:51:52.898046] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'robertokon@me.com'
+    nombre: 'Roberto'
+    apellido: 'Kon Guttman'
+    empresa: ''
+    telefono: '620199577'
+    direccion: 'Claro Paz N 5 Bajo'
+    provincia: 'Huelva'
+    ciudad: 'Huelva'
+    postalcode: '21003'
+    factura: 'Entrega en horario de oficina '

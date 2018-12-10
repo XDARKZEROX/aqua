@@ -1,0 +1,28 @@
+[2018-01-29 8:19:55.883423] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'sofia@shakent.com'
+    nombre: 'sofia '
+    apellido: 'leclair'
+    empresa: ''
+    telefono: '606534785'
+    direccion: 'jordi de deu 37 '
+    provincia: 'barcelona'
+    ciudad: 'espluguesdellobregat'
+    postalcode: '08950 '
+    factura: ''
+[2018-01-29 8:22:15.339158] [info] 658619831481
+[2018-01-29 8:22:15.445115] [info] Envio de correo del pedido: 658619831481 al comprador enviado correctamente.
+[2018-01-29 8:22:15.558876] [info] Envio de correo del pedido: 658619831481 al cliente enviado correctamente.
+[2018-01-29 13:08:01.227546] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'marcos.carmona.halty@gmail.com'
+    nombre: 'Marcos'
+    apellido: 'Carmona Halty'
+    empresa: ''
+    telefono: '673688598'
+    direccion: 'Avenida Blasco Ibaez 9 puerta 13 piso 5 puerta 17'
+    provincia: 'Valencia'
+    ciudad: 'Alboraya'
+    postalcode: '46120'
+    factura: ''
+[2018-01-29 13:09:14.562242] [info] 369706553614
+[2018-01-29 13:09:14.650372] [info] Envio de correo del pedido: 369706553614 al comprador enviado correctamente.
+[2018-01-29 13:09:14.702194] [info] Envio de correo del pedido: 369706553614 al cliente enviado correctamente.

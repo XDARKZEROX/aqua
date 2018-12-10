@@ -1,0 +1,25 @@
+[2018-03-30 5:39:55.393577] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monica.prado6432@gmail.com'
+    nombre: 'Monica'
+    apellido: 'Chacon'
+    empresa: ''
+    telefono: '600286722'
+    direccion: 'Misericordia 61'
+    provincia: 'Barcelona'
+    ciudad: 'Cerdanyola'
+    postalcode: '08290'
+    factura: 'Entregar Lunes a Viernes de 10 a 13 30 Gracias'
+[2018-03-30 5:45:24.831703] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monica.prado6432@gmail.com'
+    nombre: 'Monica'
+    apellido: 'Chacon'
+    empresa: ''
+    telefono: '600286722'
+    direccion: 'Misericordia 61'
+    provincia: 'Barcelona'
+    ciudad: 'Cerdanyola'
+    postalcode: '08290'
+    factura: ''
+[2018-03-30 5:46:45.222703] [info] 420541554016
+[2018-03-30 5:46:45.440399] [info] Envio de correo del pedido: 420541554016 al comprador enviado correctamente.
+[2018-03-30 5:46:45.722163] [info] Envio de correo del pedido: 420541554016 al cliente enviado correctamente.

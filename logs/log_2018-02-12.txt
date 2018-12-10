@@ -1,0 +1,14 @@
+[2018-02-12 21:25:33.269572] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'cgcb112@hotmail.es'
+    nombre: 'Cristian '
+    apellido: 'García carbajo '
+    empresa: 'Particular '
+    telefono: '697463695'
+    direccion: 'Calle prado la navata 62 Galapagar Madrid'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28260'
+    factura: ''
+[2018-02-12 21:28:47.663728] [info] 318391174690
+[2018-02-12 21:28:47.761790] [info] Envio de correo del pedido: 318391174690 al comprador enviado correctamente.
+[2018-02-12 21:28:47.927244] [info] Envio de correo del pedido: 318391174690 al cliente enviado correctamente.

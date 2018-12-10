@@ -1,0 +1,53 @@
+[2017-11-13 9:55:28.969206] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pepe429@gmail.com'
+    nombre: 'JOS LUIS '
+    apellido: 'DE LA FUENTE GONZALEZ'
+    empresa: 'CAMPOFRIO OFICINAS N. CORREA'
+    telefono: '609561843'
+    direccion: 'CALLE ALACALDE MARTIN COBOS 16B OFICINA 4D'
+    provincia: 'BURGOS'
+    ciudad: 'BURGOS'
+    postalcode: '09007'
+    factura: 'ENTREGAR EN PORTERA A LA ATT SRTA MARISOL O JUAN CARLOS'
+[2017-11-13 9:58:27.200015] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pepe429@gmail.com'
+    nombre: 'JOSE LUIS'
+    apellido: 'DE LA FUENTE GONZALEZ'
+    empresa: 'CAMPOFRIO OFICINAS N.CORREA'
+    telefono: '609561843'
+    direccion: 'CALLA ALCALDE MARTIN COBOS 16B OFICINA 4D'
+    provincia: 'BURGOS'
+    ciudad: 'BURGOS'
+    postalcode: '09007'
+    factura: 'ENTREGAR EN PORTERIA A LA ATT SRTA MARISOL O JUAN CARLOS'
+[2017-11-13 10:00:15.838568] [info] 572603895023
+[2017-11-13 10:00:15.971708] [info] Envio de correo del pedido: 572603895023 al comprador enviado correctamente.
+[2017-11-13 10:00:16.025778] [info] Envio de correo del pedido: 572603895023 al cliente enviado correctamente.
+[2017-11-13 12:14:34.397547] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mbaer@baer.cat'
+    nombre: 'Maria'
+    apellido: 'Baer Pakhomova'
+    empresa: 'Baer Inversions i Consultoria, S.L. CIF: B17681099'
+    telefono: '639775228'
+    direccion: 'Av. Punta Prima, 5, esc. 2, ap. 231'
+    provincia: 'Girona'
+    ciudad: 'Platja d'Aro'
+    postalcode: '17250'
+    factura: ''
+[2017-11-13 12:20:40.693105] [info] 697091410077
+[2017-11-13 12:20:40.805490] [info] Envio de correo del pedido: 697091410077 al comprador enviado correctamente.
+[2017-11-13 12:20:40.918243] [info] Envio de correo del pedido: 697091410077 al cliente enviado correctamente.
+[2017-11-13 13:32:31.725667] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'luky65@msn.com'
+    nombre: 'ignacio'
+    apellido: 'aduriz recalde'
+    empresa: ''
+    telefono: '349434923'
+    direccion: 'plaza san esteban nº13 2º'
+    provincia: 'SS'
+    ciudad: 'oiartzun'
+    postalcode: '20180'
+    factura: ''
+[2017-11-13 13:34:23.907483] [info] 185594048060
+[2017-11-13 13:34:24.063764] [info] Envio de correo del pedido: 185594048060 al comprador enviado correctamente.
+[2017-11-13 13:34:24.173084] [info] Envio de correo del pedido: 185594048060 al cliente enviado correctamente.

@@ -1,0 +1,6 @@
+[2017-02-15 0:06:43.639214] [info] Envio de correo del pedido: 832446861205 al comprador enviado correctamente.
+[2017-02-15 0:06:43.726185] [info] Envio de correo del pedido: 832446861205 al cliente enviado correctamente.
+[2017-02-15 1:35:16.385989] [info] Envio de correo del pedido:  al comprador no se pudo enviar
+[2017-02-15 1:35:16.601797] [info] Envio de correo del pedido:  al cliente enviado correctamente.
+[2017-02-15 3:52:17.107451] [info] Envio de correo del pedido: 861657576570 al comprador enviado correctamente.
+[2017-02-15 3:52:17.175791] [info] Envio de correo del pedido: 861657576570 al cliente enviado correctamente.

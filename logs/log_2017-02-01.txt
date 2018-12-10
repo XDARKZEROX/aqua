@@ -1,0 +1,3 @@
+[2017-02-01 19:11:53.518412] [info] 532191232521
+[2017-02-01 19:11:53.749505] [info] Envio de correo del pedido: 532191232521 al comprador enviado correctamente.
+[2017-02-01 19:11:53.870837] [info] Envio de correo del pedido: 532191232521 al cliente enviado correctamente.

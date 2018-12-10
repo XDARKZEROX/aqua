@@ -1,0 +1,28 @@
+[2018-07-17 14:28:03.541563] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jesuscut@gmail-com'
+    nombre: 'JESUS'
+    apellido: 'MEDIAVILLA SANCHEZ'
+    empresa: 'CUTTING INTERNATIONAL SYSTEMS'
+    telefono: '670067172'
+    direccion: 'POL 26  AVDA DONOSTI 124 NAVE 11 BAJO'
+    provincia: 'ASTIGARRAGA'
+    ciudad: 'ASTIGARRAGA'
+    postalcode: '20115'
+    factura: ''
+[2018-07-17 14:30:11.410176] [info] 768827778280
+[2018-07-17 14:30:11.504432] [info] Envio de correo del pedido: 768827778280 al comprador enviado correctamente.
+[2018-07-17 14:30:11.553281] [info] Envio de correo del pedido: 768827778280 al cliente enviado correctamente.
+[2018-07-17 18:43:28.653955] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua, 23 - 4°, Izd'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2018-07-17 18:46:35.247693] [info] 789123226991
+[2018-07-17 18:46:35.406214] [info] Envio de correo del pedido: 789123226991 al comprador enviado correctamente.
+[2018-07-17 18:46:35.459229] [info] Envio de correo del pedido: 789123226991 al cliente enviado correctamente.

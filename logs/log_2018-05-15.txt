@@ -1,0 +1,14 @@
+[2018-05-15 4:16:02.785332] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monica.prado6432@gmail.com'
+    nombre: 'Monica'
+    apellido: 'Chacon Prado'
+    empresa: ''
+    telefono: '600286722'
+    direccion: 'Misericordia 61'
+    provincia: 'Barcelona'
+    ciudad: 'Cerdanyola'
+    postalcode: '08290'
+    factura: 'Entregar de L a V antes de las 13 30'
+[2018-05-15 4:18:04.017179] [info] 619728068053
+[2018-05-15 4:18:04.138647] [info] Envio de correo del pedido: 619728068053 al comprador enviado correctamente.
+[2018-05-15 4:18:04.260083] [info] Envio de correo del pedido: 619728068053 al cliente enviado correctamente.

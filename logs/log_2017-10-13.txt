@@ -1,0 +1,50 @@
+[2017-10-13 9:56:12.555691] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fciabofarull@yahoo.com'
+    nombre: 'Farmacia Anna'
+    apellido: 'Vilaseca'
+    empresa: 'Farmacia Anna Bofarull'
+    telefono: '933993452'
+    direccion: 'C/Sicilia 96'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08917'
+    factura: ''
+[2017-10-13 9:56:34.060460] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fciabofarull@yahoo.com'
+    nombre: 'Farmacia Anna'
+    apellido: 'Vilaseca'
+    empresa: 'Farmacia Anna Bofarull'
+    telefono: '933993452'
+    direccion: 'C/Sicilia 96'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08917'
+    factura: ''
+[2017-10-13 9:58:21.830430] [info] 553177552603
+[2017-10-13 9:58:21.932806] [info] Envio de correo del pedido: 553177552603 al comprador enviado correctamente.
+[2017-10-13 9:58:21.997631] [info] Envio de correo del pedido: 553177552603 al cliente enviado correctamente.
+[2017-10-13 9:59:25.792879] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fciabofarull@yahoo.com'
+    nombre: 'Farmacia Anna'
+    apellido: 'Vilaseca'
+    empresa: 'Farmacia Anna Bofarull'
+    telefono: '933993452'
+    direccion: 'C/Sicilia 96'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08917'
+    factura: ''
+[2017-10-13 15:39:59.252863] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'azuparedes@gmail.com'
+    nombre: 'Azucena'
+    apellido: 'Martín Paredes'
+    empresa: 'Walls construcción MANAGEMENT 2015 slu'
+    telefono: '609748437'
+    direccion: 'Calle Donoso Montesinos 11 piso 4'
+    provincia: 'Madrid '
+    ciudad: 'Madrid '
+    postalcode: '28036'
+    factura: ''
+[2017-10-13 15:42:31.848839] [info] 269449160421
+[2017-10-13 15:42:31.918422] [info] Envio de correo del pedido: 269449160421 al comprador enviado correctamente.
+[2017-10-13 15:42:31.968513] [info] Envio de correo del pedido: 269449160421 al cliente enviado correctamente.

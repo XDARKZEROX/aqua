@@ -1,0 +1,66 @@
+[2018-11-07 11:00:59.654253] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mbaer@baer.cat'
+    nombre: 'Maria'
+    apellido: 'Baer Pakhomova'
+    empresa: 'Baer Inversions i Consultoria, S. L., CIF: B17681099'
+    telefono: '639775228'
+    direccion: 'Av. Punta Prima, 5, esc. 2, ap. 231'
+    provincia: 'Girona'
+    ciudad: 'Platja d'Aro'
+    postalcode: '17250'
+    factura: 'Entrega por la mañana de 10 a 14'
+[2018-11-07 11:02:37.641582] [info] 398529940458
+[2018-11-07 11:02:37.739700] [info] Envio de correo del pedido: 398529940458 al comprador enviado correctamente.
+[2018-11-07 11:02:37.805387] [info] Envio de correo del pedido: 398529940458 al cliente enviado correctamente.
+[2018-11-07 13:46:51.571017] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'vanbakelolga@gmail.com'
+    nombre: 'Okga'
+    apellido: 'Perrenko'
+    empresa: ''
+    telefono: '655023968'
+    direccion: 'Las Lomas del Virrey MONTE PARAISO 13 bajo b'
+    provincia: 'Malaga '
+    ciudad: 'Marbella '
+    postalcode: '29602'
+    factura: ''
+[2018-11-07 13:50:38.329510] [info] 784871198598
+[2018-11-07 13:50:38.329670] [info] El pedido con codigo:  784871198598 se le ha denegado el pago
+[2018-11-07 13:54:08.040702] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'vanbakelolga@gmail.com'
+    nombre: 'Olga'
+    apellido: 'Petrenko'
+    empresa: ''
+    telefono: '655023968'
+    direccion: 'Las lomas del Virrey MONTE PARAISO 13 bajo b'
+    provincia: 'Malaga'
+    ciudad: 'Marbella'
+    postalcode: '29602'
+    factura: ''
+[2018-11-07 13:54:44.197400] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'vanbakelolga@gmail.com'
+    nombre: 'Olga'
+    apellido: 'Petrenko'
+    empresa: ''
+    telefono: '655023968'
+    direccion: 'Las lomas del Virrey MONTE PARAISO 13 bajo b'
+    provincia: 'Malaga'
+    ciudad: 'Marbella'
+    postalcode: '29602'
+    factura: ''
+[2018-11-07 13:56:59.702219] [info] 169028383391
+[2018-11-07 13:56:59.765657] [info] Envio de correo del pedido: 169028383391 al comprador enviado correctamente.
+[2018-11-07 13:56:59.830987] [info] Envio de correo del pedido: 169028383391 al cliente enviado correctamente.
+[2018-11-07 16:35:12.010030] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'moreennoo@hotmail.com'
+    nombre: 'david'
+    apellido: 'Horna luque'
+    empresa: '53077967q'
+    telefono: '606848721'
+    direccion: 'C/ sant albert 37b'
+    provincia: 'lliça de vall  (can prat)'
+    ciudad: 'lliça de vall  (can prat)'
+    postalcode: '08185'
+    factura: ''
+[2018-11-07 16:36:37.791510] [info] 648653513014
+[2018-11-07 16:36:37.906405] [info] Envio de correo del pedido: 648653513014 al comprador enviado correctamente.
+[2018-11-07 16:36:37.956772] [info] Envio de correo del pedido: 648653513014 al cliente enviado correctamente.

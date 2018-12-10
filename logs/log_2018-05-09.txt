@@ -1,0 +1,84 @@
+[2018-05-09 11:42:08.435849] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mathiuss2009@hotmail.com'
+    nombre: 'MATILDE'
+    apellido: 'LARGO PEREZ'
+    empresa: ''
+    telefono: '617337105'
+    direccion: 'CALLE MANRESA N 12  PISO 3'
+    provincia: 'NAVARRA'
+    ciudad: 'TUDELA'
+    postalcode: '31500'
+    factura: ''
+[2018-05-09 11:43:18.090131] [info] 515547180681
+[2018-05-09 11:43:18.210628] [info] Envio de correo del pedido: 515547180681 al comprador enviado correctamente.
+[2018-05-09 11:43:18.318252] [info] Envio de correo del pedido: 515547180681 al cliente enviado correctamente.
+[2018-05-09 12:41:01.324898] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mariluz@workman.es'
+    nombre: 'MARIA LUZ'
+    apellido: 'ULLA CASANOVA'
+    empresa: ''
+    telefono: '+34616590978'
+    direccion: 'SOBORVILA 18'
+    provincia: 'LUGO'
+    ciudad: 'LUGO'
+    postalcode: '27150'
+    factura: ''
+[2018-05-09 12:41:55.483076] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mbaer@baer.cat'
+    nombre: 'Maria'
+    apellido: 'Baer Pakhomova'
+    empresa: 'Baer Inversions i Consultoria, S. L., CIF: B17681099'
+    telefono: '639775228'
+    direccion: 'Av. Punta Prima, 5, esc. 2, ap. 231'
+    provincia: 'Girona'
+    ciudad: 'Platja d'Aro'
+    postalcode: '17250'
+    factura: ''
+[2018-05-09 12:42:46.187184] [info] 157544095741
+[2018-05-09 12:42:46.304390] [info] Envio de correo del pedido: 157544095741 al comprador enviado correctamente.
+[2018-05-09 12:42:46.373368] [info] Envio de correo del pedido: 157544095741 al cliente enviado correctamente.
+[2018-05-09 12:44:38.773041] [info] 270148982361
+[2018-05-09 12:44:38.897890] [info] Envio de correo del pedido: 270148982361 al comprador enviado correctamente.
+[2018-05-09 12:44:38.943615] [info] Envio de correo del pedido: 270148982361 al cliente enviado correctamente.
+[2018-05-09 16:31:26.054701] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lauragaschp@yahoo.es'
+    nombre: 'Julia '
+    apellido: 'Pastor Muñoz '
+    empresa: ''
+    telefono: '629084933'
+    direccion: 'Serradilla 12 bajo b'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28044'
+    factura: ''
+[2018-05-09 16:32:37.144228] [info] 274725917829
+[2018-05-09 16:32:37.248704] [info] Envio de correo del pedido: 274725917829 al comprador enviado correctamente.
+[2018-05-09 16:32:37.367470] [info] Envio de correo del pedido: 274725917829 al cliente enviado correctamente.
+[2018-05-09 16:34:05.649879] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lauragaschp@yahoo.es'
+    nombre: 'Laura'
+    apellido: 'Gasch pastor'
+    empresa: ''
+    telefono: '629084933'
+    direccion: 'Rosario pino 12 5 piso 1 escalera izquierda'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28020'
+    factura: ''
+[2018-05-09 16:34:42.271612] [info] 731442593329
+[2018-05-09 16:34:42.394493] [info] Envio de correo del pedido: 731442593329 al comprador enviado correctamente.
+[2018-05-09 16:34:42.455694] [info] Envio de correo del pedido: 731442593329 al cliente enviado correctamente.
+[2018-05-09 18:25:05.628663] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'costel_gabriel@hotmail.com'
+    nombre: 'Costel'
+    apellido: 'Sefer'
+    empresa: 'COSTEL Gabriel Sefer'
+    telefono: '627399528'
+    direccion: 'Calle Menasalbas nr 10'
+    provincia: 'Toledo'
+    ciudad: 'San Pablo De Los Montes'
+    postalcode: '45120'
+    factura: 'Si no estamos en casa le pude dejar el paquete al vecino de la tienda de la casa nr 14Gracias'
+[2018-05-09 18:27:05.016644] [info] 620141415177
+[2018-05-09 18:27:05.110512] [info] Envio de correo del pedido: 620141415177 al comprador enviado correctamente.
+[2018-05-09 18:27:05.157433] [info] Envio de correo del pedido: 620141415177 al cliente enviado correctamente.

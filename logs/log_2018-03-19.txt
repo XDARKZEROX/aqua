@@ -1,0 +1,63 @@
+[2018-03-19 9:49:02.527898] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Trfrancesc@gmail.com'
+    nombre: 'Francisco '
+    apellido: 'López '
+    empresa: 'Tr. Instalacions '
+    telefono: '625061783 '
+    direccion: 'Germán duran 15. Baixos '
+    provincia: 'Barcelona '
+    ciudad: 'Sant Fruitós de Bages '
+    postalcode: '08272 '
+    factura: ''
+[2018-03-19 10:01:53.909881] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Trfrancesc@gmail.com'
+    nombre: 'Francisco'
+    apellido: 'López'
+    empresa: 'Tr. Instalacions'
+    telefono: '625061783'
+    direccion: 'Germán duran 15. Baixos'
+    provincia: 'Barcelona'
+    ciudad: 'Sant Fruitós de Bages'
+    postalcode: '08272'
+    factura: ''
+[2018-03-19 10:07:22.068448] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Trfrancesc@gmail.com'
+    nombre: 'Francisco'
+    apellido: 'López'
+    empresa: 'Tr. Instalacions'
+    telefono: '625061783'
+    direccion: 'Germán duran 15. Baixos'
+    provincia: 'Barcelona'
+    ciudad: 'Sant Fruitós de Bages'
+    postalcode: '08272'
+    factura: ''
+[2018-03-19 10:09:59.357614] [info] 241740068726
+[2018-03-19 10:09:59.516486] [info] Envio de correo del pedido: 241740068726 al comprador enviado correctamente.
+[2018-03-19 10:09:59.613260] [info] Envio de correo del pedido: 241740068726 al cliente enviado correctamente.
+[2018-03-19 16:59:52.155704] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rownick@hotmail.com'
+    nombre: 'sergio'
+    apellido: 'gonzalez caldera'
+    empresa: ''
+    telefono: '649637892'
+    direccion: 'calle president macia 70 1o 1a'
+    provincia: 'giroma'
+    ciudad: 'palamos'
+    postalcode: '17230'
+    factura: ''
+[2018-03-19 17:11:31.600034] [info] 105069491984
+[2018-03-19 17:11:31.600148] [info] El pedido con codigo:  105069491984 se le ha denegado el pago
+[2018-03-19 17:13:07.948956] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rownick@hotmail.com'
+    nombre: 'sergio'
+    apellido: 'gonzalez caldera'
+    empresa: ''
+    telefono: '649637892'
+    direccion: 'calle president macia 70 1o 1a'
+    provincia: 'girona'
+    ciudad: 'palamos'
+    postalcode: '17230'
+    factura: ''
+[2018-03-19 17:13:56.100495] [info] 565532919524
+[2018-03-19 17:13:56.231400] [info] Envio de correo del pedido: 565532919524 al comprador enviado correctamente.
+[2018-03-19 17:13:56.386750] [info] Envio de correo del pedido: 565532919524 al cliente enviado correctamente.

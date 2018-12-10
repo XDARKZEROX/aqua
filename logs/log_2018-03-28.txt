@@ -1,0 +1,14 @@
+[2018-03-28 19:49:15.061142] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulavs89@hotmail.com'
+    nombre: 'paula'
+    apellido: 'vacchiano'
+    empresa: ''
+    telefono: '696569568'
+    direccion: 'Calle Magdalenes 12 Primero Segunda'
+    provincia: 'barcelona'
+    ciudad: 'barcelona'
+    postalcode: '08002'
+    factura: 'Preferible de manyanas'
+[2018-03-28 19:51:15.719633] [info] 324335312540
+[2018-03-28 19:51:15.830997] [info] Envio de correo del pedido: 324335312540 al comprador enviado correctamente.
+[2018-03-28 19:51:15.987574] [info] Envio de correo del pedido: 324335312540 al cliente enviado correctamente.

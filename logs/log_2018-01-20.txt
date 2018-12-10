@@ -1,0 +1,11 @@
+[2018-01-20 15:36:07.289788] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'montse_clua82@hotmail.com'
+    nombre: 'Montse'
+    apellido: 'Clua Viver'
+    empresa: ''
+    telefono: '609518404'
+    direccion: 'C Eduard Domenech 23'
+    provincia: 'Barcelona'
+    ciudad: 'Santceloni'
+    postalcode: '08470'
+    factura: ''

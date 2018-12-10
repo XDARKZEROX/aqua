@@ -1,0 +1,66 @@
+[2017-07-18 6:05:28.765438] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fdrovira@gmail.com'
+    nombre: 'Francisco'
+    apellido: 'Diaz Rovira'
+    empresa: 'Nd mobiliario y equipamiento integral'
+    telefono: '649922840'
+    direccion: 'Salzillo 24'
+    provincia: 'Murcia'
+    ciudad: 'Yecla'
+    postalcode: '30510'
+    factura: ''
+[2017-07-18 6:07:31.132319] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fdrovira@gmail.com'
+    nombre: 'Francisco'
+    apellido: 'Diaz'
+    empresa: 'Nd mobiliario y equipamiento integral'
+    telefono: '649922840'
+    direccion: 'Salzillo 24'
+    provincia: 'Murcia'
+    ciudad: 'Yecla'
+    postalcode: '30510'
+    factura: ''
+[2017-07-18 6:09:04.797081] [info] 768398979189
+[2017-07-18 6:09:04.861365] [info] Envio de correo del pedido: 768398979189 al comprador enviado correctamente.
+[2017-07-18 6:09:04.912511] [info] Envio de correo del pedido: 768398979189 al cliente enviado correctamente.
+[2017-07-18 16:28:16.340095] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ana_bena@hotmail.com'
+    nombre: 'Jose'
+    apellido: 'Benavent jimenez'
+    empresa: ''
+    telefono: '625134635'
+    direccion: 'C/torrefuencubierta, 11'
+    provincia: 'Torredonjimeno'
+    ciudad: 'Jaen'
+    postalcode: '23650'
+    factura: ''
+[2017-07-18 16:29:59.322199] [info] 147148563244
+[2017-07-18 16:29:59.411397] [info] Envio de correo del pedido: 147148563244 al comprador enviado correctamente.
+[2017-07-18 16:29:59.466309] [info] Envio de correo del pedido: 147148563244 al cliente enviado correctamente.
+[2017-07-18 16:56:17.320241] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paola@iconspain.com'
+    nombre: 'Miguel A'
+    apellido: 'Giraldez Castro'
+    empresa: 'ICON EUROPE SL'
+    telefono: '986485710'
+    direccion: 'Amor Ruibal 11 Entresuelo'
+    provincia: 'Pontevedra'
+    ciudad: 'Vigo'
+    postalcode: '36203'
+    factura: ''
+[2017-07-18 16:59:49.765784] [info] 395431925619
+[2017-07-18 16:59:49.765898] [info] El pedido con codigo:  395431925619 se le ha denegado el pago
+[2017-07-18 17:00:43.635720] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paola@iconspain.com'
+    nombre: 'Miguel A'
+    apellido: 'G'
+    empresa: 'ICON EUROPE SL'
+    telefono: '986485710'
+    direccion: 'Amor Ruibal 11 Entresuelo'
+    provincia: 'Pontevedra'
+    ciudad: 'Vigo'
+    postalcode: '36203'
+    factura: ''
+[2017-07-18 17:01:58.846755] [info] 730983311675
+[2017-07-18 17:01:58.901793] [info] Envio de correo del pedido: 730983311675 al comprador enviado correctamente.
+[2017-07-18 17:01:58.954293] [info] Envio de correo del pedido: 730983311675 al cliente enviado correctamente.

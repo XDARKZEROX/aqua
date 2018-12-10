@@ -1,0 +1,14 @@
+[2018-04-08 23:27:31.710952] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'JOSE MANUEL'
+    apellido: 'BLANCO MONTERO'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'JUANA DE VEGA 2  PLANTA 8'
+    provincia: 'ACORUNA'
+    ciudad: 'ACORUNA'
+    postalcode: '15003'
+    factura: ''
+[2018-04-08 23:29:16.958877] [info] 491193452412
+[2018-04-08 23:29:17.103657] [info] Envio de correo del pedido: 491193452412 al comprador enviado correctamente.
+[2018-04-08 23:29:17.291575] [info] Envio de correo del pedido: 491193452412 al cliente enviado correctamente.

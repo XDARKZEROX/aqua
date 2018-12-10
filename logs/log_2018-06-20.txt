@@ -1,0 +1,28 @@
+[2018-06-20 10:18:38.051959] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrillo89@gmail.com'
+    nombre: 'PAULA'
+    apellido: 'CARRILLO SANCHEZ'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'CALLE HIEDRA 28 3C'
+    provincia: 'MADRID'
+    ciudad: 'MADRID'
+    postalcode: '28036'
+    factura: ''
+[2018-06-20 10:19:22.529607] [info] 527221794546
+[2018-06-20 10:19:22.660389] [info] Envio de correo del pedido: 527221794546 al comprador enviado correctamente.
+[2018-06-20 10:19:22.717391] [info] Envio de correo del pedido: 527221794546 al cliente enviado correctamente.
+[2018-06-20 19:43:18.082262] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'amordiminuto@gmail.com'
+    nombre: 'Janet Araceli'
+    apellido: 'Silva'
+    empresa: ''
+    telefono: '657353466'
+    direccion: 'Calle Francisco cano 84'
+    provincia: 'Fuengirola'
+    ciudad: 'Fuengirola'
+    postalcode: '29640'
+    factura: ''
+[2018-06-20 19:46:09.007986] [info] 888372207088
+[2018-06-20 19:46:09.383142] [info] Envio de correo del pedido: 888372207088 al comprador enviado correctamente.
+[2018-06-20 19:46:09.513386] [info] Envio de correo del pedido: 888372207088 al cliente enviado correctamente.

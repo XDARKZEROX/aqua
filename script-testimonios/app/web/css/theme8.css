@@ -1,0 +1,40 @@
+/* ==========================================================================
+	#General
+========================================================================== */
+[id^=pjWrapper] .pjCpContainer { background: #222; }
+
+/* ==========================================================================
+	#pjCpComment
+========================================================================== */
+[id^=pjWrapper] .pjCpComment { padding: 15px; background: #595758; }
+[id^=pjWrapper] .pjCpCommentTitle { color: #f1f2ed; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpCommentDate { color: #f1f2ed; }
+[id^=pjWrapper] .pjCpCommentStars { color: #fff; }
+
+[id^=pjWrapper] .pjCpCommentActions .btn-default { border-color: #413f40; background: #413f40; color: #f1f2ed; }
+[id^=pjWrapper] .pjCpCommentActions .btn-default:hover { border-color: #413f40; background: #565455; color: #fff; }
+
+[id^=pjWrapper] .pjCpCommentActions .text-success { color: #fff; }
+[id^=pjWrapper] .pjCpCommentActions .text-danger { color: #f1f2ed; }
+[id^=pjWrapper] .pjCpCommentBody p { color: #f1f2ed; }
+
+/* ==========================================================================
+	#pjCpPagination
+========================================================================== */
+[id^=pjWrapper] .pjCpPagination .pjCpBtn { border-color: #565455; border-left-color: #413f40; border-right-color: #413f40; background: #565455; color: #f1f2ed; }
+[id^=pjWrapper] .pjCpPagination .pjCpBtn:hover { border-color: #565455; border-left-color: #413f40; border-right-color: #413f40; background: #565455; color: #fff; }
+[id^=pjWrapper] .pjCpPagination .pjCpBtnCurrent,
+[id^=pjWrapper] .pjCpPagination .pjCpBtnCurrent:hover { border-top-color: #413f40; border-bottom-color: #413f40; background: #413f40; color: #fff; }
+
+/* ==========================================================================
+	#pjCpForm
+========================================================================== */
+[id^=pjWrapper] .pjCpForm a { color: #fff; }
+[id^=pjWrapper] .pjCpFormTitle { color: #f1f2ed; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpForm p,
+[id^=pjWrapper] .pjCpForm .control-label { color: #f1f2ed; }
+[id^=pjWrapper] .pjCpForm .form-control { background: #565455; border-color: #413f40; color: #f1f2ed; }
+[id^=pjWrapper] .pjCpForm [type="file"] { color: #f1f2ed; }
+[id^=pjWrapper] .pjCpForm .form-control:focus { -webkit-box-shadow: 0 0 10px rgba(255, 255, 255, .3); box-shadow: 0 0 10px rgba(255, 255, 255, .3); }
+[id^=pjWrapper] .pjCpForm .pjCpBtnPrimary { border-color: #000; border-width: 2px; background: #0f0d0e; color: #fff; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpForm .pjCpBtnPrimary:hover { border-color: #000; border-width: 2px; background: #000; color: #fff; }

@@ -1,0 +1,26 @@
+[2018-12-09 17:58:37.934000] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'alexsalabert24@icloud.com'
+    nombre: 'Alex'
+    apellido: 'Salabert Sanchez'
+    empresa: 'Clicdominio'
+    telefono: '639992889'
+    direccion: 'Pla d en francesc 23'
+    provincia: 'Palafolls'
+    ciudad: 'Barcelona'
+    postalcode: '08389'
+    factura: 'Prueba de pedido '
+[2018-12-09 17:59:01.901146] [info] Envio de correo del pedido: 833607709644 al comprador enviado correctamente.
+[2018-12-09 17:59:02.497772] [info] Envio de correo del pedido: 833607709644 al cliente enviado correctamente.
+[2018-12-09 18:20:49.429300] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nocturnal.classical@gmail.com'
+    nombre: 'Alexander'
+    apellido: 'Guzman'
+    empresa: ''
+    telefono: '4503324'
+    direccion: 'Jr de test'
+    provincia: 'test'
+    ciudad: 'test'
+    postalcode: 'test'
+    factura: 'esto es una reserva de test'
+[2018-12-09 18:20:55.117681] [info] Envio de correo del pedido: 707273354373 al comprador enviado correctamente.
+[2018-12-09 18:20:55.737987] [info] Envio de correo del pedido: 707273354373 al cliente enviado correctamente.

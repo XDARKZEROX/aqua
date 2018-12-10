@@ -1,0 +1,67 @@
+[2017-06-08 8:34:26.041290] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pilarcanalejo@century21.es'
+    nombre: 'Pilar'
+    apellido: 'Canalejo Cadahia'
+    empresa: 'SUMMIT HOMES SL'
+    telefono: '637865393'
+    direccion: 'MALLORCA 101 local'
+    provincia: 'Barcelona'
+    ciudad: 'barcelona'
+    postalcode: '08029'
+    factura: ''
+[2017-06-08 8:36:21.509412] [info] 498370498411
+[2017-06-08 8:36:21.585513] [info] Envio de correo del pedido: 498370498411 al comprador enviado correctamente.
+[2017-06-08 8:36:21.648242] [info] Envio de correo del pedido: 498370498411 al cliente enviado correctamente.
+[2017-06-08 9:58:54.696099] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'analuiza.f@oxisinvest.com'
+    nombre: 'Ana Luiza'
+    apellido: 'Franceschini'
+    empresa: ''
+    telefono: '625295498'
+    direccion: 'Carrer Casanova 49 Escalera Izquierda Entl 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08011'
+    factura: ''
+[2017-06-08 9:59:43.109826] [info] 662100328564
+[2017-06-08 9:59:43.165615] [info] Envio de correo del pedido: 662100328564 al comprador enviado correctamente.
+[2017-06-08 9:59:43.265381] [info] Envio de correo del pedido: 662100328564 al cliente enviado correctamente.
+[2017-06-08 16:22:45.167228] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rufinoalonso@gmail.com'
+    nombre: 'RUFINO'
+    apellido: 'ALONSO'
+    empresa: ''
+    telefono: '609439801'
+    direccion: 'Plaza Monasterio de San Benito 2 2B'
+    provincia: 'VALLADOLID'
+    ciudad: 'VALLADOLID'
+    postalcode: '47015'
+    factura: 'Por favor sólo por la tarde Gracias'
+[2017-06-08 16:23:46.016876] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rufinoalonso@gmail.com'
+    nombre: 'RUFINO'
+    apellido: 'ALONSO'
+    empresa: ''
+    telefono: '609439801'
+    direccion: 'Plaza Monasterio de San Benito 2 2B'
+    provincia: 'VALLADOLID'
+    ciudad: 'VALLADOLID'
+    postalcode: '47015'
+    factura: 'Por favor sólo por la tarde Gracias'
+[2017-06-08 16:25:18.345613] [info] 762810790127
+[2017-06-08 16:25:18.415425] [info] Envio de correo del pedido: 762810790127 al comprador enviado correctamente.
+[2017-06-08 16:25:18.473387] [info] Envio de correo del pedido: 762810790127 al cliente enviado correctamente.
+[2017-06-08 17:36:15.143182] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'luky65@msn.com'
+    nombre: 'ignacio'
+    apellido: 'aduriz recalde'
+    empresa: ''
+    telefono: '652691362'
+    direccion: 'plaza san esteban nº13 2º'
+    provincia: 'SS'
+    ciudad: 'oiartzun'
+    postalcode: '20180'
+    factura: ''
+[2017-06-08 17:40:47.192863] [info] 288303772181
+[2017-06-08 17:40:47.254316] [info] Envio de correo del pedido: 288303772181 al comprador enviado correctamente.
+[2017-06-08 17:40:47.342499] [info] Envio de correo del pedido: 288303772181 al cliente enviado correctamente.

@@ -1,0 +1,41 @@
+[2018-12-04 18:33:23.161480] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lauragaschp@yahoo.es'
+    nombre: 'Julia '
+    apellido: 'Pastor Muñoz '
+    empresa: ''
+    telefono: '649998272'
+    direccion: 'Serradilla 12  bajo b'
+    provincia: 'Madrid '
+    ciudad: 'Madrid'
+    postalcode: '28044'
+    factura: ''
+[2018-12-04 18:39:11.479175] [info] 934004039634
+[2018-12-04 18:39:11.479376] [info] El pedido con codigo:  934004039634 se le ha denegado el pago
+[2018-12-04 18:42:18.122080] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lauragaschp@yahoo.es'
+    nombre: 'Julia'
+    apellido: 'Pastor Muñoz '
+    empresa: ''
+    telefono: '649998272'
+    direccion: 'Serradilla 12 bajo B'
+    provincia: 'Madrid '
+    ciudad: 'Madrid'
+    postalcode: '28044'
+    factura: ''
+[2018-12-04 18:43:03.952147] [info] 909604922988
+[2018-12-04 18:43:05.060965] [info] Envio de correo del pedido: 909604922988 al comprador enviado correctamente.
+[2018-12-04 18:43:05.622819] [info] Envio de correo del pedido: 909604922988 al cliente enviado correctamente.
+[2018-12-04 18:44:16.041919] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lauragaschp@yahoo.es'
+    nombre: 'Laura'
+    apellido: 'Gasch Pastor '
+    empresa: ''
+    telefono: '629084933'
+    direccion: 'Orense 16 8 F'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28020'
+    factura: ''
+[2018-12-04 18:45:04.022087] [info] 556664144555
+[2018-12-04 18:45:04.505225] [info] Envio de correo del pedido: 556664144555 al comprador enviado correctamente.
+[2018-12-04 18:45:05.066564] [info] Envio de correo del pedido: 556664144555 al cliente enviado correctamente.

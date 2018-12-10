@@ -1,0 +1,5 @@
+[2017-03-13 13:59:42.926326] [info] 853485145262
+[2017-03-13 13:59:43.044154] [info] Envio de correo del pedido: 853485145262 al comprador enviado correctamente.
+[2017-03-13 13:59:43.117098] [info] Envio de correo del pedido: 853485145262 al cliente enviado correctamente.
+[2017-03-13 18:22:54.965795] [info] 650295437517
+[2017-03-13 18:22:54.966064] [info] El pedido con codigo:  650295437517 se le ha denegado el pago

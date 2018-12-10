@@ -1,0 +1,42 @@
+[2018-09-17 6:58:24.396270] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrillo89@gmail.com'
+    nombre: 'Paula'
+    apellido: 'Carrillo sanchez'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'Calle de la Hiedra 28 3 C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28036'
+    factura: ''
+[2018-09-17 6:59:01.517400] [info] 284324635432
+[2018-09-17 6:59:01.651360] [info] Envio de correo del pedido: 284324635432 al comprador enviado correctamente.
+[2018-09-17 6:59:01.720690] [info] Envio de correo del pedido: 284324635432 al cliente enviado correctamente.
+[2018-09-17 8:42:24.604490] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'secretaria@praxislgconsultores.com'
+    nombre: 'Lucia'
+    apellido: 'Gato'
+    empresa: 'LUCIA GATO CONSULTORES, S.L.'
+    telefono: '943013683'
+    direccion: 'Zuatzu Kalea, 6 - 2ª Planta. Oficina 5. Edificio Bidasoa. Parque Empresarial Zuatzu'
+    provincia: 'SanSebastian'
+    ciudad: 'SanSebastian'
+    postalcode: '20018'
+    factura: ''
+[2018-09-17 8:42:57.648066] [info] 816986291720
+[2018-09-17 8:42:57.781892] [info] Envio de correo del pedido: 816986291720 al comprador enviado correctamente.
+[2018-09-17 8:42:57.849468] [info] Envio de correo del pedido: 816986291720 al cliente enviado correctamente.
+[2018-09-17 15:36:21.662198] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'beaalborch@gmail.com'
+    nombre: 'Beatriz '
+    apellido: 'Alborch Peiró '
+    empresa: ''
+    telefono: '685861190'
+    direccion: 'Tossal n2 piso 4 puerta 11'
+    provincia: 'Gandia'
+    ciudad: 'Valencia'
+    postalcode: '46701'
+    factura: 'Llamad al 685861190 si no contestan al timbre gracias '
+[2018-09-17 15:37:32.110418] [info] 554485603976
+[2018-09-17 15:37:32.222009] [info] Envio de correo del pedido: 554485603976 al comprador enviado correctamente.
+[2018-09-17 15:37:32.317497] [info] Envio de correo del pedido: 554485603976 al cliente enviado correctamente.

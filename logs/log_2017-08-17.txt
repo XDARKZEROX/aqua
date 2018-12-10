@@ -1,0 +1,36 @@
+[2017-08-17 12:16:32.070303] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'albertopsdlt@gmail.com'
+    nombre: 'Alberto'
+    apellido: 'Pascual'
+    empresa: '.'
+    telefono: '660333932'
+    direccion: 'Poeta Prudencio 12 1B'
+    provincia: 'LaRioja'
+    ciudad: 'Logrono'
+    postalcode: '26003'
+    factura: ''
+[2017-08-17 12:16:46.468908] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'albertopsdlt@gmail.com'
+    nombre: 'Alberto'
+    apellido: 'Pascual'
+    empresa: '.'
+    telefono: '660333932'
+    direccion: 'Poeta Prudencio 12 1B'
+    provincia: 'LaRioja'
+    ciudad: 'Logrono'
+    postalcode: '26003'
+    factura: ''
+[2017-08-17 21:14:38.037442] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kar32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Miró'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: ''
+[2017-08-17 21:17:06.785707] [info] 448307082915
+[2017-08-17 21:17:06.878066] [info] Envio de correo del pedido: 448307082915 al comprador enviado correctamente.
+[2017-08-17 21:17:06.934797] [info] Envio de correo del pedido: 448307082915 al cliente enviado correctamente.

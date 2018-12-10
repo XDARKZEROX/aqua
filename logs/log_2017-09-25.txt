@@ -1,0 +1,78 @@
+[2017-09-25 8:15:21.291394] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'secretaria@praxislgconsultores.com'
+    nombre: 'Lucia'
+    apellido: 'Gato'
+    empresa: 'LUCIA GATO CONSULTORES, S.L.'
+    telefono: '943013683'
+    direccion: 'Zuatzu Kalea, 6 - 2ª Planta. Oficina 5. Edificio Bidasoa. Parque Empresarial Zuatzu'
+    provincia: 'Gipuzkoa'
+    ciudad: 'SanSebastian'
+    postalcode: '20018'
+    factura: ''
+[2017-09-25 8:16:25.097826] [info] 393936635459
+[2017-09-25 8:16:25.269882] [info] Envio de correo del pedido: 393936635459 al comprador enviado correctamente.
+[2017-09-25 8:16:25.364695] [info] Envio de correo del pedido: 393936635459 al cliente enviado correctamente.
+[2017-09-25 9:05:28.483865] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'sgarciau7@gmail.com'
+    nombre: 'Susana'
+    apellido: 'García Usón'
+    empresa: ''
+    telefono: '679329753'
+    direccion: 'Avda Cataluña 110 OF LA CAIXA'
+    provincia: 'Zaragoza '
+    ciudad: 'Zaragoza '
+    postalcode: '50014'
+    factura: 'ENTREGAR SOLO MAÑANAS'
+[2017-09-25 9:06:24.335509] [info] 459753312040
+[2017-09-25 9:06:24.414669] [info] Envio de correo del pedido: 459753312040 al comprador enviado correctamente.
+[2017-09-25 9:06:24.463280] [info] Envio de correo del pedido: 459753312040 al cliente enviado correctamente.
+[2017-09-25 13:20:54.603072] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna '
+    apellido: 'Romero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Marqués de Sant Mori, 69-75 1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2017-09-25 18:51:08.589097] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ccasanovas14@gmail.com'
+    nombre: 'Cristina'
+    apellido: 'Casanovas'
+    empresa: ''
+    telefono: '620640150'
+    direccion: 'Muntaner 341 7o2a'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08021'
+    factura: ''
+[2017-09-25 18:53:13.002520] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ccasanovas14@gmail.com'
+    nombre: 'Cristina'
+    apellido: 'Casanovas '
+    empresa: ''
+    telefono: '620640150'
+    direccion: 'Calle Muntaner 341 7o2a'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08021'
+    factura: ''
+[2017-09-25 18:54:40.722692] [info] 520440550161
+[2017-09-25 18:54:40.805613] [info] Envio de correo del pedido: 520440550161 al comprador enviado correctamente.
+[2017-09-25 18:54:40.859447] [info] Envio de correo del pedido: 520440550161 al cliente enviado correctamente.
+[2017-09-25 21:04:37.068752] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fernando.barriuso@gmail.com'
+    nombre: 'FERNANDO'
+    apellido: 'BARRIUSO JUEZ'
+    empresa: ''
+    telefono: '947380783'
+    direccion: 'calle de salas Nº 26'
+    provincia: 'Burgos'
+    ciudad: 'revilla y ahedo la'
+    postalcode: '09613'
+    factura: ''
+[2017-09-25 21:06:41.964876] [info] 377232532448
+[2017-09-25 21:06:42.062684] [info] Envio de correo del pedido: 377232532448 al comprador enviado correctamente.
+[2017-09-25 21:06:42.207700] [info] Envio de correo del pedido: 377232532448 al cliente enviado correctamente.

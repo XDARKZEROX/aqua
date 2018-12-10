@@ -1,0 +1,3 @@
+[2017-01-13 11:45:29.264924] [info] 021607749529
+[2017-01-13 11:45:29.442410] [info] Envio de correo del pedido: 021607749529 al comprador enviado correctamente.
+[2017-01-13 11:45:29.611212] [info] Envio de correo del pedido: 021607749529 al cliente enviado correctamente.

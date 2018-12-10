@@ -1,0 +1,2 @@
+[2017-04-18 14:24:23.629486] [info] Envio de correo del pedido: 460926305378 al comprador enviado correctamente.
+[2017-04-18 14:24:23.746967] [info] Envio de correo del pedido: 460926305378 al cliente enviado correctamente.

@@ -1,0 +1,39 @@
+[2018-09-25 6:29:46.582815] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jafd2604@gmail.com'
+    nombre: 'José Andrés'
+    apellido: 'Fernández Domínguez'
+    empresa: ''
+    telefono: '639153749'
+    direccion: 'Avda de la Peregrina n 2A 3E'
+    provincia: 'ACoruña'
+    ciudad: 'Bertamirans'
+    postalcode: '15220'
+    factura: 'Confirmar entrega'
+[2018-09-25 8:59:53.944302] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'soniamolinaprat@gmail.com'
+    nombre: 'RUBEN'
+    apellido: 'SOLE MARTINEZ'
+    empresa: 'POLYARMADOS'
+    telefono: '680444952'
+    direccion: 'PARTIDA ENTITAT DE SUCS N104'
+    provincia: 'Lleida'
+    ciudad: 'SUCS'
+    postalcode: '25113'
+    factura: ''
+[2018-09-25 9:01:58.163208] [info] 583554080996
+[2018-09-25 9:01:58.328438] [info] Envio de correo del pedido: 583554080996 al comprador enviado correctamente.
+[2018-09-25 9:01:58.440593] [info] Envio de correo del pedido: 583554080996 al cliente enviado correctamente.
+[2018-09-25 21:50:01.195296] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'info@thebikinibox.net'
+    nombre: 'VIVIEM'
+    apellido: 'PONTZSCH'
+    empresa: 'THE BIKINI BOX'
+    telefono: '652734515'
+    direccion: 'PIRINEO 16A'
+    provincia: 'CERDANYOLA'
+    ciudad: 'CERDANYOLA'
+    postalcode: '08290'
+    factura: ''
+[2018-09-25 21:51:03.367351] [info] 737073008561
+[2018-09-25 21:51:03.472661] [info] Envio de correo del pedido: 737073008561 al comprador enviado correctamente.
+[2018-09-25 21:51:03.576829] [info] Envio de correo del pedido: 737073008561 al cliente enviado correctamente.

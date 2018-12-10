@@ -1,0 +1,42 @@
+[2018-11-22 20:39:10.827008] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna'
+    apellido: 'Romero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Marqués de Sant Mori, 69-75 1-2'
+    provincia: 'Badalona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2018-11-22 20:41:33.326369] [info] 354180989523
+[2018-11-22 20:41:33.461438] [info] Envio de correo del pedido: 354180989523 al comprador enviado correctamente.
+[2018-11-22 20:41:33.542033] [info] Envio de correo del pedido: 354180989523 al cliente enviado correctamente.
+[2018-11-22 21:13:01.866239] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Pablo_newhera@hotmail.com'
+    nombre: 'Pablo'
+    apellido: 'De las Heras González'
+    empresa: ''
+    telefono: '649244591'
+    direccion: 'C/Valencia de don Juan 5 3°2'
+    provincia: 'San Sebastián de los Reyes'
+    ciudad: 'MADRID'
+    postalcode: '28701'
+    factura: ''
+[2018-11-22 21:14:52.394139] [info] 448590585251
+[2018-11-22 21:14:52.473427] [info] Envio de correo del pedido: 448590585251 al comprador enviado correctamente.
+[2018-11-22 21:14:52.567209] [info] Envio de correo del pedido: 448590585251 al cliente enviado correctamente.
+[2018-11-22 22:07:46.440716] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua, 23 - 4°, Izd'
+    provincia: 'Elgoibar'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2018-11-22 22:09:45.198163] [info] 108415020461
+[2018-11-22 22:09:45.340652] [info] Envio de correo del pedido: 108415020461 al comprador enviado correctamente.
+[2018-11-22 22:09:45.425774] [info] Envio de correo del pedido: 108415020461 al cliente enviado correctamente.

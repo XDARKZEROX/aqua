@@ -1,0 +1,42 @@
+[2017-10-02 10:45:47.581341] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kwtaylor83@gmail.com'
+    nombre: 'Keith'
+    apellido: 'Taylor'
+    empresa: ''
+    telefono: '625828798'
+    direccion: 'Calle Estocolm 3 Entresuelo 2'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08005'
+    factura: ''
+[2017-10-02 10:47:19.015685] [info] 546806093781
+[2017-10-02 10:47:19.108409] [info] Envio de correo del pedido: 546806093781 al comprador enviado correctamente.
+[2017-10-02 10:47:19.176667] [info] Envio de correo del pedido: 546806093781 al cliente enviado correctamente.
+[2017-10-02 19:29:52.819953] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'vmendoza@daimat.net'
+    nombre: 'Victor '
+    apellido: 'Mendoza alonso '
+    empresa: ''
+    telefono: '620037080'
+    direccion: 'Calle General Aranaz 42 esc izda 2D'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28027'
+    factura: ''
+[2017-10-02 19:32:15.412004] [info] 329705598005
+[2017-10-02 19:32:15.553037] [info] Envio de correo del pedido: 329705598005 al comprador enviado correctamente.
+[2017-10-02 19:32:15.624474] [info] Envio de correo del pedido: 329705598005 al cliente enviado correctamente.
+[2017-10-02 19:57:12.922913] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'alexgrauborrega@hotma.com'
+    nombre: 'Alex'
+    apellido: 'Grau Borrega'
+    empresa: ''
+    telefono: '616158465'
+    direccion: 'Calle Igualada'
+    provincia: 'Barcelona'
+    ciudad: 'Igualada'
+    postalcode: '08788'
+    factura: ''
+[2017-10-02 20:02:01.445429] [info] 126818703527
+[2017-10-02 20:02:01.574281] [info] Envio de correo del pedido: 126818703527 al comprador enviado correctamente.
+[2017-10-02 20:02:01.632323] [info] Envio de correo del pedido: 126818703527 al cliente enviado correctamente.

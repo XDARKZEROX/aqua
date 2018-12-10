@@ -1,0 +1,14 @@
+[2018-08-05 14:11:26.694678] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'gonzaloteros@gmail.com'
+    nombre: 'Gonzalo '
+    apellido: 'Oteros Gallinat'
+    empresa: ''
+    telefono: '652885091'
+    direccion: 'Josep Trueta 14  piso 5º puerta 2ª Sant Joan Despi'
+    provincia: 'Barcelona'
+    ciudad: 'SanJoanDespi'
+    postalcode: '08970'
+    factura: ''
+[2018-08-05 14:15:05.101346] [info] 799211371888
+[2018-08-05 14:15:05.301182] [info] Envio de correo del pedido: 799211371888 al comprador enviado correctamente.
+[2018-08-05 14:15:05.422436] [info] Envio de correo del pedido: 799211371888 al cliente enviado correctamente.

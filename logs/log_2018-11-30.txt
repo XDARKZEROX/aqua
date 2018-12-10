@@ -1,0 +1,14 @@
+[2018-11-30 11:19:21.527445] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ferdeg@gmail'
+    nombre: 'fernando'
+    apellido: 'degroote'
+    empresa: ''
+    telefono: '605066121'
+    direccion: 'Doctor Fleming 73 piso 6 puerta 1'
+    provincia: 'Barcelona'
+    ciudad: 'Castelldefels'
+    postalcode: '08860'
+    factura: ''
+[2018-11-30 11:20:56.591197] [info] 957001355677
+[2018-11-30 11:20:56.705769] [info] Envio de correo del pedido: 957001355677 al comprador enviado correctamente.
+[2018-11-30 11:20:56.789942] [info] Envio de correo del pedido: 957001355677 al cliente enviado correctamente.

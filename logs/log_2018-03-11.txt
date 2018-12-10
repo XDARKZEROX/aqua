@@ -1,0 +1,36 @@
+[2018-03-11 20:56:32.255834] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna'
+    apellido: 'Romero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Marqués de Sant Mori, 69-75 1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2018-03-11 21:03:04.485215] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna'
+    apellido: 'Romero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Marqués de Sant Mori, 69-75 1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2018-03-11 21:05:38.504277] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna'
+    apellido: 'Romero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Marqués de Sant Mori, 69-75 1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2018-03-11 21:07:27.903565] [info] 576179043262
+[2018-03-11 21:07:28.024745] [info] Envio de correo del pedido: 576179043262 al comprador enviado correctamente.
+[2018-03-11 21:07:28.177970] [info] Envio de correo del pedido: 576179043262 al cliente enviado correctamente.

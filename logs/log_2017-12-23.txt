@@ -1,0 +1,25 @@
+[2017-12-23 12:42:21.582767] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'dancingbcn@hotmail.com'
+    nombre: 'Pilar'
+    apellido: 'Juve'
+    empresa: ''
+    telefono: '615345845'
+    direccion: 'C/garcilaso 146 3°'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08027'
+    factura: ''
+[2017-12-23 21:49:04.812302] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'helenafrade@mac.com'
+    nombre: 'Helena'
+    apellido: 'Frade'
+    empresa: 'Sheb Art Box S.L'
+    telefono: '663476997'
+    direccion: 'Libra 10A'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28023'
+    factura: ''
+[2017-12-23 21:50:55.113979] [info] 047152493849
+[2017-12-23 21:50:55.246654] [info] Envio de correo del pedido: 047152493849 al comprador enviado correctamente.
+[2017-12-23 21:50:56.133716] [info] Envio de correo del pedido: 047152493849 al cliente enviado correctamente.

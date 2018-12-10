@@ -1,0 +1,75 @@
+[2017-06-11 1:42:18.394253] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'laura.carrasco22@icloud.com'
+    nombre: 'Laura '
+    apellido: 'Carrasco ramos '
+    empresa: ''
+    telefono: '684070509'
+    direccion: 'Florentin rotellar 13'
+    provincia: 'Cáceres '
+    ciudad: 'Coria '
+    postalcode: '10800'
+    factura: ''
+[2017-06-11 10:29:12.078325] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'laura.carrasco22@icloud.com'
+    nombre: 'Laura'
+    apellido: 'Carrasco ramos '
+    empresa: ''
+    telefono: '684070508'
+    direccion: 'Florentin rotellar 13'
+    provincia: 'Cáceres '
+    ciudad: 'Coria '
+    postalcode: '10800'
+    factura: ''
+[2017-06-11 10:31:15.046216] [info] 263778702801
+[2017-06-11 10:31:15.106126] [info] Envio de correo del pedido: 263778702801 al comprador enviado correctamente.
+[2017-06-11 10:31:15.169749] [info] Envio de correo del pedido: 263778702801 al cliente enviado correctamente.
+[2017-06-11 21:08:12.665004] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rogutierrez75@gmail.com'
+    nombre: 'Roberto'
+    apellido: 'Gutierrez'
+    empresa: ''
+    telefono: '609005819'
+    direccion: 'Calle maricadilla 5  2iz'
+    provincia: 'Palencia'
+    ciudad: 'Aguilardecampoo'
+    postalcode: '34800'
+    factura: 'Me llame el mensajero'
+[2017-06-11 21:11:41.779664] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rogutierrez75@ail.com'
+    nombre: 'Roberto'
+    apellido: 'Gutierrez '
+    empresa: ''
+    telefono: '609005819'
+    direccion: 'Calle maricadilla 5. 2 izq'
+    provincia: 'Palencia'
+    ciudad: 'Aguialarvdecampoo'
+    postalcode: '34800'
+    factura: ''
+[2017-06-11 21:20:40.061134] [info] 323833303086
+[2017-06-11 21:20:40.138452] [info] Envio de correo del pedido: 323833303086 al comprador enviado correctamente.
+[2017-06-11 21:20:40.203154] [info] Envio de correo del pedido: 323833303086 al cliente enviado correctamente.
+[2017-06-11 22:12:12.437503] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'JOSE MANUEL'
+    apellido: 'Blanco Montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'Calle Juana de Vega 2  planta 8'
+    provincia: 'ACoruna'
+    ciudad: 'ACoruna'
+    postalcode: '15003'
+    factura: ''
+[2017-06-11 22:13:52.614104] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'Jose Manuel'
+    apellido: 'Blanco Montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'Juana de Vega 2 planta 8'
+    provincia: 'LaCoruna'
+    ciudad: 'LaCoruna'
+    postalcode: '15003'
+    factura: ''
+[2017-06-11 22:17:09.126132] [info] 574662421047
+[2017-06-11 22:17:09.246125] [info] Envio de correo del pedido: 574662421047 al comprador enviado correctamente.
+[2017-06-11 22:17:09.295624] [info] Envio de correo del pedido: 574662421047 al cliente enviado correctamente.

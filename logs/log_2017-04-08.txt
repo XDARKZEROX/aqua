@@ -1,0 +1,3 @@
+[2017-04-08 15:59:55.070523] [info] 917965453129
+[2017-04-08 15:59:55.483584] [info] Envio de correo del pedido: 917965453129 al comprador enviado correctamente.
+[2017-04-08 15:59:55.548881] [info] Envio de correo del pedido: 917965453129 al cliente enviado correctamente.

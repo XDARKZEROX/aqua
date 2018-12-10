@@ -1,0 +1,3 @@
+[2017-04-14 0:08:28.365437] [info] 658532693824
+[2017-04-14 0:08:28.509366] [info] Envio de correo del pedido: 658532693824 al comprador enviado correctamente.
+[2017-04-14 0:08:28.587393] [info] Envio de correo del pedido: 658532693824 al cliente enviado correctamente.

@@ -1,0 +1,14 @@
+[2018-03-15 0:10:23.945801] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lauragaschp@yahoo.es'
+    nombre: 'Laura'
+    apellido: 'Gasch pastor '
+    empresa: ''
+    telefono: '629084933'
+    direccion: 'Rosario pino 12 5 puerta 1 escalera izquierda '
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28020'
+    factura: ''
+[2018-03-15 0:12:09.292151] [info] 665830940520
+[2018-03-15 0:12:09.474020] [info] Envio de correo del pedido: 665830940520 al comprador enviado correctamente.
+[2018-03-15 0:12:09.699474] [info] Envio de correo del pedido: 665830940520 al cliente enviado correctamente.

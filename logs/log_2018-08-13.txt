@@ -1,0 +1,14 @@
+[2018-08-13 6:52:01.357403] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karme32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Flor'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Vilanova i la Geltrú'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: 'Avisar al repartidor que debe entrar la compra hasta el interior del domicilio por imposibilidad de mover el peso de la compra caso contrario no se aceptara la compra Gracias por su atencion '
+[2018-08-13 6:53:11.905113] [info] 154184654874
+[2018-08-13 6:53:12.055596] [info] Envio de correo del pedido: 154184654874 al comprador enviado correctamente.
+[2018-08-13 6:53:12.106057] [info] Envio de correo del pedido: 154184654874 al cliente enviado correctamente.

@@ -1,0 +1,3 @@
+[2017-02-04 9:09:12.660375] [info] 891405396943
+[2017-02-04 9:09:12.803109] [info] Envio de correo del pedido: 891405396943 al comprador enviado correctamente.
+[2017-02-04 9:09:12.905474] [info] Envio de correo del pedido: 891405396943 al cliente enviado correctamente.

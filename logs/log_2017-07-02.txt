@@ -1,0 +1,14 @@
+[2017-07-02 12:14:37.912640] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kiraly1281@gmail.com'
+    nombre: 'alicia'
+    apellido: 'rodriguez'
+    empresa: ''
+    telefono: '627204908'
+    direccion: 'macizo de gredos 23'
+    provincia: 'valladolid'
+    ciudad: 'valladolid'
+    postalcode: '47008'
+    factura: ''
+[2017-07-02 12:15:38.851701] [info] 694518588924
+[2017-07-02 12:15:38.996879] [info] Envio de correo del pedido: 694518588924 al comprador enviado correctamente.
+[2017-07-02 12:15:39.052809] [info] Envio de correo del pedido: 694518588924 al cliente enviado correctamente.

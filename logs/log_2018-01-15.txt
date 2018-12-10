@@ -1,0 +1,64 @@
+[2018-01-15 0:07:03.549299] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nerejb86@gmail.com'
+    nombre: 'Nerea'
+    apellido: 'Jiménez Barba'
+    empresa: ''
+    telefono: '638004397'
+    direccion: 'Avenida la grandiella número 47 piso 5 letra D'
+    provincia: 'Aviles'
+    ciudad: 'Aviles'
+    postalcode: '33402'
+    factura: ''
+[2018-01-15 0:08:35.615581] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nerejb86@gmail.com'
+    nombre: 'Nerea'
+    apellido: 'Jiménez Barba'
+    empresa: ''
+    telefono: '638004397'
+    direccion: 'Avenida la grandiella número 47 piso 5 letra D'
+    provincia: 'Aviles'
+    ciudad: 'Aviles'
+    postalcode: '33402'
+    factura: ''
+[2018-01-15 8:39:43.522409] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua 23   4 Izd'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2018-01-15 8:42:03.508933] [info] 939007358383
+[2018-01-15 8:42:03.610224] [info] Envio de correo del pedido: 939007358383 al comprador enviado correctamente.
+[2018-01-15 8:42:03.663022] [info] Envio de correo del pedido: 939007358383 al cliente enviado correctamente.
+[2018-01-15 9:03:07.606656] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'myriam.mail@gmail.com'
+    nombre: 'MYRIAM'
+    apellido: 'JIMENEZ MORENO'
+    empresa: 'EXEO'
+    telefono: '670847006'
+    direccion: 'C NOBEL 3 2a PLANTA OFICINA 8'
+    provincia: 'SEVILLA'
+    ciudad: 'MAIRENADELALJARAFE'
+    postalcode: '41927'
+    factura: 'ENTREGA POR LAS MANANAS'
+[2018-01-15 9:04:31.074500] [info] 876177970735
+[2018-01-15 9:04:31.216001] [info] Envio de correo del pedido: 876177970735 al comprador enviado correctamente.
+[2018-01-15 9:04:31.279586] [info] Envio de correo del pedido: 876177970735 al cliente enviado correctamente.
+[2018-01-15 15:10:10.253349] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'amaia.alzola@gmail.com'
+    nombre: 'Amaia'
+    apellido: 'Alzola'
+    empresa: ''
+    telefono: '657717634'
+    direccion: 'Barrio Biterino 1'
+    provincia: 'Bizkaia'
+    ciudad: 'Dima'
+    postalcode: '48141'
+    factura: ''
+[2018-01-15 15:11:55.798679] [info] 983599415594
+[2018-01-15 15:11:55.925417] [info] Envio de correo del pedido: 983599415594 al comprador enviado correctamente.
+[2018-01-15 15:11:56.004311] [info] Envio de correo del pedido: 983599415594 al cliente enviado correctamente.

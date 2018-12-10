@@ -1,0 +1,25 @@
+[2017-11-14 0:44:46.176765] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua 23   4 Izd'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2017-11-14 0:47:07.701663] [info] 057210835813
+[2017-11-14 0:47:07.930706] [info] Envio de correo del pedido: 057210835813 al comprador enviado correctamente.
+[2017-11-14 0:47:08.140419] [info] Envio de correo del pedido: 057210835813 al cliente enviado correctamente.
+[2017-11-14 12:28:39.614752] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'aljee@hotmail.com'
+    nombre: 'sss'
+    apellido: 'sss'
+    empresa: ''
+    telefono: '666666666'
+    direccion: 'ghfhgfh'
+    provincia: 'hgfhgf'
+    ciudad: 'gfhgfhfgh'
+    postalcode: '08300'
+    factura: ''

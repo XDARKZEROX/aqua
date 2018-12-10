@@ -1,0 +1,14 @@
+[2017-11-15 19:15:14.171905] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ferromigl@gmail.com'
+    nombre: 'Ferran'
+    apellido: 'Romera Iglesias'
+    empresa: ''
+    telefono: '633063872'
+    direccion: 'Calle Valencia número 25 entresuelo 2'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08015'
+    factura: 'Lunes y martes entrega por la tarde a partir de las 16:00 y miércoles y jueves por las mañanas de 10:00 a 15:00'
+[2017-11-15 19:26:12.660984] [info] 578084113645
+[2017-11-15 19:26:12.758588] [info] Envio de correo del pedido: 578084113645 al comprador enviado correctamente.
+[2017-11-15 19:26:12.880232] [info] Envio de correo del pedido: 578084113645 al cliente enviado correctamente.

@@ -1,0 +1,23 @@
+[2018-12-06 10:18:26.986774] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'carmenbarral77@hotmail.com'
+    nombre: 'carmen'
+    apellido: 'barral picado'
+    empresa: ''
+    telefono: '653931521'
+    direccion: 'alcalde marchesi 17 3C'
+    provincia: 'a coruña'
+    ciudad: 'a coruña'
+    postalcode: '15006'
+    factura: ''
+[2018-12-06 19:37:17.348738] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'oriol.llamas@hotmail.com'
+    nombre: 'Oriol'
+    apellido: 'Llamas Llopart'
+    empresa: ''
+    telefono: '650414815'
+    direccion: 'c / Barrio Torrentfondo nº1'
+    provincia: 'Sant Llorenç d'Hortons'
+    ciudad: 'Sant Llorenç d'Hortons'
+    postalcode: '08791'
+    factura: ''
+[2018-12-06 19:39:14.680758] [info] 818063825736

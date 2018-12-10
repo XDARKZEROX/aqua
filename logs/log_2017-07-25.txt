@@ -1,0 +1,39 @@
+[2017-07-25 19:33:45.856870] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jma696969@gmail.com'
+    nombre: 'juan'
+    apellido: 'morales alcazar'
+    empresa: ''
+    telefono: '937313541'
+    direccion: 'roca i roca 204-206 bajos'
+    provincia: 'Barcelona'
+    ciudad: 'terrassa'
+    postalcode: '08226'
+    factura: ''
+[2017-07-25 19:35:36.230041] [info] 553148755729
+[2017-07-25 19:35:36.230159] [info] El pedido con codigo:  553148755729 se le ha denegado el pago
+[2017-07-25 19:36:54.296737] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jma696969@gmail.com'
+    nombre: 'juan'
+    apellido: 'alcazar'
+    empresa: ''
+    telefono: '937313541'
+    direccion: 'roca i roca 204-206 bajos'
+    provincia: 'Barcelona'
+    ciudad: 'terrassa'
+    postalcode: '08226'
+    factura: ''
+[2017-07-25 19:38:00.111485] [info] 735733712811
+[2017-07-25 19:38:00.111640] [info] El pedido con codigo:  735733712811 se le ha denegado el pago
+[2017-07-25 19:39:07.944391] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jma696969@gmail.com'
+    nombre: 'juan'
+    apellido: ' morales alcazar'
+    empresa: ''
+    telefono: '937313541'
+    direccion: 'roca i roca 204-206 bajos'
+    provincia: 'Barcelona'
+    ciudad: 'terrassa'
+    postalcode: '08226'
+    factura: ''
+[2017-07-25 19:40:09.887883] [info] 039385693152
+[2017-07-25 19:40:09.888006] [info] El pedido con codigo:  039385693152 se le ha denegado el pago

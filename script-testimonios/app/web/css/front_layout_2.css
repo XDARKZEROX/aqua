@@ -1,0 +1,409 @@
+@CHARSET "UTF-8";
+
+.pc-container a:link, .pc-container a:visited, .pc-container a:hover{
+	color: #74b71a;
+}
+
+/* comment list */
+.pc-comment-list{
+	overflow: hidden;
+	margin-bottom: 40px;
+}
+
+.pc-comment-box{
+	overflow: hidden;
+	border-top: 4px solid #f4f2f3;
+	padding-top: 12px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	color: #a8a9ab;
+}
+
+.pc-comment-box .heading{
+	overflow: hidden;
+	margin-bottom: 12px;
+	margin-left: 10px;
+}
+
+.pc-comment-box .heading .comment-detail{
+	overflow: hidden;
+	float: left;
+}
+.pc-comment-box .heading img.avatar{
+	display: block;
+	float: left;
+	margin-right: 6px;
+}
+.pc-comment-box .heading .comment-detail label{
+	color: #2c3a45;
+	font-size: 17px;
+	font-weight: bold;
+	display: block;
+	margin-bottom: 4px;
+}
+.pc-comment-box .heading .comment-detail label span{
+	font-size: 12px;
+	font-weight: normal;
+	color: #b8c1b0;
+}
+.pc-comment-box .heading .comment-detail .rating{
+	overflow: hidden;
+}
+.pc-comment-box .heading .comment-detail .rating span{
+	display: block;
+	height: 16px;
+	width: 16px;
+	background: url("../img/frontend/layout_2/small_star.png") no-repeat scroll 0 0 transparent;
+	float: left;
+}
+.pc-comment-box .heading .comment-detail .rating span.yellow-star{
+	background-position: 0 -16px;
+}
+.pc-comment-box .heading .vote-container{
+	overflow: hidden;
+	float: right;
+	margin-top: 6px;
+	margin-right: 6px;
+}
+.pc-comment-box .heading .vote-container a{
+	display: block;
+	float: right;
+	height: 24px;
+	width: 24px;
+	margin-left: 4px;
+}
+.pc-comment-box .heading .vote-container label{
+	display: block;
+	float: right;
+	padding-top: 7px;
+	margin-left: 4px;
+}
+.pc-comment-box .heading .vote-container label.like-count{
+	color: #ffffff;
+	background: url("../img/frontend/layout_2/score_green.png") no-repeat scroll 0 0 transparent;
+	width: 24px;
+	height: 30px;
+	text-align: center;
+}
+.pc-comment-box .heading .vote-container label.dislike-count{
+	color: #ffffff;
+	background: url("../img/frontend/layout_2/score_red.png") no-repeat scroll 0 0 transparent;
+	width: 30px;
+	width: 24px;
+	height: 30px;
+	text-align: center;
+}
+.pc-comment-box .heading .vote-container .pc-report{
+	background: url("../img/frontend/layout_2/report.png") no-repeat scroll 0 0 transparent;
+	margin-left: 4px;
+	border: 1px dotted #c2c2c2;
+}
+.pc-comment-box .heading .vote-container .vote-border{
+	border: 1px dotted #c2c2c2;
+	overflow: hidden;
+	float: right;
+	margin-left: 4px;
+}
+.pc-comment-box .heading .vote-container a.like{
+	background: url("../img/frontend/layout_2/like.png") no-repeat scroll 0 0 transparent;
+}
+.pc-comment-box .heading .vote-container a.dislike{
+	background: url("../img/frontend/layout_2/dislike.png") no-repeat scroll 0 0 transparent;
+}
+.pc-comment-box .heading .vote-container a:HOVER{
+	background-position: 0 -24px;
+}
+.pc-comment-box .comment-text{
+	line-height: 20px;
+	color: #aaa8a9;
+	margin-left: 10px;
+}
+.pc-comment-box .file-list{
+	margin-top: 8px;
+	margin-left: 10px;
+}
+.pc-comment-box .file-list label{
+	display: block;
+	float: left;
+	margin-right: 5px;
+	color: #535353;
+}
+.pc-comment-box ul{
+	padding: 0px;
+	list-style: none;
+	margin-bottom: 4px;
+	overflow: hidden;
+}
+.pc-comment-box ul li a{
+	text-decoration: none;
+}
+
+/* pagination */
+.pc-paging-container{
+	overflow: hidden;
+}
+.pc-paginator{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.pc-paginator li{
+	display: block;
+	float: left;
+	height: 39px;
+}
+.pc-paginator li.dot{
+	height: 39px;
+	width: 37px;
+	text-align: center;
+	background: url("../img/frontend/layout_2/pag_back.png") no-repeat scroll 0 0 transparent;
+}
+.pc-paginator li.dot span{
+	font-size: 15px;
+	font: bold;
+	margin-top: 10px;
+	display: block;
+}
+.pc-paginator li a{
+	display: block;
+	float: left;
+}
+.pc-paginator li a.page-node{
+	color: #44a405;
+	height: 39px;
+	width: 37px;
+	text-align: center;
+	background: url("../img/frontend/layout_2/pag_back.png") no-repeat scroll 0 0 transparent;
+}
+.pc-paginator li a.page-node span{
+	display: block;
+	margin-top: 13px;
+}
+.pc-paginator li a.link-next{
+	margin-right: 6px;
+	background: url("../img/frontend/layout_2/next.png") no-repeat scroll 0 0 transparent;
+	height: 39px;
+	width: 70px;
+}
+.pc-paginator li a.link-previous{
+	background: url("../img/frontend/layout_2/prev.png") no-repeat scroll 0 0 transparent;
+	height: 39px;
+	width: 93px;
+}
+.pc-paginator li a.page-link{
+	color: #44a405;
+}
+.pc-paginator li a.page-link span{
+	margin-top: 13px;
+	display: block;
+}
+.pc-paginator li a.link-next span{
+	margin-left: 14px;
+}
+.pc-paginator li a.link-previous span{
+	margin-left: 30px;
+}
+.pc-paginator li a.current{
+	background-position: 0 -39px;
+	color: #252523;
+}
+.pc-paginator li a.page-node:HOVER{
+	color: #252523;
+	background-position: 0 -39px;
+}
+.pc-paginator li a.link-next:hover, .pc-paginator li a.link-previous:hover{
+	color: #252523;
+	background-position: 0 -39px;
+}
+/* buttons */
+.pc-button{
+	display: block;
+	height: 45px;
+	width: 162px;
+	color: #ffffff;
+	background: url(../img/frontend/layout_2/btn_background.png) 0 0 no-repeat;
+	border: none;
+	font-size: 14px;
+	font-weight: bold;
+}
+.pc-small-button{
+	display: block;
+	height: 30px;
+	width: 108px;
+	color: #ffffff;
+	background: url(../img/frontend/layout_2/btn_small_background.png) 0 0 no-repeat;
+	border: none;
+	font-size: 13px;
+	font-weight: bold;
+}
+.pc-small-button:hover{
+	background-position: 0 -30px;
+	cursor: pointer;
+}
+.pc-button:hover{
+	background-position: 0 -45px;
+	cursor: pointer;
+}
+
+/* post comment form */
+
+.pc-form{
+	
+}
+.pc-form p{
+	overflow: hidden;
+	margin: 0 0 24px;
+}
+.pc-form p .checkbox{
+	cursor: pointer;
+}
+.pc-form label.title{
+	display: block;
+	float: left;
+	padding: 6px 0 0;
+	width: 120px;
+	color: #2b3946;
+	font-size: 13px;
+}
+.pc-form .text, .pc-form .textarea{
+	border: 1px dotted #e6e6e6;
+    border-radius: 3px 3px 3px 3px;
+    padding: 8px 6px;
+    font-size: 12px;
+    font-family: inherit;
+    background-color: #fbf9fa;
+    color: #2B3944;
+}
+.pc-form .text:focus, .pc-form .textarea:focus{
+	border: 1px solid #91e456;
+    box-shadow: 0 0 5px rgba(145, 228, 86, 0.6);
+    outline: medium none;
+    background-color: #ffffff;
+}
+.pc-form span.rating{
+	float: left;
+	display: block;
+	overflow: hidden;
+	border: 1px dotted #c2c2c2;
+	border-radius: 3px 3px 3px 3px;
+	padding: 4px;
+	background-color: #fbf9fa;
+}
+.pc-form span.rating:hover{
+	border: 1px solid #91e456;
+    box-shadow: 0 0 5px rgba(145, 228, 86, 0.6);
+    outline: medium none;
+    background-color: #ffffff;
+}
+.pc-form span.rating span.pc-star {
+	background: url(../img/frontend/layout_2/star.png) 0 0 no-repeat;
+	height: 22px;
+	width: 22px;
+	float: left;
+	display: block;
+}
+.pc-form span.rating span.star-hover{
+	background-position: 0 -22px;
+	cursor: pointer;
+}
+
+.pc-form-container{
+	overflow: hidden;
+	margin-bottom: 40px;
+}
+.pc-form-container .pc-heading{
+	overflow: hidden;
+	height: 44px;
+	border-top: 4px solid #f4f2f3;
+	padding-top: 10px;
+}
+.pc-form-container .pc-heading .pc-title{
+	overflow: hidden;
+	float: left;
+}
+.pc-form-container .pc-heading .pc-title .left{
+	height: 44px;
+	width: 6px;
+	float: left;
+}
+.pc-form-container .pc-heading .pc-title .middle{
+	height: 44px;
+	float: left;
+}
+.pc-form-container .pc-heading .pc-title .title-text{
+	display: block;
+	margin: 13px 16px 0px 10px;
+	color: #2b3944;
+	font-size: 18px;
+	font-weight: bold;
+	
+}
+.pc-form-container .pc-heading .pc-title .right{
+	height: 44px;
+	width: 6px;
+	float: left;
+}
+.pc-form-container .pc-heading .pc-menu{
+	overflow: hidden;
+	float: right;
+	margin-top: 4px;
+}
+.pc-form-container .pc-heading .pc-menu abbr{
+	display: block;
+	float: right;
+}
+.pc-form-container .pc-heading .pc-menu .pc-menu-item{
+	display: block;
+	float: right;
+	height: 33px;
+	text-align: center;
+}
+.pc-form-container .pc-heading .pc-menu .pc-menu-item span{
+	display: block;
+	margin-top: 9px;
+}
+.pc-form-container .pc-heading .pc-menu .left-item{
+	width: 75px;
+	background: url("../img/frontend/layout_2/menu_left.png") no-repeat scroll 0 0 transparent;
+}
+.pc-form-container .pc-heading .pc-menu .right-item{
+	width: 75px;
+	background: url("../img/frontend/layout_2/menu_right.png") no-repeat scroll 0 0 transparent;
+}
+.pc-form-container .pc-heading .pc-menu .pc-menu-item:hover{
+	background-position: 0 -33px;
+}
+.pc-form .pc-avatar{
+	display: block;
+	width: 60px;
+}
+.pc-form .pc-remove-icon{
+	background: url("../img/frontend/icon-delete.png") no-repeat scroll 0 0 transparent;
+    color: #74b71a;
+    cursor: pointer;
+    display: block;
+    height: 16px;
+    line-height: 16px;
+    margin-left: 120px;
+    margin-top: 3px;
+    text-decoration: none;
+    text-indent: 20px;
+    width: 80px;
+}
+/* pc-error-message */
+.pc-message-container{
+	display: none;
+	color: red;
+	margin-bottom: 20px;
+}
+.pc-message-container ul li{
+	line-height: 20px;
+}
+.pc-message{
+	font-size: 14px;
+	color: #74b71a;
+}
+.pc-error{
+	font-size: 14px;
+	color: red;
+}

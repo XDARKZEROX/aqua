@@ -1,0 +1,25 @@
+[2017-12-30 14:00:50.725274] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fdrovira@gmail.com'
+    nombre: 'Francisco'
+    apellido: 'Diaz'
+    empresa: 'Rovira'
+    telefono: '649922840'
+    direccion: 'Salzillo 24'
+    provincia: 'Yecla'
+    ciudad: 'Murcia'
+    postalcode: '30510'
+    factura: ''
+[2017-12-30 14:02:22.712650] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fdrovira@gmail.com'
+    nombre: 'Francisco'
+    apellido: 'Diaz rovira'
+    empresa: ''
+    telefono: '649922840'
+    direccion: 'Salizllo 24 bajo'
+    provincia: 'Murcia'
+    ciudad: 'Yecla'
+    postalcode: '30510'
+    factura: ''
+[2017-12-30 14:04:44.394184] [info] 716300635145
+[2017-12-30 14:04:44.598613] [info] Envio de correo del pedido: 716300635145 al comprador enviado correctamente.
+[2017-12-30 14:04:44.740789] [info] Envio de correo del pedido: 716300635145 al cliente enviado correctamente.

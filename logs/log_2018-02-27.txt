@@ -1,0 +1,39 @@
+[2018-02-27 9:52:47.444181] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mariluz@workman.es'
+    nombre: 'MARIA LUZ'
+    apellido: 'ULLA CASANOVA'
+    empresa: ''
+    telefono: '616590978'
+    direccion: 'SOBORVILA 18'
+    provincia: 'LUGO'
+    ciudad: 'LUGO'
+    postalcode: '27150'
+    factura: ''
+[2018-02-27 9:54:10.527076] [info] 426580842077
+[2018-02-27 9:54:10.740547] [info] Envio de correo del pedido: 426580842077 al comprador enviado correctamente.
+[2018-02-27 9:54:10.844451] [info] Envio de correo del pedido: 426580842077 al cliente enviado correctamente.
+[2018-02-27 17:21:46.595659] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'montsesaura@hotmail.com'
+    nombre: 'Montse'
+    apellido: 'Saura Quesada'
+    empresa: ''
+    telefono: '620225500'
+    direccion: 'Noguera Pallaresa 26 bjo int'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08014'
+    factura: '10 a 15 horas'
+[2018-02-27 17:25:01.128829] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'montsesaura@hotmail.com'
+    nombre: 'Montse'
+    apellido: 'Saura Quesada'
+    empresa: ''
+    telefono: '620225500'
+    direccion: 'Noguera Pallaresa 26 bjo int'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08014'
+    factura: '10 a 15 horas'
+[2018-02-27 17:27:18.801964] [info] 372391931876
+[2018-02-27 17:27:18.972639] [info] Envio de correo del pedido: 372391931876 al comprador enviado correctamente.
+[2018-02-27 17:27:19.044579] [info] Envio de correo del pedido: 372391931876 al cliente enviado correctamente.

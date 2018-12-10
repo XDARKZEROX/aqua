@@ -1,0 +1,14 @@
+[2018-05-25 11:33:36.913356] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'cmunozpuig@gmail.com'
+    nombre: 'Clara '
+    apellido: 'MUNOZ PUIG'
+    empresa: ''
+    telefono: '606707653'
+    direccion: 'Cuesta del águila,74'
+    provincia: 'Madrid'
+    ciudad: 'Navalcarnero'
+    postalcode: '28600'
+    factura: ''
+[2018-05-25 11:38:36.175479] [info] 791182986480
+[2018-05-25 11:38:36.262881] [info] Envio de correo del pedido: 791182986480 al comprador enviado correctamente.
+[2018-05-25 11:38:36.333190] [info] Envio de correo del pedido: 791182986480 al cliente enviado correctamente.

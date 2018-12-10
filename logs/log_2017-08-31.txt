@@ -1,0 +1,63 @@
+[2017-08-31 8:41:13.540868] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'helenafrade@me.com'
+    nombre: 'Helena'
+    apellido: 'Frade Rotlander'
+    empresa: 'Sheb Art Box'
+    telefono: '663476997'
+    direccion: 'Libra 10 A'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28023'
+    factura: 'B87564852'
+[2017-08-31 10:45:56.113090] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mbaer@baer.cat'
+    nombre: 'Maria'
+    apellido: 'Baer Pakhomova'
+    empresa: 'Baer Inversions i Consultoria, S.L., CIF: B17681099'
+    telefono: '639775228'
+    direccion: 'Av. Punta Prima, 5, esc. 2, ap. 231'
+    provincia: 'Girona'
+    ciudad: 'Platja d’Aro'
+    postalcode: '17250'
+    factura: 'Entraga: 10:00 – 14:00'
+[2017-08-31 10:49:14.566572] [info] 233098864265
+[2017-08-31 10:49:14.692683] [info] Envio de correo del pedido: 233098864265 al comprador enviado correctamente.
+[2017-08-31 10:49:14.776587] [info] Envio de correo del pedido: 233098864265 al cliente enviado correctamente.
+[2017-08-31 12:19:29.523494] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jesuscut@gmail-com'
+    nombre: 'JESUS'
+    apellido: 'SANCHEZ'
+    empresa: 'CUTTING INTERNATIONAL SYSTEMS'
+    telefono: '670067172'
+    direccion: 'POL 26  AVDA DONOSTI 124 NAVE 11 BAJO'
+    provincia: 'GUIPUZCOA'
+    ciudad: 'ASTIGARRAGA'
+    postalcode: '20115'
+    factura: ''
+[2017-08-31 12:21:17.349802] [info] 743196695252
+[2017-08-31 12:21:17.349921] [info] El pedido con codigo:  743196695252 se le ha denegado el pago
+[2017-08-31 13:11:52.195116] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'daviniamt@yahoo.es'
+    nombre: 'Davinia'
+    apellido: 'Martinez'
+    empresa: ''
+    telefono: '663844221'
+    direccion: 'Urb.tres pins bloque I1 2º1ª'
+    provincia: 'Barcelona'
+    ciudad: 'Elsmonjos'
+    postalcode: '08730'
+    factura: 'Quisiera poder recibir el pedido por la tarde ya que por la mañana me es muy complicado estar muchas gracias'
+[2017-08-31 13:14:38.484698] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'daviniamt@yahoo.es'
+    nombre: 'Davinia'
+    apellido: 'Martinez'
+    empresa: ''
+    telefono: '663844221'
+    direccion: 'Urb. Tres pins bloque I1 2º1º'
+    provincia: 'Barcelona'
+    ciudad: 'Elsmonjos'
+    postalcode: '08730'
+    factura: 'Quisiera recibir los pedidos por la tarde ya que por la mañana no suele haber nadie en casa muchas gracias'
+[2017-08-31 13:17:12.408627] [info] 377401006203
+[2017-08-31 13:17:12.468622] [info] Envio de correo del pedido: 377401006203 al comprador enviado correctamente.
+[2017-08-31 13:17:12.517997] [info] Envio de correo del pedido: 377401006203 al cliente enviado correctamente.

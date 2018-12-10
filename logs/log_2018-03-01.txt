@@ -1,0 +1,28 @@
+[2018-03-01 7:38:08.856554] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'a.retres32@gmail.com'
+    nombre: 'Alfons'
+    apellido: 'Retres Estany'
+    empresa: ''
+    telefono: '629040235'
+    direccion: 'Pla de lAmetllera 101  2  3'
+    provincia: 'Barcelona'
+    ciudad: 'Terrassa'
+    postalcode: '08225'
+    factura: 'Si no estoy dejad aviso para recoger'
+[2018-03-01 7:39:48.299009] [info] 943118412424
+[2018-03-01 7:39:48.400192] [info] Envio de correo del pedido: 943118412424 al comprador enviado correctamente.
+[2018-03-01 7:39:48.469558] [info] Envio de correo del pedido: 943118412424 al cliente enviado correctamente.
+[2018-03-01 11:21:00.099801] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'amaia.alzola@gmail.com'
+    nombre: 'Amaia'
+    apellido: 'ALZOLA'
+    empresa: ''
+    telefono: '657717634'
+    direccion: 'Barrio Biterino 1'
+    provincia: 'BIZKAIA'
+    ciudad: 'DIMA'
+    postalcode: '48141'
+    factura: ''
+[2018-03-01 11:24:40.982038] [info] 539111274255
+[2018-03-01 11:24:41.127382] [info] Envio de correo del pedido: 539111274255 al comprador enviado correctamente.
+[2018-03-01 11:24:41.194267] [info] Envio de correo del pedido: 539111274255 al cliente enviado correctamente.

@@ -1,0 +1,51 @@
+[2017-10-01 11:23:47.742746] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ccasanovas14@gmail.com'
+    nombre: 'Cristina'
+    apellido: 'Casanovas Herrero'
+    empresa: ''
+    telefono: '650506771'
+    direccion: 'Calle Muntaner 341 7o2a'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08022'
+    factura: ''
+[2017-10-01 11:26:36.340468] [info] 856293879452
+[2017-10-01 11:26:37.275181] [info] Envio de correo del pedido: 856293879452 al comprador enviado correctamente.
+[2017-10-01 11:26:37.323904] [info] Envio de correo del pedido: 856293879452 al cliente enviado correctamente.
+[2017-10-01 15:22:15.488070] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'evabdos@hotmail.com'
+    nombre: 'eva'
+    apellido: 'borrega mazo'
+    empresa: ''
+    telefono: '667752098'
+    direccion: 'carer igualada n7   '
+    provincia: 'barcelona'
+    ciudad: 'vilanobadelcami'
+    postalcode: '08788'
+    factura: ''
+[2017-10-01 15:24:58.614294] [info] 919106611356
+[2017-10-01 15:24:58.614406] [info] El pedido con codigo:  919106611356 se le ha denegado el pago
+[2017-10-01 15:31:40.168113] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'evabdos@hotmail.com'
+    nombre: 'eva'
+    apellido: 'borrega mazo'
+    empresa: ''
+    telefono: '667752098'
+    direccion: 'carrer  igualada  n7'
+    provincia: 'barcelona'
+    ciudad: 'vilanobadelcami'
+    postalcode: '08788'
+    factura: ''
+[2017-10-01 15:40:48.751856] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'evabdos@hotmail.com'
+    nombre: 'eva'
+    apellido: 'borrega mazo'
+    empresa: ''
+    telefono: '667752098'
+    direccion: 'carrer  igualada  n7'
+    provincia: 'barcelona'
+    ciudad: 'vilanobadelcami'
+    postalcode: '08788'
+    factura: ''
+[2017-10-01 15:42:11.586833] [info] 431652481361
+[2017-10-01 15:42:11.586988] [info] El pedido con codigo:  431652481361 se le ha denegado el pago

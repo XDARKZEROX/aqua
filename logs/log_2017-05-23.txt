@@ -1,0 +1,33 @@
+[2017-05-23 9:03:52.541160] [info] 362558285347
+[2017-05-23 9:03:52.633621] [info] Envio de correo del pedido: 362558285347 al comprador enviado correctamente.
+[2017-05-23 9:03:52.733812] [info] Envio de correo del pedido: 362558285347 al cliente enviado correctamente.
+[2017-05-23 10:25:00.208338] [info] 310738436226
+[2017-05-23 10:25:00.290612] [info] Envio de correo del pedido: 310738436226 al comprador enviado correctamente.
+[2017-05-23 10:25:00.341259] [info] Envio de correo del pedido: 310738436226 al cliente enviado correctamente.
+[2017-05-23 16:32:47.540551] [info] 527194602809
+[2017-05-23 16:32:47.601661] [info] Envio de correo del pedido: 527194602809 al comprador enviado correctamente.
+[2017-05-23 16:32:47.699893] [info] Envio de correo del pedido: 527194602809 al cliente enviado correctamente.
+[2017-05-23 22:47:25.744904] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nocturnal.classical@gmail.com'
+    nombre: 'Alexander'
+    apellido: 'Guzman'
+    empresa: 'costamar'
+    telefono: '992064167'
+    direccion: 'Jr Manuel Velarde 930, Zona D'
+    provincia: 'Lima'
+    ciudad: 'Lima'
+    postalcode: '15074'
+    factura: ''
+[2017-05-23 22:47:30.196069] [info] Envio de correo del pedido: 499929051331 al comprador enviado correctamente.
+[2017-05-23 22:47:30.265604] [info] Envio de correo del pedido: 499929051331 al cliente enviado correctamente.
+[2017-05-23 22:49:06.784265] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nocturnal.classical@gmail.com'
+    nombre: 'Alexander'
+    apellido: 'Guzman'
+    empresa: 'fff'
+    telefono: '992064167'
+    direccion: 'Jr Manuel Velarde 930, Zona D'
+    provincia: 'Lima'
+    ciudad: 'Lima'
+    postalcode: '15074'
+    factura: ''

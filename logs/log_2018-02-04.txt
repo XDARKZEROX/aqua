@@ -1,0 +1,39 @@
+[2018-02-04 15:51:56.099585] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'alex@elarcangel.com'
+    nombre: 'Alejandro'
+    apellido: 'Sánchez Bueno'
+    empresa: ''
+    telefono: '639076806'
+    direccion: 'Antonio López 234, Esc. H Ático B'
+    provincia: 'Comunidad de Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28026'
+    factura: ''
+[2018-02-04 15:54:20.060853] [info] 581481894247
+[2018-02-04 15:54:20.447710] [info] Envio de correo del pedido: 581481894247 al comprador enviado correctamente.
+[2018-02-04 15:54:20.572400] [info] Envio de correo del pedido: 581481894247 al cliente enviado correctamente.
+[2018-02-04 20:45:32.834332] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pere.gomez@llap.jazztel.es'
+    nombre: 'Pere'
+    apellido: 'Gómez Castell'
+    empresa: ''
+    telefono: '656334946'
+    direccion: 'carrer Bigai 11 entlo 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08022'
+    factura: 'si no hay nadie en casa dejarlo al Sr portero'
+[2018-02-04 20:48:04.274965] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pere.gomez@llap.jazztel.es'
+    nombre: 'Pere'
+    apellido: 'Gómez Castell'
+    empresa: ''
+    telefono: '656334946'
+    direccion: 'carrer Bigai 11 entlo 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08022'
+    factura: 'si no hay nadie en casa dejarlo al Sr portero'
+[2018-02-04 20:49:31.667433] [info] 366093723210
+[2018-02-04 20:49:31.803242] [info] Envio de correo del pedido: 366093723210 al comprador enviado correctamente.
+[2018-02-04 20:49:31.850585] [info] Envio de correo del pedido: 366093723210 al cliente enviado correctamente.

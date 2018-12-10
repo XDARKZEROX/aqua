@@ -1,0 +1,14 @@
+[2018-05-02 11:03:23.142247] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'adriangf1993@gmail.com'
+    nombre: 'ADRIAN'
+    apellido: 'GONZALEZ FRANCO'
+    empresa: ''
+    telefono: '633200074'
+    direccion: 'CALLE LODAIRO 113'
+    provincia: 'CORUA'
+    ciudad: 'NARON'
+    postalcode: '15570'
+    factura: ''
+[2018-05-02 11:04:37.741172] [info] 969049085500
+[2018-05-02 11:04:37.859669] [info] Envio de correo del pedido: 969049085500 al comprador enviado correctamente.
+[2018-05-02 11:04:38.035429] [info] Envio de correo del pedido: 969049085500 al cliente enviado correctamente.

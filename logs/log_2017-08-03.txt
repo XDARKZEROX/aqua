@@ -1,0 +1,28 @@
+[2017-08-03 15:57:04.424609] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jorge_vasquez81@hotmail.com'
+    nombre: 'jorge luis'
+    apellido: 'vasquez guerrero'
+    empresa: ''
+    telefono: '637344291'
+    direccion: 'CALLE DE LAS FLAUTAS 54 . 4-1'
+    provincia: 'MADRID'
+    ciudad: 'MADRID'
+    postalcode: '28054'
+    factura: ''
+[2017-08-03 15:59:53.642235] [info] 658962516370
+[2017-08-03 15:59:53.709765] [info] Envio de correo del pedido: 658962516370 al comprador enviado correctamente.
+[2017-08-03 15:59:53.769033] [info] Envio de correo del pedido: 658962516370 al cliente enviado correctamente.
+[2017-08-03 17:37:10.703747] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monicaquerol@gmail.com'
+    nombre: 'Monica'
+    apellido: 'Querol Querol'
+    empresa: ''
+    telefono: '607844399'
+    direccion: 'Virgen de Gracia 35'
+    provincia: 'Castellon'
+    ciudad: 'Cinctorres'
+    postalcode: '12318'
+    factura: 'La direccion de entrega es la casa de mi abuela Enriqueta Gasulla'
+[2017-08-03 17:39:04.169786] [info] 658579878290
+[2017-08-03 17:39:04.304611] [info] Envio de correo del pedido: 658579878290 al comprador enviado correctamente.
+[2017-08-03 17:39:04.408327] [info] Envio de correo del pedido: 658579878290 al cliente enviado correctamente.

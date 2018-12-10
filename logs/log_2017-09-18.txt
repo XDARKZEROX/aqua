@@ -1,0 +1,25 @@
+[2017-09-18 14:36:55.062616] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mercewoman@hotmail.com'
+    nombre: 'Mercedes'
+    apellido: 'Jimenez Perea'
+    empresa: ''
+    telefono: '649782122'
+    direccion: 'Murillo n°29'
+    provincia: 'Huelva'
+    ciudad: 'Bollullos del condado'
+    postalcode: '21710'
+    factura: ''
+[2017-09-18 14:39:55.844630] [info] 210890541012
+[2017-09-18 14:39:55.915371] [info] Envio de correo del pedido: 210890541012 al comprador enviado correctamente.
+[2017-09-18 14:39:55.971853] [info] Envio de correo del pedido: 210890541012 al cliente enviado correctamente.
+[2017-09-18 23:03:05.656101] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'yolandalozanog@hotmail.com'
+    nombre: 'Yolanda'
+    apellido: 'Lozano Guerra'
+    empresa: ''
+    telefono: '656922320'
+    direccion: 'Calle Marqués de Cádiz número 38'
+    provincia: 'Cadiz'
+    ciudad: 'Jerez de la Frontera '
+    postalcode: '11404'
+    factura: ''

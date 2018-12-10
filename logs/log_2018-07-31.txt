@@ -1,0 +1,14 @@
+[2018-07-31 12:44:44.342222] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kwtaylor83@gmail.com'
+    nombre: 'Keith'
+    apellido: 'Taylor'
+    empresa: ''
+    telefono: '625828798'
+    direccion: 'Calle Estocolm 3 Entresuelo 2'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08005'
+    factura: ''
+[2018-07-31 12:45:17.718676] [info] 547543144432
+[2018-07-31 12:45:17.799459] [info] Envio de correo del pedido: 547543144432 al comprador enviado correctamente.
+[2018-07-31 12:45:17.877816] [info] Envio de correo del pedido: 547543144432 al cliente enviado correctamente.

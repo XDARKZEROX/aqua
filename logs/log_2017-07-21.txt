@@ -1,0 +1,14 @@
+[2017-07-21 10:30:02.541207] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'gema72009@hotmail.com'
+    nombre: 'GEMMA'
+    apellido: 'BARROS LOPEZ'
+    empresa: ''
+    telefono: '685826985'
+    direccion: 'MARCONI SN NAVE 5 MRW'
+    provincia: 'BARCELONA'
+    ciudad: 'BARCELONA'
+    postalcode: '08210'
+    factura: 'BARBERA DEL VALLES'
+[2017-07-21 10:31:11.251331] [info] 383650487395
+[2017-07-21 10:31:12.175059] [info] Envio de correo del pedido: 383650487395 al comprador enviado correctamente.
+[2017-07-21 10:31:12.255970] [info] Envio de correo del pedido: 383650487395 al cliente enviado correctamente.

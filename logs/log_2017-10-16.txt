@@ -1,0 +1,78 @@
+[2017-10-16 10:46:26.612585] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jesuscut@gmail-com'
+    nombre: 'JESUS'
+    apellido: 'SANCHEZ'
+    empresa: 'CUTTING INTERNATIONAL SYSTEMS'
+    telefono: '670067172'
+    direccion: 'POL 26  AVDA DONOSTI 124 NAVE 11 BAJO'
+    provincia: 'GUIPUZCOA'
+    ciudad: 'ASTIGARRAGA'
+    postalcode: '20115'
+    factura: ''
+[2017-10-16 10:48:47.794327] [info] 761193667144
+[2017-10-16 10:48:47.898941] [info] Envio de correo del pedido: 761193667144 al comprador enviado correctamente.
+[2017-10-16 10:48:47.952721] [info] Envio de correo del pedido: 761193667144 al cliente enviado correctamente.
+[2017-10-16 12:29:10.422547] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'daviniamt@yahoo.es'
+    nombre: 'Davinia'
+    apellido: 'Martínez Tapia '
+    empresa: ''
+    telefono: '663844221'
+    direccion: 'UrbTres Pins bloque I1 2ª1ª'
+    provincia: 'Santamaragaridaielsmonjos'
+    ciudad: 'Barcelona'
+    postalcode: '08730'
+    factura: ''
+[2017-10-16 12:30:50.804330] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'daviniamt@yahoo.es'
+    nombre: 'Davinia '
+    apellido: 'Martinez tapia'
+    empresa: ''
+    telefono: '663844221'
+    direccion: 'Urb tres Pins bloque I1 2º1ª'
+    provincia: 'Santamargaridaielsmonjos'
+    ciudad: 'Barcelona'
+    postalcode: '08730'
+    factura: ''
+[2017-10-16 12:33:07.405585] [info] 147465137717
+[2017-10-16 12:33:07.472753] [info] Envio de correo del pedido: 147465137717 al comprador enviado correctamente.
+[2017-10-16 12:33:07.537628] [info] Envio de correo del pedido: 147465137717 al cliente enviado correctamente.
+[2017-10-16 14:36:25.386874] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'marthahaces@hotmail.com'
+    nombre: 'MARTHA'
+    apellido: 'HACES'
+    empresa: ''
+    telefono: '682767792'
+    direccion: 'GOYA 67 4TO PISO IZQUIERDA B'
+    provincia: 'MADRID'
+    ciudad: 'MADRID'
+    postalcode: '28001'
+    factura: ''
+[2017-10-16 14:42:51.492782] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'manusancu@hotmail.com'
+    nombre: 'manuel angel'
+    apellido: 'santos cuñado'
+    empresa: ''
+    telefono: '635791972'
+    direccion: 'avd padre isla N53 2D'
+    provincia: 'leon'
+    ciudad: 'leon'
+    postalcode: '24002'
+    factura: ''
+[2017-10-16 14:50:33.594626] [info] 814331145069
+[2017-10-16 14:50:33.687274] [info] Envio de correo del pedido: 814331145069 al comprador enviado correctamente.
+[2017-10-16 14:50:33.730654] [info] Envio de correo del pedido: 814331145069 al cliente enviado correctamente.
+[2017-10-16 15:00:56.412095] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'graciano.07@hotmail.com'
+    nombre: 'Elena'
+    apellido: 'Graciano López'
+    empresa: 'Año'
+    telefono: '635739151'
+    direccion: 'C/San Vicente, 10 - 6 C'
+    provincia: 'Vizcaya'
+    ciudad: 'Barakaldo'
+    postalcode: '48902'
+    factura: 'Entrega al mediodía'
+[2017-10-16 15:02:52.200284] [info] 112151118604
+[2017-10-16 15:02:52.292303] [info] Envio de correo del pedido: 112151118604 al comprador enviado correctamente.
+[2017-10-16 15:02:52.348798] [info] Envio de correo del pedido: 112151118604 al cliente enviado correctamente.

@@ -1,0 +1,14 @@
+[2018-06-04 13:17:15.760488] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'ANNA '
+    apellido: 'ROMERO MONTERO'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Av MARQUES DE sANT mORI 69 1 2'
+    provincia: 'BARCELONA'
+    ciudad: 'BADALONA'
+    postalcode: '08913'
+    factura: ''
+[2018-06-04 13:18:09.939960] [info] 441589795805
+[2018-06-04 13:18:10.045813] [info] Envio de correo del pedido: 441589795805 al comprador enviado correctamente.
+[2018-06-04 13:18:10.095877] [info] Envio de correo del pedido: 441589795805 al cliente enviado correctamente.

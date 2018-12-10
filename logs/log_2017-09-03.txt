@@ -1,0 +1,53 @@
+[2017-09-03 12:23:14.548685] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'prubalcaba@kpmg.es'
+    nombre: 'Paloma'
+    apellido: 'Rubalcaba'
+    empresa: 'particular'
+    telefono: '699082036'
+    direccion: 'Marceliano Santamaria 12'
+    provincia: 'madrid'
+    ciudad: 'madrid'
+    postalcode: '28036'
+    factura: 'Dejar en porteria de lunes a viernes de 9h a 13h o de 18h a 20h'
+[2017-09-03 12:24:49.016415] [info] 902785774595
+[2017-09-03 12:24:49.203097] [info] Envio de correo del pedido: 902785774595 al comprador enviado correctamente.
+[2017-09-03 12:24:49.276865] [info] Envio de correo del pedido: 902785774595 al cliente enviado correctamente.
+[2017-09-03 18:37:44.660993] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'martin.donezar@gmail.com'
+    nombre: 'Ana'
+    apellido: 'Apat'
+    empresa: ''
+    telefono: '646243136'
+    direccion: 'C/Sancho Ramirez 21, 1ºB'
+    provincia: 'Navarra'
+    ciudad: 'Pamplona'
+    postalcode: '31008'
+    factura: ''
+[2017-09-03 18:49:31.409578] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'martin.donezar@gmail.com'
+    nombre: 'Ana'
+    apellido: 'Apat'
+    empresa: ''
+    telefono: '646243136'
+    direccion: 'C/Sancho Ramirez 21, 1ºB'
+    provincia: 'Navarra'
+    ciudad: 'Pamplona'
+    postalcode: '31008'
+    factura: ''
+[2017-09-03 18:50:25.421866] [info] 673984301804
+[2017-09-03 18:50:25.619657] [info] Envio de correo del pedido: 673984301804 al comprador enviado correctamente.
+[2017-09-03 18:50:25.710172] [info] Envio de correo del pedido: 673984301804 al cliente enviado correctamente.
+[2017-09-03 18:55:50.474136] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'helenafrade@mac.com'
+    nombre: 'Helena'
+    apellido: 'Frade'
+    empresa: 'Sheb Art Box'
+    telefono: '663476997'
+    direccion: 'Libra 10A'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28023'
+    factura: 'B87564852'
+[2017-09-03 18:58:18.885874] [info] 515813079184
+[2017-09-03 18:58:18.954483] [info] Envio de correo del pedido: 515813079184 al comprador enviado correctamente.
+[2017-09-03 18:58:18.998163] [info] Envio de correo del pedido: 515813079184 al cliente enviado correctamente.

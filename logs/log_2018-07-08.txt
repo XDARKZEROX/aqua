@@ -1,0 +1,28 @@
+[2018-07-08 4:17:23.177539] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monica.prado6432@gmail.com'
+    nombre: 'Monica'
+    apellido: 'Chacon'
+    empresa: ''
+    telefono: '600286722'
+    direccion: 'Misericordia 61'
+    provincia: 'Cerdanyola'
+    ciudad: 'Cerdanyola'
+    postalcode: '08290'
+    factura: ''
+[2018-07-08 4:19:59.148538] [info] 568526351580
+[2018-07-08 4:19:59.283622] [info] Envio de correo del pedido: 568526351580 al comprador enviado correctamente.
+[2018-07-08 4:19:59.334230] [info] Envio de correo del pedido: 568526351580 al cliente enviado correctamente.
+[2018-07-08 8:11:35.596357] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mbaer@baer.cat'
+    nombre: 'Maria'
+    apellido: 'Baer Pakhomova'
+    empresa: 'Baer Inversions i Consultoria, S. L., CIF: B17681099'
+    telefono: '639775228'
+    direccion: 'Av. Punta Prima, 5, esc. 2, ap. 231'
+    provincia: 'Girona'
+    ciudad: 'Platja d'Aro'
+    postalcode: '17250'
+    factura: ''
+[2018-07-08 8:13:36.992433] [info] 246499502375
+[2018-07-08 8:13:37.108556] [info] Envio de correo del pedido: 246499502375 al comprador enviado correctamente.
+[2018-07-08 8:13:37.157280] [info] Envio de correo del pedido: 246499502375 al cliente enviado correctamente.

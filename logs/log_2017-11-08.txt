@@ -1,0 +1,39 @@
+[2017-11-08 10:52:10.745574] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'reyessukunza@yahoo.es'
+    nombre: 'Reyes'
+    apellido: 'Sucunza Sanz'
+    empresa: 'Particular'
+    telefono: '656411918'
+    direccion: 'Balleneros 12. 7E'
+    provincia: 'San Sebastián'
+    ciudad: 'Guipúzcoa'
+    postalcode: '20011'
+    factura: ''
+[2017-11-08 10:55:08.738955] [info] 534409754076
+[2017-11-08 10:55:09.004739] [info] Envio de correo del pedido: 534409754076 al comprador enviado correctamente.
+[2017-11-08 10:55:09.310844] [info] Envio de correo del pedido: 534409754076 al cliente enviado correctamente.
+[2017-11-08 19:58:12.503374] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'su_martinez1978@hotmail.com'
+    nombre: 'Susana'
+    apellido: 'Martinez Martinez'
+    empresa: 'Grupo Mas de Torrent'
+    telefono: '606895893'
+    direccion: 'Plaza Mayor 10  casa'
+    provincia: 'Girona '
+    ciudad: 'Torrent '
+    postalcode: '17123'
+    factura: 'Horario oficina llamar antes de la entrega'
+[2017-11-08 20:54:41.559798] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'su_martinez1978@hotmail.com'
+    nombre: 'Susana'
+    apellido: 'Martinez Martinez'
+    empresa: 'Grupo Mas de Torrent'
+    telefono: '606895893'
+    direccion: 'Plaza Mayor 12. Casa'
+    provincia: 'Girona '
+    ciudad: 'Torrent '
+    postalcode: '17123'
+    factura: 'Horario oficina. llamar antes de la entrega '
+[2017-11-08 20:55:53.250493] [info] 317585661092
+[2017-11-08 20:55:53.421727] [info] Envio de correo del pedido: 317585661092 al comprador enviado correctamente.
+[2017-11-08 20:55:53.480155] [info] Envio de correo del pedido: 317585661092 al cliente enviado correctamente.

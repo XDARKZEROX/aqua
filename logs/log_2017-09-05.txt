@@ -1,0 +1,52 @@
+[2017-09-05 11:14:14.652041] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pausony2008@yahoo.es'
+    nombre: 'Sonia'
+    apellido: 'Rodriguez'
+    empresa: ''
+    telefono: '665860347'
+    direccion: 'Eduard toldra 25'
+    provincia: 'Barcelona'
+    ciudad: 'Lliça d'amunt'
+    postalcode: '08186'
+    factura: ''
+[2017-09-05 11:17:25.134449] [info] Envio de correo del pedido: 133738475982 al comprador enviado correctamente.
+[2017-09-05 11:17:25.177481] [info] Envio de correo del pedido: 133738475982 al cliente enviado correctamente.
+[2017-09-05 15:31:01.695633] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'andrea@gescomcb.es'
+    nombre: 'ANDREA'
+    apellido: 'PULIDO'
+    empresa: 'GESCOM C.B  CIF E74013228'
+    telefono: '637403283'
+    direccion: 'ALEJANDRO CASONA 30 BAJO'
+    provincia: 'Asturias'
+    ciudad: 'OVIEDO'
+    postalcode: '33013'
+    factura: 'me gustaria que me dieses factura oficial si es posible pq el resguardo de pago no me sirve para hacienda '
+[2017-09-05 16:33:07.575650] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ana_bena@hotmail.com'
+    nombre: 'Jose'
+    apellido: 'Benavent jimenez'
+    empresa: ''
+    telefono: '625134635'
+    direccion: 'C/torrefuencubierta, 11'
+    provincia: 'Torredonjimeno'
+    ciudad: 'Jaen'
+    postalcode: '23650'
+    factura: ''
+[2017-09-05 16:34:56.763658] [info] 653215607790
+[2017-09-05 16:34:56.884165] [info] Envio de correo del pedido: 653215607790 al comprador enviado correctamente.
+[2017-09-05 16:34:56.935957] [info] Envio de correo del pedido: 653215607790 al cliente enviado correctamente.
+[2017-09-05 20:03:48.030917] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'manuellopeojeda@gmail.com'
+    nombre: 'Manuel'
+    apellido: 'Lope ojeda'
+    empresa: ''
+    telefono: '669795282'
+    direccion: 'Miño 68'
+    provincia: 'Madrid'
+    ciudad: 'VillaviciosaDeOdon'
+    postalcode: '28670'
+    factura: ''
+[2017-09-05 20:06:15.587040] [info] 162674890084
+[2017-09-05 20:06:15.687679] [info] Envio de correo del pedido: 162674890084 al comprador enviado correctamente.
+[2017-09-05 20:06:15.753148] [info] Envio de correo del pedido: 162674890084 al cliente enviado correctamente.

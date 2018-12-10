@@ -1,0 +1,14 @@
+[2017-07-27 14:53:32.701853] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrillo89@gmail.com'
+    nombre: 'Paula'
+    apellido: 'Carrillo Sanchez'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'Calle Felix Boix 9 8E'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28036'
+    factura: 'El reparto a partir de las 14h por favor'
+[2017-07-27 14:54:21.819566] [info] 201814459578
+[2017-07-27 14:54:21.919594] [info] Envio de correo del pedido: 201814459578 al comprador enviado correctamente.
+[2017-07-27 14:54:21.977180] [info] Envio de correo del pedido: 201814459578 al cliente enviado correctamente.

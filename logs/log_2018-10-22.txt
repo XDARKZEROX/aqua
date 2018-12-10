@@ -1,0 +1,39 @@
+[2018-10-22 12:05:24.524137] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'carlosanero@msn.com'
+    nombre: 'Jose Carlos'
+    apellido: 'Anero Bartolome'
+    empresa: 'La casa de los Caramelos'
+    telefono: '647694113'
+    direccion: 'Plaza Mayor N17 bajo'
+    provincia: 'Palencia'
+    ciudad: 'Palencia'
+    postalcode: '34001'
+    factura: 'NIF12713125 J'
+[2018-10-22 12:06:38.307740] [info] 261766411065
+[2018-10-22 12:06:38.644062] [info] Envio de correo del pedido: 261766411065 al comprador enviado correctamente.
+[2018-10-22 12:06:38.688052] [info] Envio de correo del pedido: 261766411065 al cliente enviado correctamente.
+[2018-10-22 20:45:35.948056] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'marcosbandit158@hotmail.com'
+    nombre: 'Marcos'
+    apellido: 'Gomez gondelle'
+    empresa: ''
+    telefono: '693607660'
+    direccion: 'Jose luis puente dominguez 5'
+    provincia: 'Santiago de compostela'
+    ciudad: 'Santiago de compostela'
+    postalcode: '15702'
+    factura: ''
+[2018-10-22 21:26:01.403090] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'marcosbandit158@hotmail.com'
+    nombre: 'Marcos'
+    apellido: 'Gomez gondelle'
+    empresa: ''
+    telefono: '693607660'
+    direccion: 'Jose luis puente dominguez 5'
+    provincia: 'Santiago de compostela'
+    ciudad: 'Santiago de compostela'
+    postalcode: '15702'
+    factura: ''
+[2018-10-22 21:29:56.582514] [info] 385412424680
+[2018-10-22 21:29:56.710608] [info] Envio de correo del pedido: 385412424680 al comprador enviado correctamente.
+[2018-10-22 21:29:56.769778] [info] Envio de correo del pedido: 385412424680 al cliente enviado correctamente.

@@ -1,0 +1,14 @@
+[2018-07-24 20:49:44.448609] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'info@thebikinibox.net'
+    nombre: 'VIVIEN'
+    apellido: 'BROOK'
+    empresa: 'THE BIKINI BOX'
+    telefono: '652734515'
+    direccion: 'PG PIRINEO 16A'
+    provincia: 'CERDANYOLA'
+    ciudad: 'CERDANYOLA'
+    postalcode: '08290'
+    factura: ''
+[2018-07-24 20:52:16.271228] [info] 289533296288
+[2018-07-24 20:52:16.334393] [info] Envio de correo del pedido: 289533296288 al comprador enviado correctamente.
+[2018-07-24 20:52:16.402709] [info] Envio de correo del pedido: 289533296288 al cliente enviado correctamente.

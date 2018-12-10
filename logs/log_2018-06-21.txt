@@ -1,0 +1,42 @@
+[2018-06-21 7:45:18.770360] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua, 23 - 4°, Izd'
+    provincia: 'Elgoibar'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2018-06-21 7:48:14.558147] [info] 456718374493
+[2018-06-21 7:48:14.675435] [info] Envio de correo del pedido: 456718374493 al comprador enviado correctamente.
+[2018-06-21 7:48:14.755366] [info] Envio de correo del pedido: 456718374493 al cliente enviado correctamente.
+[2018-06-21 9:28:57.021486] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mathiuss2009@hotmail.com'
+    nombre: 'MATILDE'
+    apellido: 'LARGO'
+    empresa: ''
+    telefono: '617337105'
+    direccion: 'CALLE MANRESA 12  PISO 3'
+    provincia: 'NAVARRA'
+    ciudad: 'TUDELA'
+    postalcode: '31500'
+    factura: 'AVISAR DE A QUE HORA VA A SER LA ENTREGA'
+[2018-06-21 9:30:02.684959] [info] 491650307573
+[2018-06-21 9:30:02.812025] [info] Envio de correo del pedido: 491650307573 al comprador enviado correctamente.
+[2018-06-21 9:30:02.914746] [info] Envio de correo del pedido: 491650307573 al cliente enviado correctamente.
+[2018-06-21 15:38:33.817574] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ferdeg@gmail'
+    nombre: 'fernando'
+    apellido: 'degroote'
+    empresa: 'ferdeg 2011 s. l.'
+    telefono: '605066121'
+    direccion: 'P. MERÇÉ RODOREDA 3 (local aeroesport)'
+    provincia: 'Castelldefels'
+    ciudad: 'Castelldefels'
+    postalcode: '08860'
+    factura: ''
+[2018-06-21 15:40:14.751570] [info] 552276891074
+[2018-06-21 15:40:14.820240] [info] Envio de correo del pedido: 552276891074 al comprador enviado correctamente.
+[2018-06-21 15:40:14.865966] [info] Envio de correo del pedido: 552276891074 al cliente enviado correctamente.

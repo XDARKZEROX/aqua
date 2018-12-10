@@ -1,0 +1,41 @@
+[2017-09-12 10:59:55.027390] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'tonidacasanova@gmail.com'
+    nombre: 'Antonio'
+    apellido: 'Souto'
+    empresa: ''
+    telefono: '629484879'
+    direccion: 'velazquez 31 1h'
+    provincia: 'A Coruña'
+    ciudad: 'Naron'
+    postalcode: '15570'
+    factura: ''
+[2017-09-12 11:04:36.049092] [info] 494614403333
+[2017-09-12 11:04:36.141319] [info] Envio de correo del pedido: 494614403333 al comprador enviado correctamente.
+[2017-09-12 11:04:36.195604] [info] Envio de correo del pedido: 494614403333 al cliente enviado correctamente.
+[2017-09-12 13:29:25.514390] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrilloprocuradora@gmail.com'
+    nombre: 'Paula'
+    apellido: 'Carrillo Sanchez'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'Calle Hiedra 28 3 C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28036'
+    factura: 'Por favor entregar en horario de tarde gracias'
+[2017-09-12 13:30:09.384802] [info] 292651080708
+[2017-09-12 13:30:09.384929] [info] El pedido con codigo:  292651080708 se le ha denegado el pago
+[2017-09-12 13:30:25.730637] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrilloprocuradora@gmail.com'
+    nombre: 'Paula'
+    apellido: 'Carrillo Sanchez'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'Calle Hiedra 28 3 C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28036'
+    factura: 'Por favor entregar en horario de tarde gracias'
+[2017-09-12 13:31:12.730412] [info] 121744683893
+[2017-09-12 13:31:12.786621] [info] Envio de correo del pedido: 121744683893 al comprador enviado correctamente.
+[2017-09-12 13:31:12.845911] [info] Envio de correo del pedido: 121744683893 al cliente enviado correctamente.

@@ -1,0 +1,14 @@
+[2018-02-08 18:40:33.788270] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: '013erik@gmail.com'
+    nombre: 'Erik '
+    apellido: 'Torres Ripoll'
+    empresa: ''
+    telefono: '670505450'
+    direccion: 'Josep Pla 19   8   5'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08019'
+    factura: ''
+[2018-02-08 18:42:34.367146] [info] 755287206025
+[2018-02-08 18:42:34.539532] [info] Envio de correo del pedido: 755287206025 al comprador enviado correctamente.
+[2018-02-08 18:42:34.637151] [info] Envio de correo del pedido: 755287206025 al cliente enviado correctamente.

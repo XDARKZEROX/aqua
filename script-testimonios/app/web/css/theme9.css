@@ -1,0 +1,41 @@
+/* ==========================================================================
+	#General
+========================================================================== */
+[id^=pjWrapper] .pjCpContainer { background: #2b1b02; }
+
+/* ==========================================================================
+	#pjCpComment
+========================================================================== */
+[id^=pjWrapper] .pjCpComment { padding: 15px; background: #1a1004; }
+[id^=pjWrapper] .pjCpContainer hr { border-color: transparent; }
+[id^=pjWrapper] .pjCpCommentTitle { color: #f1f2ed; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpCommentDate { color: #8e8e8e; }
+[id^=pjWrapper] .pjCpCommentStars { color: #fed45c; }
+
+[id^=pjWrapper] .pjCpCommentActions .btn-default { border-color: #3c270a; background: #3c270a; color: #fed45c; }
+[id^=pjWrapper] .pjCpCommentActions .btn-default:hover { border-color: #251d10; background: #251d10; color: #fed45c; }
+
+[id^=pjWrapper] .pjCpCommentActions .text-success { color: #fed45c; }
+[id^=pjWrapper] .pjCpCommentActions .text-danger { color: #8e8e8e; }
+[id^=pjWrapper] .pjCpCommentBody p { color: #8e8e8e; }
+
+/* ==========================================================================
+	#pjCpPagination
+========================================================================== */
+[id^=pjWrapper] .pjCpPagination .pjCpBtn { border-color: #3c270a; border-left-color: #251d10; border-right-color: #251d10; background: #3c270a; color: #fed45c; }
+[id^=pjWrapper] .pjCpPagination .pjCpBtn:hover { border-color: #3c270a; border-left-color: #251d10; border-right-color: #251d10; background: #3c270a; color: #fff; }
+[id^=pjWrapper] .pjCpPagination .pjCpBtnCurrent,
+[id^=pjWrapper] .pjCpPagination .pjCpBtnCurrent:hover { border-top-color: #251d10; border-bottom-color: #251d10; background: #251d10; color: #fff; }
+
+/* ==========================================================================
+	#pjCpForm
+========================================================================== */
+[id^=pjWrapper] .pjCpForm a { color: #fed45c; }
+[id^=pjWrapper] .pjCpFormTitle { color: #f1f2ed; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpForm p,
+[id^=pjWrapper] .pjCpForm .control-label { color: #8e8e8e; }
+[id^=pjWrapper] .pjCpForm .form-control { background: #3c270a; border-color: #3c270a; color: #f1f2ed; }
+[id^=pjWrapper] .pjCpForm [type="file"] { color: #fed45c; }
+[id^=pjWrapper] .pjCpForm .form-control:focus { -webkit-box-shadow: 0 0 10px rgba(255, 255, 255, .3); box-shadow: 0 0 10px rgba(255, 255, 255, .3); }
+[id^=pjWrapper] .pjCpForm .pjCpBtnPrimary { border-color: #e25925; border-width: 2px; background: #f65a1f; color: #fff; font-weight: bold; text-transform: uppercase; }
+[id^=pjWrapper] .pjCpForm .pjCpBtnPrimary:hover { border-color: #e25925; border-width: 2px; background: #e25925; color: #fff; }

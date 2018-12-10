@@ -1,0 +1,28 @@
+[2018-04-26 5:46:42.368818] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'isidrocarmona@telefonica.net'
+    nombre: 'Isidro'
+    apellido: 'Carmona'
+    empresa: ''
+    telefono: '699088086'
+    direccion: 'Ortuoste Kalea, parcela 13A'
+    provincia: 'alava'
+    ciudad: 'Vitoria'
+    postalcode: '01015'
+    factura: 'LA DIRECCION ES DE CORREOS EXPRES DONDE RECOJO'
+[2018-04-26 5:48:30.392971] [info] 759764350354
+[2018-04-26 5:48:30.550815] [info] Envio de correo del pedido: 759764350354 al comprador enviado correctamente.
+[2018-04-26 5:48:30.598774] [info] Envio de correo del pedido: 759764350354 al cliente enviado correctamente.
+[2018-04-26 10:28:55.097413] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'graciano.07@hotmail.com'
+    nombre: 'Elena'
+    apellido: 'Graciano López'
+    empresa: ''
+    telefono: '635739151'
+    direccion: 'C/ San Vicente, 10 - 6 C'
+    provincia: 'Bizkaia'
+    ciudad: 'Barakaldo'
+    postalcode: '48902'
+    factura: ''
+[2018-04-26 10:30:36.859446] [info] 774531183979
+[2018-04-26 10:30:37.009576] [info] Envio de correo del pedido: 774531183979 al comprador enviado correctamente.
+[2018-04-26 10:30:37.250251] [info] Envio de correo del pedido: 774531183979 al cliente enviado correctamente.

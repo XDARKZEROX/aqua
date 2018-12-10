@@ -1,0 +1,9 @@
+[2017-04-23 11:50:14.753937] [info] 511266011618
+[2017-04-23 11:50:14.809989] [info] Envio de correo del pedido: 511266011618 al comprador enviado correctamente.
+[2017-04-23 11:50:14.872049] [info] Envio de correo del pedido: 511266011618 al cliente enviado correctamente.
+[2017-04-23 18:20:41.367559] [info] 229988329307
+[2017-04-23 18:20:41.428374] [info] Envio de correo del pedido: 229988329307 al comprador enviado correctamente.
+[2017-04-23 18:20:41.524904] [info] Envio de correo del pedido: 229988329307 al cliente enviado correctamente.
+[2017-04-23 20:24:57.024269] [info] 095772132412
+[2017-04-23 20:24:57.086432] [info] Envio de correo del pedido: 095772132412 al comprador enviado correctamente.
+[2017-04-23 20:24:57.153104] [info] Envio de correo del pedido: 095772132412 al cliente enviado correctamente.

@@ -1,0 +1,14 @@
+[2018-10-09 12:39:49.088417] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pintos84@hotmail.com'
+    nombre: 'Alejandro'
+    apellido: 'Pintos Dafonte'
+    empresa: 'La sala '
+    telefono: '661806733'
+    direccion: 'C Manuel Antonio 12'
+    provincia: 'Pontevedra'
+    ciudad: 'Vilagarcía de Arousa '
+    postalcode: '36600'
+    factura: ''
+[2018-10-09 12:48:17.910293] [info] 767139906836
+[2018-10-09 12:48:17.992579] [info] Envio de correo del pedido: 767139906836 al comprador enviado correctamente.
+[2018-10-09 12:48:18.059689] [info] Envio de correo del pedido: 767139906836 al cliente enviado correctamente.

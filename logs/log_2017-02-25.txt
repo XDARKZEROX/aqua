@@ -1,0 +1,7 @@
+[2017-02-25 11:17:10.968024] [info] 732727319784
+[2017-02-25 11:17:11.102381] [info] Envio de correo del pedido: 732727319784 al comprador enviado correctamente.
+[2017-02-25 11:17:11.173437] [info] Envio de correo del pedido: 732727319784 al cliente enviado correctamente.
+[2017-02-25 15:07:49.312885] [info] 695222948446
+[2017-02-25 15:07:49.313008] [info] El pedido con codigo:  695222948446 se le ha denegado el pago
+[2017-02-25 17:00:50.200484] [info] Envio de correo del pedido: 684705044610 al comprador enviado correctamente.
+[2017-02-25 17:00:50.261852] [info] Envio de correo del pedido: 684705044610 al cliente enviado correctamente.

@@ -1,0 +1,11 @@
+[2018-05-26 9:49:25.181818] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pepeartero@live.com'
+    nombre: 'jose'
+    apellido: 'Artero Cambronero'
+    empresa: ''
+    telefono: '665698062'
+    direccion: 'Passeig Pere III num 76 2 3'
+    provincia: 'Barcelona'
+    ciudad: 'Manresa'
+    postalcode: '08240'
+    factura: ''

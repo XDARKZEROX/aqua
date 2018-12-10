@@ -1,0 +1,25 @@
+[2018-06-14 13:50:47.080744] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'tonyfabeiro@gmail.com'
+    nombre: 'Antonio'
+    apellido: 'Álvarez Fabeiro'
+    empresa: ''
+    telefono: '669497896'
+    direccion: 'Álvaro Cunqueiro N 6, 2°A'
+    provincia: 'Lugo'
+    ciudad: 'Burela'
+    postalcode: '27880'
+    factura: 'YANEZPH9'
+[2018-06-14 13:51:06.890727] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'tonyfabeiro@gmail.com'
+    nombre: 'Antonio'
+    apellido: 'Álvarez Fabeiro'
+    empresa: ''
+    telefono: '669497896'
+    direccion: 'Álvaro Cunqueiro N 6, 2°A'
+    provincia: 'Lugo'
+    ciudad: 'Burela'
+    postalcode: '27880'
+    factura: 'YANEZPH9'
+[2018-06-14 13:53:15.824457] [info] 126641707326
+[2018-06-14 13:53:15.936165] [info] Envio de correo del pedido: 126641707326 al comprador enviado correctamente.
+[2018-06-14 13:53:15.985814] [info] Envio de correo del pedido: 126641707326 al cliente enviado correctamente.

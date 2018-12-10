@@ -1,0 +1,14 @@
+[2018-04-20 7:02:12.153558] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jmvidal900@gmail.com'
+    nombre: 'Jose M'
+    apellido: 'Vidal Balboa'
+    empresa: ''
+    telefono: '675901298'
+    direccion: 'C MAR DE ALBORAN'
+    provincia: 'MURCIA'
+    ciudad: 'LOSALCAZARES'
+    postalcode: '30710'
+    factura: ''
+[2018-04-20 7:03:52.815017] [info] 180985843113
+[2018-04-20 7:03:52.918598] [info] Envio de correo del pedido: 180985843113 al comprador enviado correctamente.
+[2018-04-20 7:03:52.990274] [info] Envio de correo del pedido: 180985843113 al cliente enviado correctamente.

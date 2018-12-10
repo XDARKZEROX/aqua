@@ -1,0 +1,38 @@
+[2017-12-25 8:17:45.082484] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Marianeveslima@gmail.com'
+    nombre: 'Maria das neves '
+    apellido: 'Da Silva '
+    empresa: 'Peluqueria '
+    telefono: '634079101'
+    direccion: 'Grupo escolar 1'
+    provincia: 'Madrid '
+    ciudad: 'Pozuelo de Alarcón '
+    postalcode: '28224'
+    factura: 'Marianeveslima@gmail.com '
+[2017-12-25 8:22:05.664848] [info] 908712590678
+[2017-12-25 8:22:05.664962] [info] El pedido con codigo:  908712590678 se le ha denegado el pago
+[2017-12-25 15:28:20.232845] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'onnoramos@yahoo.es'
+    nombre: 'ariana'
+    apellido: 'onno ramos'
+    empresa: ''
+    telefono: '667090471'
+    direccion: 'Las pozas 8  1g '
+    provincia: 'Madrid'
+    ciudad: 'Guadarrana'
+    postalcode: '28440'
+    factura: ''
+[2017-12-25 20:11:13.629549] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua 23   4 Izd'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2017-12-25 20:14:33.585628] [info] 738207592507
+[2017-12-25 20:14:33.738955] [info] Envio de correo del pedido: 738207592507 al comprador enviado correctamente.
+[2017-12-25 20:14:33.790348] [info] Envio de correo del pedido: 738207592507 al cliente enviado correctamente.

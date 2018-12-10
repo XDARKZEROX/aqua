@@ -1,0 +1,14 @@
+[2017-08-06 13:59:10.843871] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rafael649396750@gmail.com'
+    nombre: 'Rafael'
+    apellido: 'Doncel jimenez'
+    empresa: ''
+    telefono: '649396750'
+    direccion: 'Carretera de Valls, 22 1o 2a'
+    provincia: 'Barcelona'
+    ciudad: 'Santa Margarita de montbui'
+    postalcode: '08710'
+    factura: ''
+[2017-08-06 14:00:52.176143] [info] 504231545729
+[2017-08-06 14:00:52.318495] [info] Envio de correo del pedido: 504231545729 al comprador enviado correctamente.
+[2017-08-06 14:00:52.388540] [info] Envio de correo del pedido: 504231545729 al cliente enviado correctamente.

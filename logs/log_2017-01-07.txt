@@ -1,0 +1,29 @@
+[2017-01-07 6:08:37.800693] [info] Envio de correo del pedido: 070881815857 al comprador enviado correctamente.
+[2017-01-07 6:08:37.953885] [info] Envio de correo del pedido: 070881815857 al cliente enviado correctamente.
+[2017-01-07 6:10:02.151396] [info] 946315918454
+[2017-01-07 6:10:02.299581] [info] Envio de correo del pedido: 946315918454 al comprador enviado correctamente.
+[2017-01-07 6:10:02.422970] [info] Envio de correo del pedido: 946315918454 al cliente enviado correctamente.
+[2017-01-07 6:20:38.622967] [info] Envio de correo del pedido: 556669881945 al comprador enviado correctamente.
+[2017-01-07 6:20:38.750457] [info] Envio de correo del pedido: 556669881945 al cliente enviado correctamente.
+[2017-01-07 8:33:52.487097] [info] 375383200184
+[2017-01-07 8:33:52.594300] [info] Envio de correo del pedido: 375383200184 al comprador enviado correctamente.
+[2017-01-07 8:33:52.713937] [info] Envio de correo del pedido: 375383200184 al cliente enviado correctamente.
+[2017-01-07 8:42:29.794816] [info] Envio de correo del pedido: 048213283437 al comprador enviado correctamente.
+[2017-01-07 8:42:29.907569] [info] Envio de correo del pedido: 048213283437 al cliente enviado correctamente.
+[2017-01-07 8:55:52.881056] [info] Envio de correo del pedido: 048213283437 al comprador enviado correctamente.
+[2017-01-07 8:55:52.991318] [info] Envio de correo del pedido: 048213283437 al cliente enviado correctamente.
+[2017-01-07 13:40:49.273536] [info] 033109325522
+[2017-01-07 13:40:49.398432] [info] Envio de correo del pedido: 033109325522 al comprador enviado correctamente.
+[2017-01-07 13:40:49.506584] [info] Envio de correo del pedido: 033109325522 al cliente enviado correctamente.
+[2017-01-07 13:42:58.790913] [info] Envio de correo del pedido: 800192346586 al comprador enviado correctamente.
+[2017-01-07 13:42:58.900465] [info] Envio de correo del pedido: 800192346586 al cliente enviado correctamente.
+[2017-01-07 14:26:37.743653] [info] 743690790892
+[2017-01-07 14:26:37.743767] [info] El pedido con codigo:  743690790892 se le ha denegado el pago
+[2017-01-07 14:26:56.967149] [info] Envio de correo del pedido: 837315819875 al comprador enviado correctamente.
+[2017-01-07 14:26:57.072585] [info] Envio de correo del pedido: 837315819875 al cliente enviado correctamente.
+[2017-01-07 18:36:13.637710] [info] 304662510044
+[2017-01-07 18:36:13.782005] [info] Envio de correo del pedido: 304662510044 al comprador enviado correctamente.
+[2017-01-07 18:36:13.889832] [info] Envio de correo del pedido: 304662510044 al cliente enviado correctamente.
+[2017-01-07 22:36:02.900486] [info] 890698910246
+[2017-01-07 22:36:03.019737] [info] Envio de correo del pedido: 890698910246 al comprador enviado correctamente.
+[2017-01-07 22:36:03.137970] [info] Envio de correo del pedido: 890698910246 al cliente enviado correctamente.

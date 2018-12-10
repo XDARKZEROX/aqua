@@ -1,0 +1,25 @@
+[2017-06-05 12:31:15.091587] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'sergimr83@hotmail.com'
+    nombre: 'SERGIO'
+    apellido: 'RODRIGUEZ MUOZ'
+    empresa: 'HOSPITAL DE SAN CARLOS '
+    telefono: '660128345'
+    direccion: 'PASEO CAPITAN CONFORTO HOSPITAL DE SAN CARLOS '
+    provincia: 'CADIZ'
+    ciudad: 'SANFERNANDO'
+    postalcode: '11100'
+    factura: 'PLANTA BAJA SERVICIO DE RADIODIAGNSTICO DEJAR EN DESPACHO DE RADIOLOGOS AL DOCTOR SERGIO RODRIGUEZ'
+[2017-06-05 12:35:09.159729] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'sergimr83@hotmail.com'
+    nombre: 'SERGIO'
+    apellido: 'RODRIGUEZ MUOZ'
+    empresa: 'HOSPITAL DE SAN CARLOS '
+    telefono: '660128345'
+    direccion: 'PASEO CAPITAN CONFORTO HOSPITAL DE SAN CARLOS '
+    provincia: 'C'
+    ciudad: 'SANFERNANDO'
+    postalcode: '11100'
+    factura: 'PLANTA BAJA SERVICIO DE RADIODIAGNSTICO DEJAR EN DESPACHO DE RADIOLOGOS AL DOCTOR SERGIO RODRIGUEZ'
+[2017-06-05 12:36:32.988255] [info] 259409102473
+[2017-06-05 12:36:33.164653] [info] Envio de correo del pedido: 259409102473 al comprador enviado correctamente.
+[2017-06-05 12:36:33.319763] [info] Envio de correo del pedido: 259409102473 al cliente enviado correctamente.

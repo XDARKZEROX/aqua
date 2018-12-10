@@ -1,0 +1,3 @@
+[2017-03-04 11:15:06.503645] [info] 715324306843
+[2017-03-04 11:15:06.587547] [info] Envio de correo del pedido: 715324306843 al comprador enviado correctamente.
+[2017-03-04 11:15:06.667817] [info] Envio de correo del pedido: 715324306843 al cliente enviado correctamente.

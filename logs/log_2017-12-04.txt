@@ -1,0 +1,42 @@
+[2017-12-04 10:54:45.321700] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'secretaria@praxislgconsultores.com'
+    nombre: 'Lucia'
+    apellido: 'Gato'
+    empresa: 'LUCIA GATO CONSULTORES, S.L.'
+    telefono: '943013683'
+    direccion: 'Zuatzu Kalea, 6 - 2ª Planta. Oficina 5. Edificio Bidasoa. Parque Empresarial Zuatzu'
+    provincia: 'Gipuzkoa'
+    ciudad: 'SanSebastian'
+    postalcode: '20018'
+    factura: ''
+[2017-12-04 10:55:45.245692] [info] 582875064724
+[2017-12-04 10:55:45.383964] [info] Envio de correo del pedido: 582875064724 al comprador enviado correctamente.
+[2017-12-04 10:55:45.494484] [info] Envio de correo del pedido: 582875064724 al cliente enviado correctamente.
+[2017-12-04 13:12:58.722827] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'alexgrauborrega@hotmail.com'
+    nombre: 'Alex'
+    apellido: 'Grau borrega'
+    empresa: ''
+    telefono: '616158465'
+    direccion: 'C igualada n7'
+    provincia: 'Barcelona'
+    ciudad: 'Vilanovadelcami'
+    postalcode: '08788'
+    factura: ''
+[2017-12-04 13:14:23.561150] [info] 644540591483
+[2017-12-04 13:14:23.706545] [info] Envio de correo del pedido: 644540591483 al comprador enviado correctamente.
+[2017-12-04 13:14:23.785254] [info] Envio de correo del pedido: 644540591483 al cliente enviado correctamente.
+[2017-12-04 17:28:11.468101] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrilloprocuradora@gmail.com'
+    nombre: 'Paula'
+    apellido: 'Carrillo Sanchez'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'Calle Hiedra 28 3 C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28036'
+    factura: 'Entregar en horario de tarde IMPORTANTE'
+[2017-12-04 17:28:53.829068] [info] 329078529227
+[2017-12-04 17:28:53.938266] [info] Envio de correo del pedido: 329078529227 al comprador enviado correctamente.
+[2017-12-04 17:28:53.988627] [info] Envio de correo del pedido: 329078529227 al cliente enviado correctamente.

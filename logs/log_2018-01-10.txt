@@ -1,0 +1,50 @@
+[2018-01-10 11:05:15.617227] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'epuentesleira@hotmail.com'
+    nombre: 'EVARISTO'
+    apellido: 'PUENTES LEIRA'
+    empresa: ''
+    telefono: '606962096'
+    direccion: 'CELSO E FERREIRO 433'
+    provincia: 'LACORUA'
+    ciudad: 'ASPONTES'
+    postalcode: '15320'
+    factura: ''
+[2018-01-10 11:47:53.645809] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kaigrana@hotmail.com'
+    nombre: 'Diego'
+    apellido: 'García Galván'
+    empresa: ''
+    telefono: '607541251'
+    direccion: 'C. Angel Ganivet 4B Bajo A'
+    provincia: 'Granada'
+    ciudad: 'Churriana de la Vega'
+    postalcode: '18194'
+    factura: ''
+[2018-01-10 12:09:36.110901] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ferromigl@gmail.com'
+    nombre: 'Ferran'
+    apellido: 'Romera Iglesias'
+    empresa: ''
+    telefono: '633063872'
+    direccion: 'Calle Valencia número 25 entresuelo 2'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08015'
+    factura: 'Lunes y martes entrega por la tarde a partir de las 16:00 y miércoles y jueves por las mañanas de 10:00 a 15:00'
+[2018-01-10 12:11:48.184029] [info] 126009365298
+[2018-01-10 12:11:48.484678] [info] Envio de correo del pedido: 126009365298 al comprador enviado correctamente.
+[2018-01-10 12:11:48.597177] [info] Envio de correo del pedido: 126009365298 al cliente enviado correctamente.
+[2018-01-10 14:15:05.446222] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'epuentesleira@hotmail.com'
+    nombre: 'EVARISTO'
+    apellido: 'PUENTES LEIRA'
+    empresa: ''
+    telefono: '606962096'
+    direccion: 'CELSO E FERREIRO 43 3'
+    provincia: 'LACORUA'
+    ciudad: 'ASPONTES'
+    postalcode: '15320'
+    factura: ''
+[2018-01-10 14:16:05.476315] [info] 671224332718
+[2018-01-10 14:16:05.611346] [info] Envio de correo del pedido: 671224332718 al comprador enviado correctamente.
+[2018-01-10 14:16:05.660697] [info] Envio de correo del pedido: 671224332718 al cliente enviado correctamente.

@@ -1,0 +1,39 @@
+[2018-01-25 12:14:01.630614] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nazanian2@hotmail.com'
+    nombre: 'Juan Manuel'
+    apellido: 'Rosa alba'
+    empresa: ''
+    telefono: '638006950'
+    direccion: 'Calle juan de la cierva 40 bloque 2 1-B'
+    provincia: 'Alicante'
+    ciudad: 'El Campello'
+    postalcode: '03560'
+    factura: ''
+[2018-01-25 12:15:43.976403] [info] 829727772371
+[2018-01-25 12:15:44.115365] [info] Envio de correo del pedido: 829727772371 al comprador enviado correctamente.
+[2018-01-25 12:15:44.225044] [info] Envio de correo del pedido: 829727772371 al cliente enviado correctamente.
+[2018-01-25 13:55:01.808305] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karme32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Flor'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: ''
+[2018-01-25 16:46:15.172000] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'yanhox@hotmail.com'
+    nombre: 'Llanos '
+    apellido: 'Hergueta '
+    empresa: ''
+    telefono: '615109490'
+    direccion: 'Calle Mieres 14. 5ºC '
+    provincia: 'Asturias '
+    ciudad: 'Gijón '
+    postalcode: '33208'
+    factura: ''
+[2018-01-25 16:52:11.719831] [info] 595465210432
+[2018-01-25 16:52:11.921838] [info] Envio de correo del pedido: 595465210432 al comprador enviado correctamente.
+[2018-01-25 16:52:11.967647] [info] Envio de correo del pedido: 595465210432 al cliente enviado correctamente.

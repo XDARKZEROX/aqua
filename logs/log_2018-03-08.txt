@@ -1,0 +1,28 @@
+[2018-03-08 11:17:43.083420] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'dra.pirone@gmail.com'
+    nombre: 'MARIA AUGUSTA'
+    apellido: 'PIRONE'
+    empresa: ''
+    telefono: '6500861915'
+    direccion: 'CARRER DE VIDAL I DE VALENCIANO N19 PISO 1 PUERTA 3'
+    provincia: 'BARCELONA'
+    ciudad: 'BARCELONA'
+    postalcode: '08005'
+    factura: 'PEDIR AL PORTERO QUE RECIBA POR FAVOR EL PEDIDO DE NO HABER NADIE EN CASA GRACIAS '
+[2018-03-08 11:21:59.737848] [info] 150760596458
+[2018-03-08 11:21:59.849554] [info] Envio de correo del pedido: 150760596458 al comprador enviado correctamente.
+[2018-03-08 11:22:00.023777] [info] Envio de correo del pedido: 150760596458 al cliente enviado correctamente.
+[2018-03-08 16:04:33.688407] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Adriangf1993@gmail.com'
+    nombre: 'ADRIAN'
+    apellido: 'GONZALEZ FRANCO'
+    empresa: ''
+    telefono: '633200074'
+    direccion: 'CAMINO LODAIRO 113'
+    provincia: 'LACORUA'
+    ciudad: 'NARON'
+    postalcode: '15570'
+    factura: ''
+[2018-03-08 16:05:58.890173] [info] 315178221826
+[2018-03-08 16:05:58.977087] [info] Envio de correo del pedido: 315178221826 al comprador enviado correctamente.
+[2018-03-08 16:05:59.027683] [info] Envio de correo del pedido: 315178221826 al cliente enviado correctamente.

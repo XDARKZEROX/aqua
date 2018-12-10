@@ -1,0 +1,77 @@
+[2017-10-09 10:31:42.562658] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rubi_fredy@yahoo.es'
+    nombre: 'Alberto'
+    apellido: 'Rodriguez Vazquez'
+    empresa: ''
+    telefono: '655074738'
+    direccion: 'Montecelo Alto 47'
+    provincia: 'Pontevedra'
+    ciudad: 'Vigo'
+    postalcode: '36207'
+    factura: ''
+[2017-10-09 10:40:51.236644] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rubi_fredy@yahoo.es'
+    nombre: 'Alberto'
+    apellido: 'Rodriguez Vazquez'
+    empresa: ''
+    telefono: '655074738'
+    direccion: 'Montecelo Alto 47'
+    provincia: 'Pontevedra'
+    ciudad: 'Vigo'
+    postalcode: '36207'
+    factura: ''
+[2017-10-09 10:46:08.472218] [info] 986659436230
+[2017-10-09 10:46:08.578747] [info] Envio de correo del pedido: 986659436230 al comprador enviado correctamente.
+[2017-10-09 10:46:08.627552] [info] Envio de correo del pedido: 986659436230 al cliente enviado correctamente.
+[2017-10-09 12:35:59.151949] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'luky65@msn.com'
+    nombre: 'ignacio'
+    apellido: 'aduriz recalde'
+    empresa: ''
+    telefono: '349434923'
+    direccion: 'plaza san esteban nº13 2º'
+    provincia: 'SS'
+    ciudad: 'oiartzun'
+    postalcode: '20180'
+    factura: ''
+[2017-10-09 12:37:53.323106] [info] 985379641335
+[2017-10-09 12:37:53.426667] [info] Envio de correo del pedido: 985379641335 al comprador enviado correctamente.
+[2017-10-09 12:37:53.484705] [info] Envio de correo del pedido: 985379641335 al cliente enviado correctamente.
+[2017-10-09 15:41:14.498428] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monexiss@hotmail.com'
+    nombre: 'Montse '
+    apellido: 'Pagès Cañamero'
+    empresa: 'Gestoria Pagès S.L.P'
+    telefono: '938924915'
+    direccion: 'General Prim 8 baixos'
+    provincia: 'Barcelona'
+    ciudad: 'Vilafrancadelpenedes'
+    postalcode: '08720'
+    factura: 'Oficinas planta baja'
+[2017-10-09 15:43:23.957154] [info] 474083441224
+[2017-10-09 15:43:23.957274] [info] El pedido con codigo:  474083441224 se le ha denegado el pago
+[2017-10-09 18:21:49.684567] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'patsysab6@gmail.com'
+    nombre: 'Patricia'
+    apellido: 'Struyf'
+    empresa: ''
+    telefono: '636618877'
+    direccion: 'c del Urola 9'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28002'
+    factura: ''
+[2017-10-09 21:36:59.159575] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'reyessukunza@yahoo.es'
+    nombre: 'Reyes'
+    apellido: 'Sanz'
+    empresa: 'Particular'
+    telefono: '656411918'
+    direccion: 'Balleneros 12. 7E'
+    provincia: 'Guipúzcoa'
+    ciudad: 'Guipúzcoa'
+    postalcode: '20011'
+    factura: ''
+[2017-10-09 21:38:56.288532] [info] 924409664444
+[2017-10-09 21:38:56.349575] [info] Envio de correo del pedido: 924409664444 al comprador enviado correctamente.
+[2017-10-09 21:38:56.397181] [info] Envio de correo del pedido: 924409664444 al cliente enviado correctamente.

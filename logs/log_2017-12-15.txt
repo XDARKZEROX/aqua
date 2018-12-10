@@ -1,0 +1,39 @@
+[2017-12-15 16:58:43.500269] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lyubomir.torutev@gmail.com'
+    nombre: 'Lyubomir'
+    apellido: 'Sevdalinov'
+    empresa: ''
+    telefono: '622576232'
+    direccion: 'Altimira, 26, 2do 3ra'
+    provincia: 'Cataluña'
+    ciudad: 'Cerdanyola del Vallés'
+    postalcode: '08290'
+    factura: ''
+[2017-12-15 17:05:08.531774] [info] 696669747497
+[2017-12-15 17:05:08.774755] [info] Envio de correo del pedido: 696669747497 al comprador enviado correctamente.
+[2017-12-15 17:05:08.916217] [info] Envio de correo del pedido: 696669747497 al cliente enviado correctamente.
+[2017-12-15 22:05:29.407721] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'celis_ss@hotmail.com'
+    nombre: 'Jon'
+    apellido: 'Celis'
+    empresa: ''
+    telefono: '659624318'
+    direccion: 'Isabel ll n17 1D'
+    provincia: 'Gipuzkoa '
+    ciudad: 'Donostia'
+    postalcode: '20011'
+    factura: ''
+[2017-12-15 22:11:29.001621] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'celis_ss@hotmail.com'
+    nombre: 'Jon'
+    apellido: 'Celis'
+    empresa: ''
+    telefono: '659624318'
+    direccion: 'Isabel ll n17 1D'
+    provincia: 'Gipuzkoa '
+    ciudad: 'Donosti'
+    postalcode: '20011'
+    factura: ''
+[2017-12-15 22:13:26.212944] [info] 119209792975
+[2017-12-15 22:13:26.342751] [info] Envio de correo del pedido: 119209792975 al comprador enviado correctamente.
+[2017-12-15 22:13:26.398416] [info] Envio de correo del pedido: 119209792975 al cliente enviado correctamente.

@@ -1,0 +1,14 @@
+[2017-11-10 20:25:09.815229] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'veronica_carnicer@yahoo.es'
+    nombre: 'veronica'
+    apellido: 'carnicer arroyo'
+    empresa: ''
+    telefono: '645809371'
+    direccion: 'cl villaviciosa 18 6 A'
+    provincia: 'Madrid'
+    ciudad: ' madrid'
+    postalcode: '28024'
+    factura: ''
+[2017-11-10 20:28:29.047583] [info] 394760623222
+[2017-11-10 20:28:29.195653] [info] Envio de correo del pedido: 394760623222 al comprador enviado correctamente.
+[2017-11-10 20:28:29.361064] [info] Envio de correo del pedido: 394760623222 al cliente enviado correctamente.

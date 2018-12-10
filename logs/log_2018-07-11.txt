@@ -1,0 +1,38 @@
+[2018-07-11 16:48:49.189910] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'info@bsdanza.com'
+    nombre: 'Dolores'
+    apellido: 'Mayan Rubio'
+    empresa: 'BSDANZA S.L.'
+    telefono: '676256788'
+    direccion: 'Luar do Carmre 12 urbanizacion'
+    provincia: 'ACoruna'
+    ciudad: 'SantiagodeCompostela'
+    postalcode: '15705'
+    factura: 'aAvisar antes de la entrega'
+[2018-07-11 16:50:52.539829] [info] Envio de correo del pedido: 857339813882 al comprador enviado correctamente.
+[2018-07-11 16:50:52.592667] [info] Envio de correo del pedido: 857339813882 al cliente enviado correctamente.
+[2018-07-11 20:16:12.890431] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'leonor.psique@gmail.com'
+    nombre: 'Leonor'
+    apellido: 'Fernández Mula'
+    empresa: ''
+    telefono: '629642514'
+    direccion: 'San Eusebi 57 ático segunda'
+    provincia: 'Barcrlona'
+    ciudad: 'Barcelona'
+    postalcode: '08006'
+    factura: ''
+[2018-07-11 20:54:41.662075] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'leonor.psique@gmail.com'
+    nombre: 'Leonor'
+    apellido: 'Fernández Mula'
+    empresa: ''
+    telefono: '629642514'
+    direccion: 'San Eusebi 57 ático segunda'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08006'
+    factura: ''
+[2018-07-11 20:56:04.547415] [info] 495783622227
+[2018-07-11 20:56:04.699539] [info] Envio de correo del pedido: 495783622227 al comprador enviado correctamente.
+[2018-07-11 20:56:04.807806] [info] Envio de correo del pedido: 495783622227 al cliente enviado correctamente.

@@ -1,0 +1,52 @@
+[2018-04-01 18:44:32.210067] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kimix41@hotmail.com'
+    nombre: 'Joaquim'
+    apellido: 'Lluch guerrero'
+    empresa: ''
+    telefono: '646417476'
+    direccion: 'Carrer diputacio 109 principal'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08015'
+    factura: ''
+[2018-04-01 18:46:11.259736] [info] 303395354401
+[2018-04-01 18:46:11.259849] [info] El pedido con codigo:  303395354401 se le ha denegado el pago
+[2018-04-01 19:05:18.099617] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'dvpinero@gmail.com'
+    nombre: 'David'
+    apellido: 'Piñero Martin'
+    empresa: ''
+    telefono: '609053890'
+    direccion: 'Can Mollet 23-25 3° 2°'
+    provincia: 'Barcelona'
+    ciudad: 'Mollet del Vallès'
+    postalcode: '08100'
+    factura: ''
+[2018-04-01 19:06:56.583383] [info] 288459605604
+[2018-04-01 19:06:56.733136] [info] Envio de correo del pedido: 288459605604 al comprador enviado correctamente.
+[2018-04-01 19:06:56.787575] [info] Envio de correo del pedido: 288459605604 al cliente enviado correctamente.
+[2018-04-01 19:22:25.545856] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kimix41@hotmail.com'
+    nombre: 'joaquim'
+    apellido: 'lluch guerrero'
+    empresa: ''
+    telefono: '646417476'
+    direccion: 'Carrer diputacio 109 principal'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08015'
+    factura: ''
+[2018-04-01 20:51:55.359321] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karme32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Flor'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: 'Avisar al repartidor que como siempre se habia hecho anteriormente las cajas se deben entrar en el domicilio caso contrario es muy probable que sea la ltima vez que compro aqui Gracias'
+[2018-04-01 20:53:27.836667] [info] 118853487950
+[2018-04-01 20:53:27.954713] [info] Envio de correo del pedido: 118853487950 al comprador enviado correctamente.
+[2018-04-01 20:53:28.079814] [info] Envio de correo del pedido: 118853487950 al cliente enviado correctamente.

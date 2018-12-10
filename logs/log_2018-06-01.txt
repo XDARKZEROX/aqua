@@ -1,0 +1,14 @@
+[2018-06-01 8:45:42.361324] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'antmarto91@gmail.com'
+    nombre: 'Antonio'
+    apellido: 'Martin Torres'
+    empresa: ''
+    telefono: '626689892'
+    direccion: 'Calle Gomez de Arteche n°29 1° B'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28044'
+    factura: 'Ruego si es posible rapidez en el envío, ya que es para un familiar con cáncer y somos de Ceuta por lo que me gustaría llevármelas allí. Me voy el miércoles próximo. Muchas gracias'
+[2018-06-01 8:47:01.162266] [info] 362350389304
+[2018-06-01 8:47:01.277633] [info] Envio de correo del pedido: 362350389304 al comprador enviado correctamente.
+[2018-06-01 8:47:01.361143] [info] Envio de correo del pedido: 362350389304 al cliente enviado correctamente.

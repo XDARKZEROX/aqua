@@ -1,0 +1,11 @@
+[2018-07-06 10:42:12.633071] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mbaer@baer.cat'
+    nombre: 'Maria '
+    apellido: 'Baer Pakhomova'
+    empresa: 'Baer Inversions i Consultoria, S. L., CIF: B17681099'
+    telefono: '639775228'
+    direccion: 'Av. Punta Prima, 5, esc. 2, ap. 231'
+    provincia: 'Girona'
+    ciudad: 'Platja d'Aro'
+    postalcode: '17250'
+    factura: ''

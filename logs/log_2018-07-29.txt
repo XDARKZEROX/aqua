@@ -1,0 +1,14 @@
+[2018-07-29 22:33:39.286247] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'Jose Manuel'
+    apellido: 'montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'Juana de Vega, 2 - 8°'
+    provincia: 'A coruña'
+    ciudad: 'A coruña'
+    postalcode: '15003'
+    factura: ''
+[2018-07-29 22:36:31.496961] [info] 028090787977
+[2018-07-29 22:36:31.776606] [info] Envio de correo del pedido: 028090787977 al comprador enviado correctamente.
+[2018-07-29 22:36:31.867346] [info] Envio de correo del pedido: 028090787977 al cliente enviado correctamente.

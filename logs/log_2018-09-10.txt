@@ -1,0 +1,11 @@
+[2018-09-10 9:21:01.666017] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulavs89@hotmail.com'
+    nombre: 'Paula'
+    apellido: 'Vacchiano'
+    empresa: ''
+    telefono: '696569568'
+    direccion: 'Magdalenes 12 primero segunda'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08002'
+    factura: 'Si no estoy entregad a portero gracias'

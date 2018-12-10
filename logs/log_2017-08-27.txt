@@ -1,0 +1,25 @@
+[2017-08-27 7:12:20.000552] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'susreji@hotmail.com'
+    nombre: 'susana'
+    apellido: 'rebaque'
+    empresa: ''
+    telefono: '655909632'
+    direccion: 'PE la moraleja Av Europa 4 tercero CLARINS'
+    provincia: 'Alcobendas '
+    ciudad: 'Madrid'
+    postalcode: '28108'
+    factura: 'Entregar por las maanas'
+[2017-08-27 7:17:03.714538] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'susreji@hotmail.com'
+    nombre: 'susana'
+    apellido: 'rebaque'
+    empresa: ''
+    telefono: '655909632'
+    direccion: 'Pe la moraleja Av europa4 tercero clarins'
+    provincia: 'Alcobendas '
+    ciudad: 'Madrid '
+    postalcode: '655909632'
+    factura: 'Entrega por las maanas'
+[2017-08-27 7:22:46.655565] [info] 149440306599
+[2017-08-27 7:22:46.803042] [info] Envio de correo del pedido: 149440306599 al comprador enviado correctamente.
+[2017-08-27 7:22:46.866108] [info] Envio de correo del pedido: 149440306599 al cliente enviado correctamente.

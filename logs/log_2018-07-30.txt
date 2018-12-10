@@ -1,0 +1,53 @@
+[2018-07-30 6:52:03.765412] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua   23   4 Izd'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2018-07-30 6:54:04.114576] [info] 551756391372
+[2018-07-30 6:54:04.201878] [info] Envio de correo del pedido: 551756391372 al comprador enviado correctamente.
+[2018-07-30 6:54:04.266781] [info] Envio de correo del pedido: 551756391372 al cliente enviado correctamente.
+[2018-07-30 7:50:33.879710] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'montsetorrents20@gmail.com'
+    nombre: 'Miquel'
+    apellido: 'Torrents'
+    empresa: ''
+    telefono: '657467629'
+    direccion: 'calle Galvani 80 baixos A o B'
+    provincia: 'TERRASSA'
+    ciudad: 'TERRASSA'
+    postalcode: '08224'
+    factura: ''
+[2018-07-30 7:53:17.057878] [info] 015459576887
+[2018-07-30 7:53:17.135576] [info] Envio de correo del pedido: 015459576887 al comprador enviado correctamente.
+[2018-07-30 7:53:17.192811] [info] Envio de correo del pedido: 015459576887 al cliente enviado correctamente.
+[2018-07-30 9:03:35.962152] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'franciscochicano@gmail.com'
+    nombre: 'Jose Francisco'
+    apellido: 'Chicano Martorel'
+    empresa: ''
+    telefono: '640114723'
+    direccion: 'c/ Frederica Montseny, 12, 4º 1ª'
+    provincia: 'Sant Feliu de LLobregat'
+    ciudad: 'Sant Feliu de LLobregat'
+    postalcode: '08980'
+    factura: 'entregar en horario de 08 a 12'
+[2018-07-30 9:05:20.625662] [info] 780989501996
+[2018-07-30 9:05:20.723639] [info] Envio de correo del pedido: 780989501996 al comprador enviado correctamente.
+[2018-07-30 9:05:20.777031] [info] Envio de correo del pedido: 780989501996 al cliente enviado correctamente.
+[2018-07-30 21:18:11.208513] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'fernando.barriuso@gmail.com'
+    nombre: 'fernando'
+    apellido: 'barriuso juez'
+    empresa: ''
+    telefono: '906956594'
+    direccion: 'calle salas N 26'
+    provincia: 'burgos'
+    ciudad: 'revillayahedola'
+    postalcode: ' 09613'
+    factura: ''

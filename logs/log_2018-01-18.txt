@@ -1,0 +1,25 @@
+[2018-01-18 12:50:29.918482] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'deyl1@hotmail.com'
+    nombre: 'Francisco'
+    apellido: 'Gonzalo Rivas '
+    empresa: ''
+    telefono: '655830806'
+    direccion: 'calle alcala 690 bloque C bajo C'
+    provincia: 'Madrid'
+    ciudad: 'madrid'
+    postalcode: '28022'
+    factura: ''
+[2018-01-18 19:48:43.353960] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrillo89@gmail.com'
+    nombre: 'Paula'
+    apellido: 'CARRILLO SANCHEZ'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'CALLE HIEDRA 28 3C'
+    provincia: 'MADRID'
+    ciudad: 'MADRID'
+    postalcode: '28036'
+    factura: 'Por favor la entrega a partir de las 14h GRACIAS'
+[2018-01-18 19:49:43.362396] [info] 646546223559
+[2018-01-18 19:49:43.467654] [info] Envio de correo del pedido: 646546223559 al comprador enviado correctamente.
+[2018-01-18 19:49:43.624557] [info] Envio de correo del pedido: 646546223559 al cliente enviado correctamente.

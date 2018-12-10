@@ -1,0 +1,56 @@
+[2017-10-18 15:27:22.997068] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monicfsm@gmail.com'
+    nombre: 'José Luis'
+    apellido: 'Fernández'
+    empresa: ''
+    telefono: '678080638'
+    direccion: 'Calle el cruce, n2'
+    provincia: 'Burgos'
+    ciudad: 'Quintanilla del Rebollar'
+    postalcode: '09568'
+    factura: ''
+[2017-10-18 15:27:26.174108] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'bethmarti@hotmail.es'
+    nombre: 'Beth'
+    apellido: 'Marti Codina'
+    empresa: ''
+    telefono: '626033914'
+    direccion: 'Pompeu Fabra 26'
+    provincia: 'Barcelona'
+    ciudad: 'Mirasol'
+    postalcode: '08195'
+    factura: 'Entregar por las tardes'
+[2017-10-18 15:28:49.034157] [info] 714445632341
+[2017-10-18 15:28:49.138537] [info] Envio de correo del pedido: 714445632341 al comprador enviado correctamente.
+[2017-10-18 15:28:49.196799] [info] Envio de correo del pedido: 714445632341 al cliente enviado correctamente.
+[2017-10-18 15:29:04.017545] [info] 798337647972
+[2017-10-18 15:29:04.110862] [info] Envio de correo del pedido: 798337647972 al comprador enviado correctamente.
+[2017-10-18 15:29:04.268701] [info] Envio de correo del pedido: 798337647972 al cliente enviado correctamente.
+[2017-10-18 15:46:20.672732] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mizardos@gmail.com'
+    nombre: 'Marisa'
+    apellido: 'Valle Guillen'
+    empresa: ''
+    telefono: '626403589'
+    direccion: 'Rambla Brasil 56 4 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08028'
+    factura: ''
+[2017-10-18 15:48:07.459913] [info] 032240983564
+[2017-10-18 15:48:07.903791] [info] Envio de correo del pedido: 032240983564 al comprador enviado correctamente.
+[2017-10-18 15:48:08.073535] [info] Envio de correo del pedido: 032240983564 al cliente enviado correctamente.
+[2017-10-18 16:13:51.155808] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'marc.vica@gmail.com'
+    nombre: 'Marc'
+    apellido: 'Villanueva Carreras'
+    empresa: ''
+    telefono: '658937162'
+    direccion: 'Santiago Rusiol 4 2o 5a'
+    provincia: 'Barcelona'
+    ciudad: 'CastellardelValles'
+    postalcode: '08211'
+    factura: ''
+[2017-10-18 16:17:42.771080] [info] 779958649613
+[2017-10-18 16:17:42.896857] [info] Envio de correo del pedido: 779958649613 al comprador enviado correctamente.
+[2017-10-18 16:17:42.972912] [info] Envio de correo del pedido: 779958649613 al cliente enviado correctamente.

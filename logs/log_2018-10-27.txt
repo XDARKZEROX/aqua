@@ -1,0 +1,25 @@
+[2018-10-27 11:46:38.550863] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna'
+    apellido: 'Romero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Marqués de Sant Mori, 69-75 1-2'
+    provincia: 'Badalona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2018-10-27 11:48:27.197201] [info] 660247589659
+[2018-10-27 11:48:27.334244] [info] Envio de correo del pedido: 660247589659 al comprador enviado correctamente.
+[2018-10-27 11:48:27.392838] [info] Envio de correo del pedido: 660247589659 al cliente enviado correctamente.
+[2018-10-27 19:24:58.551981] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nesor13@gmail.com'
+    nombre: 'Nestor '
+    apellido: 'Ortega Gregorio'
+    empresa: ''
+    telefono: '691236066'
+    direccion: 'urkiola 11    1B'
+    provincia: 'Bizkaia'
+    ciudad: 'Bilbao'
+    postalcode: '48012'
+    factura: ''

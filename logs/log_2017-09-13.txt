@@ -1,0 +1,28 @@
+[2017-09-13 7:11:37.549578] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jjmarcosanton@gmail.com'
+    nombre: 'Jose Javier'
+    apellido: 'Marcos Anton'
+    empresa: ''
+    telefono: '675717008'
+    direccion: 'Kalamua 23   4 Izd'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Elgoibar'
+    postalcode: '20870'
+    factura: ''
+[2017-09-13 7:15:04.322482] [info] 951031169339
+[2017-09-13 7:15:04.471292] [info] Envio de correo del pedido: 951031169339 al comprador enviado correctamente.
+[2017-09-13 7:15:04.527498] [info] Envio de correo del pedido: 951031169339 al cliente enviado correctamente.
+[2017-09-13 8:24:25.797950] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nlaespada@hotmail.com'
+    nombre: 'Naiara'
+    apellido: 'Laespada Aguirre'
+    empresa: ''
+    telefono: '606319187'
+    direccion: 'Nafarroa, 64, 1.B'
+    provincia: 'Gipuzkoa'
+    ciudad: 'Zarautz'
+    postalcode: '20800'
+    factura: ''
+[2017-09-13 8:25:45.053030] [info] 955251571498
+[2017-09-13 8:25:45.138297] [info] Envio de correo del pedido: 955251571498 al comprador enviado correctamente.
+[2017-09-13 8:25:45.241147] [info] Envio de correo del pedido: 955251571498 al cliente enviado correctamente.

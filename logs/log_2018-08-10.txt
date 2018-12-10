@@ -1,0 +1,28 @@
+[2018-08-10 11:09:23.515185] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'estherkonradbitterlin@gmail.com'
+    nombre: 'Esther'
+    apellido: 'Konrad Bitterlin'
+    empresa: ''
+    telefono: '609638033'
+    direccion: 'Turó Sant PAu 71 c/9'
+    provincia: 'Bellaterra'
+    ciudad: 'Bellaterra'
+    postalcode: '08193'
+    factura: ''
+[2018-08-10 11:11:08.731818] [info] 536550277453
+[2018-08-10 11:11:08.859303] [info] Envio de correo del pedido: 536550277453 al comprador enviado correctamente.
+[2018-08-10 11:11:08.944176] [info] Envio de correo del pedido: 536550277453 al cliente enviado correctamente.
+[2018-08-10 14:19:42.897502] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'reyessukunza@yahoo.es'
+    nombre: 'Reyes'
+    apellido: 'Sanz'
+    empresa: 'Particular'
+    telefono: '656411918'
+    direccion: 'Balleneros 12. 7E'
+    provincia: 'Guipúzcoa'
+    ciudad: 'Guipúzcoa'
+    postalcode: '20011'
+    factura: ''
+[2018-08-10 14:21:02.977644] [info] 751763538782
+[2018-08-10 14:21:03.096534] [info] Envio de correo del pedido: 751763538782 al comprador enviado correctamente.
+[2018-08-10 14:21:03.182780] [info] Envio de correo del pedido: 751763538782 al cliente enviado correctamente.

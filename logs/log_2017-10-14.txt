@@ -1,0 +1,25 @@
+[2017-10-14 14:38:09.640825] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'lopezmoleroanabelen@gmail.com'
+    nombre: 'Ana belen'
+    apellido: 'Molero'
+    empresa: ''
+    telefono: '607955422'
+    direccion: 'Corredera 4 intersol'
+    provincia: 'Albacete'
+    ciudad: 'Almansa'
+    postalcode: '02640'
+    factura: ''
+[2017-10-14 14:40:09.109956] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'oriol.llamas@hotmail.com'
+    nombre: 'Oriol'
+    apellido: 'Llamas Llopart'
+    empresa: ''
+    telefono: '650414815'
+    direccion: 'c / Barrio Torrentfondo nº1'
+    provincia: 'Barcelona'
+    ciudad: 'Sant Llorenç d'Hortons'
+    postalcode: '08791'
+    factura: 'entrega en Calle Barri Torrentfondo numero3'
+[2017-10-14 14:44:50.797960] [info] 700323120861
+[2017-10-14 14:44:50.953372] [info] Envio de correo del pedido: 700323120861 al comprador enviado correctamente.
+[2017-10-14 14:44:51.004692] [info] Envio de correo del pedido: 700323120861 al cliente enviado correctamente.

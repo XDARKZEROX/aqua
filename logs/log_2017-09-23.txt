@@ -1,0 +1,14 @@
+[2017-09-23 20:49:00.278069] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pere.gomez@llap.jazztel.es'
+    nombre: 'Pere'
+    apellido: 'Gómez Castell'
+    empresa: ''
+    telefono: '656334946'
+    direccion: 'Carrer Bigai 11 entlo 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08022'
+    factura: 'si no hay nadie en casa dejar al portero'
+[2017-09-23 20:51:04.493993] [info] 591973050158
+[2017-09-23 20:51:04.655781] [info] Envio de correo del pedido: 591973050158 al comprador enviado correctamente.
+[2017-09-23 20:51:04.750618] [info] Envio de correo del pedido: 591973050158 al cliente enviado correctamente.

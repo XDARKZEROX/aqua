@@ -1,0 +1,50 @@
+[2017-10-06 4:04:13.105894] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monexiss@hotmail.com'
+    nombre: 'Montse'
+    apellido: 'Pages Canamero'
+    empresa: 'Gestoria Pagès S.L.P'
+    telefono: '679476403'
+    direccion: 'General Prim 8 bjos'
+    provincia: 'Barcelona'
+    ciudad: 'Vilafrancadelpenedes'
+    postalcode: '08720'
+    factura: 'Solicitamos factura a empresa NIF B65227308'
+[2017-10-06 7:25:26.824598] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'joan-mp@hotmail.com'
+    nombre: 'joan'
+    apellido: 'montasell parera'
+    empresa: ''
+    telefono: '639303066'
+    direccion: 'germana reyes 7'
+    provincia: 'barcelona'
+    ciudad: 'santceloni'
+    postalcode: '08470'
+    factura: ''
+[2017-10-06 9:38:45.111203] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'joan-mp@hotmail.com'
+    nombre: 'joan'
+    apellido: 'montasell parera'
+    empresa: ''
+    telefono: '639303066'
+    direccion: 'germana reyes 7'
+    provincia: 'barcelona'
+    ciudad: 'santceloni'
+    postalcode: '08470'
+    factura: ''
+[2017-10-06 9:40:53.488176] [info] 742844979916
+[2017-10-06 9:40:53.599925] [info] Envio de correo del pedido: 742844979916 al comprador enviado correctamente.
+[2017-10-06 9:40:53.709966] [info] Envio de correo del pedido: 742844979916 al cliente enviado correctamente.
+[2017-10-06 11:21:12.179415] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mbaer@baer.cat'
+    nombre: 'Maria'
+    apellido: 'Baer Pakhomova'
+    empresa: 'Baer Inversions i Consultoria, S. L. CIF: B17681099'
+    telefono: '639775228'
+    direccion: 'Av. Punta Prima, 5, esc. 2, ap. 231'
+    provincia: 'Girona'
+    ciudad: 'Platja d'Aro'
+    postalcode: '17250'
+    factura: ''
+[2017-10-06 11:23:43.216721] [info] 896862220757
+[2017-10-06 11:23:43.285284] [info] Envio de correo del pedido: 896862220757 al comprador enviado correctamente.
+[2017-10-06 11:23:43.329931] [info] Envio de correo del pedido: 896862220757 al cliente enviado correctamente.

@@ -1,0 +1,25 @@
+[2018-02-19 12:39:10.681360] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'SUSREJI@HOTMAIL.COM'
+    nombre: 'SUSANA'
+    apellido: 'REBAQUE JIMENEZ'
+    empresa: ''
+    telefono: '655909632'
+    direccion: 'VERSALLES 8 1A'
+    provincia: 'MOSTOLES'
+    ciudad: 'MADRID'
+    postalcode: '28937'
+    factura: ''
+[2018-02-19 12:40:31.319304] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'SUSREJI@HOTMAIL.COM'
+    nombre: 'SUSANA'
+    apellido: 'REBAQUE JIMENEZ'
+    empresa: ''
+    telefono: '655909632'
+    direccion: 'VERSALLES 8 1A'
+    provincia: 'MOSTOLES'
+    ciudad: 'MADRID'
+    postalcode: '28937'
+    factura: ''
+[2018-02-19 12:42:02.747731] [info] 413619360353
+[2018-02-19 12:42:02.916234] [info] Envio de correo del pedido: 413619360353 al comprador enviado correctamente.
+[2018-02-19 12:42:02.984389] [info] Envio de correo del pedido: 413619360353 al cliente enviado correctamente.

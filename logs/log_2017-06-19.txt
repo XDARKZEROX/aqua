@@ -1,0 +1,25 @@
+[2017-06-19 10:33:22.808610] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'andreaparraduarte@gmail.com'
+    nombre: 'Andrea'
+    apellido: 'Parra'
+    empresa: ''
+    telefono: '610861474'
+    direccion: 'Calle maquinilla 39 portal 8 piso 6b'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28031'
+    factura: ''
+[2017-06-19 10:40:28.574350] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'secretaria@praxislgconsultores.com'
+    nombre: 'Lucia'
+    apellido: 'Gato'
+    empresa: 'LUCIA GATO CONSULTORES, S.L.'
+    telefono: '943013683'
+    direccion: 'Zuatzu Kalea, 6 - 2ª Planta. Oficina 5. Edificio Bidasoa. Parque Empresarial Zuatzu'
+    provincia: 'Gipuzkoa'
+    ciudad: 'SanSebastian'
+    postalcode: '20018'
+    factura: ''
+[2017-06-19 10:41:09.803937] [info] 983442043870
+[2017-06-19 10:41:09.914958] [info] Envio de correo del pedido: 983442043870 al comprador enviado correctamente.
+[2017-06-19 10:41:09.995969] [info] Envio de correo del pedido: 983442043870 al cliente enviado correctamente.

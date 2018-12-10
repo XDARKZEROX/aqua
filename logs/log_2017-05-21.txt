@@ -1,0 +1,16 @@
+[2017-05-21 18:59:18.535164] [info] 430416746362
+[2017-05-21 18:59:18.633052] [info] Envio de correo del pedido: 430416746362 al comprador enviado correctamente.
+[2017-05-21 18:59:18.718132] [info] Envio de correo del pedido: 430416746362 al cliente enviado correctamente.
+[2017-05-21 20:25:27.706958] [info] 589398445604
+[2017-05-21 20:25:27.707197] [info] El pedido con codigo:  589398445604 se le ha denegado el pago
+[2017-05-21 20:29:58.412229] [info] 205876017295
+[2017-05-21 20:29:58.412348] [info] El pedido con codigo:  205876017295 se le ha denegado el pago
+[2017-05-21 20:33:52.909827] [info] 893978340029
+[2017-05-21 20:33:53.010356] [info] Envio de correo del pedido: 893978340029 al comprador enviado correctamente.
+[2017-05-21 20:33:53.067174] [info] Envio de correo del pedido: 893978340029 al cliente enviado correctamente.
+[2017-05-21 20:47:40.143487] [info] 358475277015
+[2017-05-21 20:47:40.238229] [info] Envio de correo del pedido: 358475277015 al comprador enviado correctamente.
+[2017-05-21 20:47:40.332561] [info] Envio de correo del pedido: 358475277015 al cliente enviado correctamente.
+[2017-05-21 21:23:09.156153] [info] 970643386743
+[2017-05-21 21:23:09.159298] [info] Envio de correo del pedido: 970643386743 al comprador no se pudo enviar
+[2017-05-21 21:23:09.217685] [info] Envio de correo del pedido: 970643386743 al cliente enviado correctamente.

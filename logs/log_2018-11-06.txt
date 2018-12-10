@@ -1,0 +1,24 @@
+[2018-11-06 13:50:09.547825] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'vanbakelolga@gmail.com'
+    nombre: 'Olga'
+    apellido: 'Petrenko'
+    empresa: ''
+    telefono: '655023968'
+    direccion: 'Las Lomas del Virrey urbMonte Paraiso 13 bajo b'
+    provincia: 'Malaga'
+    ciudad: 'Marbella'
+    postalcode: '29602'
+    factura: ''
+[2018-11-06 13:51:21.159300] [info] 594395622943
+[2018-11-06 13:51:21.159430] [info] El pedido con codigo:  594395622943 se le ha denegado el pago
+[2018-11-06 13:53:52.491539] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'olya.petrenko@gmail.com'
+    nombre: 'Olga'
+    apellido: 'Petrenko'
+    empresa: ''
+    telefono: '655023968'
+    direccion: 'Las Lomas del Virrey Monte Paraiso 13 bajo b'
+    provincia: 'Malaga'
+    ciudad: 'Marbella'
+    postalcode: '29602'
+    factura: ''

@@ -1,0 +1,36 @@
+[2017-11-04 7:57:07.348222] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'carantakira@gmail.com'
+    nombre: 'Carmen '
+    apellido: 'Campaña Acedo'
+    empresa: 'particular'
+    telefono: '931779224 ( tardes)'
+    direccion: 'Santiago Rusiñol 29-3-4'
+    provincia: 'Cataluña'
+    ciudad: 'Castellar del Valles'
+    postalcode: '08211'
+    factura: ''
+[2017-11-04 7:57:38.512386] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'carantakira@gmail.com'
+    nombre: 'Carmen '
+    apellido: 'Campaña Acedo'
+    empresa: 'particular'
+    telefono: '931779224 ( tardes)'
+    direccion: 'Santiago Rusiñol 29-3-4'
+    provincia: 'Cataluña'
+    ciudad: 'Castellar del Valles'
+    postalcode: '08211'
+    factura: ''
+[2017-11-04 22:32:53.483584] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'santamariabelen@yahoo.es'
+    nombre: 'Belen'
+    apellido: 'Santamaría'
+    empresa: ''
+    telefono: '649109545'
+    direccion: 'Calle Balmes  96    2o A'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08008'
+    factura: ''
+[2017-11-04 22:35:00.785794] [info] 692404360379
+[2017-11-04 22:35:00.968732] [info] Envio de correo del pedido: 692404360379 al comprador enviado correctamente.
+[2017-11-04 22:35:01.117825] [info] Envio de correo del pedido: 692404360379 al cliente enviado correctamente.

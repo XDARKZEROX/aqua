@@ -1,0 +1,53 @@
+[2017-12-16 8:00:32.068969] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'beaalborch@gmail.com'
+    nombre: 'Beatriz'
+    apellido: 'Alborch Peiro'
+    empresa: ''
+    telefono: '685861190'
+    direccion: 'Tossal n2 piso 4 puerta 11'
+    provincia: 'Gandia'
+    ciudad: 'Valencia'
+    postalcode: '46701'
+    factura: 'Llama al 685861190 si no hay nadie en casa'
+[2017-12-16 8:05:47.297132] [info] 599969756350
+[2017-12-16 8:05:47.413450] [info] Envio de correo del pedido: 599969756350 al comprador enviado correctamente.
+[2017-12-16 8:05:47.488013] [info] Envio de correo del pedido: 599969756350 al cliente enviado correctamente.
+[2017-12-16 16:05:55.975517] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'montsetorrents20@gmail.com'
+    nombre: 'Miquel'
+    apellido: 'Robles Torrents'
+    empresa: ''
+    telefono: '657467629'
+    direccion: 'calle Galvani 80 baixos A o B'
+    provincia: 'Barcelona'
+    ciudad: 'TERRASSA'
+    postalcode: '08224'
+    factura: ''
+[2017-12-16 16:19:07.824701] [info] 536623641014
+[2017-12-16 16:19:07.924335] [info] Envio de correo del pedido: 536623641014 al comprador enviado correctamente.
+[2017-12-16 16:19:07.975090] [info] Envio de correo del pedido: 536623641014 al cliente enviado correctamente.
+[2017-12-16 19:58:49.679692] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'manuelaortegalinares@hotmail.com'
+    nombre: 'Manuela'
+    apellido: 'Linares'
+    empresa: ''
+    telefono: '607459444'
+    direccion: 'A Vd. Lagartija N-10 B/B 4-2'
+    provincia: 'Córdoba'
+    ciudad: 'Cordoba'
+    postalcode: '14005'
+    factura: ''
+[2017-12-16 20:13:20.619370] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'manuelaortegalinares@hotmail.com'
+    nombre: 'Manuela'
+    apellido: 'Linares'
+    empresa: ''
+    telefono: '607459444'
+    direccion: 'A Vd. Lagartija N-10 B/B 4-2'
+    provincia: 'Córdoba'
+    ciudad: 'Cordoba'
+    postalcode: '14005'
+    factura: ''
+[2017-12-16 20:15:49.078099] [info] 940594750485
+[2017-12-16 20:15:49.179459] [info] Envio de correo del pedido: 940594750485 al comprador enviado correctamente.
+[2017-12-16 20:15:49.317158] [info] Envio de correo del pedido: 940594750485 al cliente enviado correctamente.

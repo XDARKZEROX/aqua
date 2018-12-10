@@ -1,0 +1,14 @@
+[2018-05-05 19:14:39.257405] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'granadita.mgr@gmail'
+    nombre: 'Mercedes '
+    apellido: 'Grana'
+    empresa: ''
+    telefono: '622151033'
+    direccion: 'C/Las Marzas, 3 - 1° A'
+    provincia: 'Burgos'
+    ciudad: 'Sinovas - Aranda de Duero'
+    postalcode: 'O9450'
+    factura: ''
+[2018-05-05 19:18:18.332894] [info] 217745041010
+[2018-05-05 19:18:18.479418] [info] Envio de correo del pedido: 217745041010 al comprador enviado correctamente.
+[2018-05-05 19:18:18.544540] [info] Envio de correo del pedido: 217745041010 al cliente enviado correctamente.

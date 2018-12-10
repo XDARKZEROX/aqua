@@ -1,0 +1,14 @@
+[2018-12-03 20:25:40.391586] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'paulacarrillo89@gmail.com'
+    nombre: 'Paula'
+    apellido: 'Carrillo'
+    empresa: ''
+    telefono: '635328108'
+    direccion: 'Calle de la Hiedra 28 3 C'
+    provincia: 'Madrid'
+    ciudad: 'Madrid'
+    postalcode: '28036'
+    factura: ''
+[2018-12-03 20:26:53.965982] [info] 517753313103
+[2018-12-03 20:26:55.587805] [info] Envio de correo del pedido: 517753313103 al comprador enviado correctamente.
+[2018-12-03 20:26:56.162235] [info] Envio de correo del pedido: 517753313103 al cliente enviado correctamente.

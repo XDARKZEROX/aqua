@@ -1,0 +1,36 @@
+[2017-09-24 4:39:12.877084] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'JaviFIT_2000@hotmail.com'
+    nombre: 'Javi'
+    apellido: 'López'
+    empresa: ''
+    telefono: '662913359'
+    direccion: 'San pedro 22'
+    provincia: 'Ciudad Real'
+    ciudad: 'Argamasilla de calatrava'
+    postalcode: '13440'
+    factura: ''
+[2017-09-24 15:34:25.513467] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'd.calero1@gmail.com'
+    nombre: 'Diego'
+    apellido: 'Calero Montoya'
+    empresa: 'S2 Fitness'
+    telefono: '647102566'
+    direccion: 'Doctor Fleming 3'
+    provincia: 'Albacete'
+    ciudad: 'Villarrobledo'
+    postalcode: '02600'
+    factura: 'YANEZPH9'
+[2017-09-24 15:36:17.737449] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'd.calero1@gmail.com'
+    nombre: 'Diego'
+    apellido: 'Calero Montoya'
+    empresa: 'S2 Fitness'
+    telefono: '647102566'
+    direccion: 'Doctor Fleming 3'
+    provincia: 'Albacete'
+    ciudad: 'Villarrobledo'
+    postalcode: '02600'
+    factura: 'Por la mañana por favor '
+[2017-09-24 15:37:55.710294] [info] 008873616909
+[2017-09-24 15:37:55.776043] [info] Envio de correo del pedido: 008873616909 al comprador enviado correctamente.
+[2017-09-24 15:37:55.841454] [info] Envio de correo del pedido: 008873616909 al cliente enviado correctamente.

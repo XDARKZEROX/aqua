@@ -1,0 +1,24 @@
+[2018-01-24 18:56:01.090202] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nazanian2@hotmail.com'
+    nombre: 'Juan Manuel '
+    apellido: 'Rosa alba'
+    empresa: 'Particular'
+    telefono: '638006950'
+    direccion: 'Calle juan de la cierva 40 bloque 2 1-B'
+    provincia: 'Alicante'
+    ciudad: 'El Campello'
+    postalcode: '03560'
+    factura: ''
+[2018-01-24 18:56:27.230530] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nazanian2@hotmail.com'
+    nombre: 'Juan Manuel '
+    apellido: 'Rosa alba'
+    empresa: 'Particular'
+    telefono: '638006950'
+    direccion: 'Calle juan de la cierva 40 bloque 2 1-B'
+    provincia: 'Alicante'
+    ciudad: 'El Campello'
+    postalcode: '03560'
+    factura: ''
+[2018-01-24 18:57:51.871025] [info] 195538003475
+[2018-01-24 18:57:51.871145] [info] El pedido con codigo:  195538003475 se le ha denegado el pago

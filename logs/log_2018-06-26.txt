@@ -1,0 +1,14 @@
+[2018-06-26 21:04:03.660996] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pere.gomez.castell@gmail.com'
+    nombre: 'Pere'
+    apellido: 'Gómez Castell'
+    empresa: ''
+    telefono: '656334946'
+    direccion: 'carrer Bigai 11 entlo 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08022'
+    factura: 'si no hay nadie en casa dejarlo al Sr portero'
+[2018-06-26 21:06:06.000158] [info] 759336778802
+[2018-06-26 21:06:06.151365] [info] Envio de correo del pedido: 759336778802 al comprador enviado correctamente.
+[2018-06-26 21:06:06.200759] [info] Envio de correo del pedido: 759336778802 al cliente enviado correctamente.

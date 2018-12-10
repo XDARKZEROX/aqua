@@ -1,0 +1,12 @@
+[2017-02-18 4:46:21.078887] [info] No se recibio nada por POST
+[2017-02-18 4:46:44.502796] [info] No se recibio nada por POST
+[2017-02-18 4:47:52.039581] [info] No se recibio nada por POST
+[2017-02-18 4:52:44.777784] [info] 335718897343
+[2017-02-18 4:52:45.004602] [info] Envio de correo del pedido: 335718897343 al comprador enviado correctamente.
+[2017-02-18 4:52:45.076267] [info] Envio de correo del pedido: 335718897343 al cliente enviado correctamente.
+[2017-02-18 5:12:03.082102] [info] 213644768097
+[2017-02-18 5:12:03.082314] [info] El pedido con codigo:  213644768097 se le ha denegado el pago
+[2017-02-18 5:13:19.063473] [info] Envio de correo del pedido: 905440986755 al comprador enviado correctamente.
+[2017-02-18 5:13:19.249394] [info] Envio de correo del pedido: 905440986755 al cliente enviado correctamente.
+[2017-02-18 11:02:22.064770] [info] Envio de correo del pedido: 601527793823 al comprador enviado correctamente.
+[2017-02-18 11:02:22.182996] [info] Envio de correo del pedido: 601527793823 al cliente enviado correctamente.

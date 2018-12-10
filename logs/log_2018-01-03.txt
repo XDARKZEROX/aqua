@@ -1,0 +1,25 @@
+[2018-01-03 11:49:27.784914] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'info@centrobodyinbalance.com'
+    nombre: 'LETICIA'
+    apellido: 'SOUTO MATOS'
+    empresa: 'BODY IN BALANCE'
+    telefono: '654442751'
+    direccion: 'Calle Azorín 1, Body in Balance'
+    provincia: 'Pontevedra'
+    ciudad: 'PONTEAREAS'
+    postalcode: '36860'
+    factura: ''
+[2018-01-03 18:55:03.919683] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna'
+    apellido: 'Romero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Marqués de Sant Mori, 69-75 1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2018-01-03 18:56:49.086633] [info] 799949363226
+[2018-01-03 18:56:49.206702] [info] Envio de correo del pedido: 799949363226 al comprador enviado correctamente.
+[2018-01-03 18:56:49.367060] [info] Envio de correo del pedido: 799949363226 al cliente enviado correctamente.

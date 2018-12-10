@@ -1,0 +1,53 @@
+[2017-08-24 9:17:45.189232] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'epuentesleira@hotmail.com'
+    nombre: 'EVARISTO'
+    apellido: 'PUENTES LEIRA'
+    empresa: ''
+    telefono: '606962096'
+    direccion: 'CELSO E FERREIRO 43 3'
+    provincia: 'LACORUA'
+    ciudad: 'ASPONTES'
+    postalcode: '15320'
+    factura: ''
+[2017-08-24 9:21:19.368891] [info] 811811035582
+[2017-08-24 9:21:19.535243] [info] Envio de correo del pedido: 811811035582 al comprador enviado correctamente.
+[2017-08-24 9:21:19.582474] [info] Envio de correo del pedido: 811811035582 al cliente enviado correctamente.
+[2017-08-24 10:37:27.284157] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'bethmarti@hotmail.es'
+    nombre: 'Beth'
+    apellido: 'Marti Codina'
+    empresa: ''
+    telefono: '626033914'
+    direccion: 'Pompeu Fabra 26 casa'
+    provincia: 'Barcelona'
+    ciudad: 'SantCugatdelvalles'
+    postalcode: '08195'
+    factura: 'Entregar por las tardes'
+[2017-08-24 10:39:05.751138] [info] 619052751368
+[2017-08-24 10:39:05.941361] [info] Envio de correo del pedido: 619052751368 al comprador enviado correctamente.
+[2017-08-24 10:39:05.997687] [info] Envio de correo del pedido: 619052751368 al cliente enviado correctamente.
+[2017-08-24 19:45:38.750650] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'JOSE MANUEL'
+    apellido: 'Blanco Montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'juana de vega 2  planta 8'
+    provincia: 'ACoruna'
+    ciudad: 'ACoruna'
+    postalcode: '15003'
+    factura: 'Entrega de 08 a 15 horas'
+[2017-08-24 19:47:12.828661] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'JOSE MANUEL'
+    apellido: 'Blanco Montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'juana de vega 2  planta 8'
+    provincia: 'ACoruna'
+    ciudad: 'ACoruna'
+    postalcode: '15003'
+    factura: 'Entrega de 08 a 15 horas'
+[2017-08-24 19:48:43.428335] [info] 412899224076
+[2017-08-24 19:48:43.503331] [info] Envio de correo del pedido: 412899224076 al comprador enviado correctamente.
+[2017-08-24 19:48:43.575628] [info] Envio de correo del pedido: 412899224076 al cliente enviado correctamente.

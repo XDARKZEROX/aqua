@@ -1,0 +1,53 @@
+[2018-02-20 14:21:56.731704] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'kwtaylor83@gmail.com'
+    nombre: 'Keith'
+    apellido: 'Taylor'
+    empresa: ''
+    telefono: '625828798'
+    direccion: 'Calle Estocolm 3 Entresuelo 2'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08005'
+    factura: ''
+[2018-02-20 14:23:30.705362] [info] 198543311701
+[2018-02-20 14:23:30.852130] [info] Envio de correo del pedido: 198543311701 al comprador enviado correctamente.
+[2018-02-20 14:23:31.016505] [info] Envio de correo del pedido: 198543311701 al cliente enviado correctamente.
+[2018-02-20 17:48:27.809756] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rubi_fredy@yahoo.es'
+    nombre: 'Alberto'
+    apellido: 'Rodriguez Vazquez'
+    empresa: ''
+    telefono: '655074738'
+    direccion: 'Montecelo Alto 47'
+    provincia: 'Pontevedra'
+    ciudad: 'Vigo'
+    postalcode: '36207'
+    factura: ''
+[2018-02-20 17:58:10.921158] [info] 653974926952
+[2018-02-20 17:58:11.011605] [info] Envio de correo del pedido: 653974926952 al comprador enviado correctamente.
+[2018-02-20 17:58:11.063911] [info] Envio de correo del pedido: 653974926952 al cliente enviado correctamente.
+[2018-02-20 21:30:44.908755] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'maribelretuerto@gmail.com'
+    nombre: 'Maribel'
+    apellido: 'Retuerto Fernandez'
+    empresa: ''
+    telefono: '669795284'
+    direccion: 'mino 68'
+    provincia: 'madrid'
+    ciudad: 'villaviciosadeodon'
+    postalcode: '28670'
+    factura: 'llamar a 669795284 antes de la entrega'
+[2018-02-20 21:39:32.091074] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'manuellopeojeda@gmail.com'
+    nombre: 'manuel'
+    apellido: 'lope ojeda'
+    empresa: ''
+    telefono: '669795282'
+    direccion: 'mino 68'
+    provincia: 'madrid'
+    ciudad: 'villaviciosadeodon'
+    postalcode: '28670'
+    factura: 'llamar a 669795284 antes de la entrega'
+[2018-02-20 21:41:12.815460] [info] 521216366234
+[2018-02-20 21:41:12.988890] [info] Envio de correo del pedido: 521216366234 al comprador enviado correctamente.
+[2018-02-20 21:41:13.095896] [info] Envio de correo del pedido: 521216366234 al cliente enviado correctamente.

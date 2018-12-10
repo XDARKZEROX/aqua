@@ -1,0 +1,14 @@
+[2018-10-21 7:05:40.420702] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'josuatomik@hotmail.com'
+    nombre: 'Josu'
+    apellido: 'Arroyo'
+    empresa: ''
+    telefono: '688682769'
+    direccion: 'Arriluzeaga n10a bajo b'
+    provincia: 'Durango'
+    ciudad: 'Durango'
+    postalcode: '48200'
+    factura: ''
+[2018-10-21 7:07:18.034372] [info] 141462375489
+[2018-10-21 7:07:18.104566] [info] Envio de correo del pedido: 141462375489 al comprador enviado correctamente.
+[2018-10-21 7:07:18.150053] [info] Envio de correo del pedido: 141462375489 al cliente enviado correctamente.

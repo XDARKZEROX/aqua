@@ -1,0 +1,3 @@
+[2017-02-07 8:18:55.345747] [info] 762736238007
+[2017-02-07 8:18:55.544135] [info] Envio de correo del pedido: 762736238007 al comprador enviado correctamente.
+[2017-02-07 8:18:55.675606] [info] Envio de correo del pedido: 762736238007 al cliente enviado correctamente.

@@ -1,0 +1,28 @@
+[2018-07-09 9:38:24.237577] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'amaia.alzola@gmail.com'
+    nombre: 'AMAIA'
+    apellido: 'ALZOLA'
+    empresa: ''
+    telefono: '657717634'
+    direccion: 'BARRIO BITERINO 1'
+    provincia: 'BIZKAIA'
+    ciudad: 'DIMA'
+    postalcode: '48141'
+    factura: ''
+[2018-07-09 9:40:52.655103] [info] 189240471076
+[2018-07-09 9:40:52.818295] [info] Envio de correo del pedido: 189240471076 al comprador enviado correctamente.
+[2018-07-09 9:40:52.864676] [info] Envio de correo del pedido: 189240471076 al cliente enviado correctamente.
+[2018-07-09 12:39:45.047985] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'adriangf1993@gmail.com'
+    nombre: 'ADRIAN'
+    apellido: 'GONZALEZ FRANCO'
+    empresa: ''
+    telefono: '633200074'
+    direccion: 'CAMINO LODAIRO 113'
+    provincia: 'lacorua'
+    ciudad: 'NARON'
+    postalcode: '15570'
+    factura: ''
+[2018-07-09 12:41:26.794794] [info] 160554428142
+[2018-07-09 12:41:26.921253] [info] Envio de correo del pedido: 160554428142 al comprador enviado correctamente.
+[2018-07-09 12:41:26.970252] [info] Envio de correo del pedido: 160554428142 al cliente enviado correctamente.

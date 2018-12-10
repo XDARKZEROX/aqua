@@ -1,0 +1,14 @@
+[2017-08-19 11:04:37.955810] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'reyessukunza@yahoo.es'
+    nombre: 'Reyes '
+    apellido: 'Sucunza Sanz '
+    empresa: 'Particular '
+    telefono: '656411918'
+    direccion: 'Balleneros 12. 7E'
+    provincia: 'San Sebastián '
+    ciudad: 'Guipúzcoa '
+    postalcode: '20011'
+    factura: ''
+[2017-08-19 11:10:20.896461] [info] 916413001022
+[2017-08-19 11:10:20.985976] [info] Envio de correo del pedido: 916413001022 al comprador enviado correctamente.
+[2017-08-19 11:10:21.060348] [info] Envio de correo del pedido: 916413001022 al cliente enviado correctamente.

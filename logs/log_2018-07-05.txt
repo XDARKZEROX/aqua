@@ -1,0 +1,39 @@
+[2018-07-05 10:00:52.791379] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna'
+    apellido: 'Romero Montero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Av Marques de Sant Mori 69 75  1 2'
+    provincia: 'BARCELONA'
+    ciudad: 'BADALONA'
+    postalcode: '08913'
+    factura: ''
+[2018-07-05 10:11:28.534511] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Anna'
+    apellido: 'Romero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Marqués de Sant Mori, 69-75 1-2'
+    provincia: 'Badalona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2018-07-05 10:12:48.982060] [info] 357476941098
+[2018-07-05 10:12:49.067234] [info] Envio de correo del pedido: 357476941098 al comprador enviado correctamente.
+[2018-07-05 10:12:49.112973] [info] Envio de correo del pedido: 357476941098 al cliente enviado correctamente.
+[2018-07-05 16:32:22.610589] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karme32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Flor'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Vilanova i la Geltrú'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: 'Avisar al repartidor que debe entrar la compra hasta el interior del domicilio por imposibilidad de mover el peso de la compra caso contrario no se aceptar la compra Gracias por su atencion '
+[2018-07-05 16:35:57.997649] [info] 263365625039
+[2018-07-05 16:35:58.066685] [info] Envio de correo del pedido: 263365625039 al comprador enviado correctamente.
+[2018-07-05 16:35:58.117501] [info] Envio de correo del pedido: 263365625039 al cliente enviado correctamente.

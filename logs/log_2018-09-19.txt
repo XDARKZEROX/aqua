@@ -1,0 +1,39 @@
+[2018-09-19 6:52:43.704823] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'admin@mecanizadoscopsl.es'
+    nombre: 'Lorena'
+    apellido: 'Obradors Fernandez'
+    empresa: 'Mecanizados COP'
+    telefono: '933 77 31 08'
+    direccion: 'Treball 25'
+    provincia: 'Barcelona'
+    ciudad: 'Cornella'
+    postalcode: '08940'
+    factura: ''
+[2018-09-19 9:19:57.189485] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'zorrodeldesierto2010@hotmail.es'
+    nombre: 'Jose Manuel'
+    apellido: 'montero'
+    empresa: 'ACCIONA'
+    telefono: '607252848'
+    direccion: 'Juana de Vega, 2 - 8°'
+    provincia: 'A coruña'
+    ciudad: 'A coruña'
+    postalcode: '15003'
+    factura: ''
+[2018-09-19 9:20:49.420452] [info] 864468925552
+[2018-09-19 9:20:49.498884] [info] Envio de correo del pedido: 864468925552 al comprador enviado correctamente.
+[2018-09-19 9:20:49.557672] [info] Envio de correo del pedido: 864468925552 al cliente enviado correctamente.
+[2018-09-19 15:15:52.570919] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'reyessukunza@yahoo.es'
+    nombre: 'Reyes'
+    apellido: 'Sanz'
+    empresa: 'Particular'
+    telefono: '656411918'
+    direccion: 'Balleneros 12. 7E'
+    provincia: 'Guipúzcoa'
+    ciudad: 'San Sebastián'
+    postalcode: '20011'
+    factura: ''
+[2018-09-19 15:17:46.878467] [info] 673117631633
+[2018-09-19 15:17:46.946629] [info] Envio de correo del pedido: 673117631633 al comprador enviado correctamente.
+[2018-09-19 15:17:47.003326] [info] Envio de correo del pedido: 673117631633 al cliente enviado correctamente.

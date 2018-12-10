@@ -1,0 +1,14 @@
+[2017-12-19 8:12:33.426460] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Rownick@hotmail.com'
+    nombre: 'Sergio'
+    apellido: 'González Caldera'
+    empresa: '46748552v'
+    telefono: '649637892'
+    direccion: 'Calle President Macià 70 1-1'
+    provincia: 'Girona'
+    ciudad: 'Palamós'
+    postalcode: '17230'
+    factura: 'Llamar antes de entregar al 649637892'
+[2017-12-19 8:14:34.701508] [info] 720295455297
+[2017-12-19 8:14:35.052558] [info] Envio de correo del pedido: 720295455297 al comprador enviado correctamente.
+[2017-12-19 8:14:35.128283] [info] Envio de correo del pedido: 720295455297 al cliente enviado correctamente.

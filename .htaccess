@@ -1,0 +1,34 @@
+# settings
+Options +FollowSymlinks
+Options -Indexes
+DirectoryIndex index.php
+# rewrite
+<IfModule mod_rewrite.c>
+
+    RewriteEngine On
+
+     #local
+     RewriteBase /
+     RewriteCond %{HTTP_HOST} ^localhost/ [NC]
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+     RewriteRule ^(.*)$ localhost/$1 [L,R=301]
+
+     # inicio
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+     RewriteRule ^([^/.]+)$ $1.php [L]
+</IfModule>
+
+#RewriteCond %{HTTP_HOST} ^aquaph9\.es$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.aquaph9\.es$
+#RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+#RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+#RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+#RewriteRule ^/?$ "http\:\/\/www\.aquaph9\.com\/" [R=301,L]
+#Mio
+   RewriteBase /aquaold/
+   RewriteCond %{HTTP_HOST} ^localhost/aquaold/ [NC]
+   RewriteRule ^(.*)$ localhost/aquaold/$1 [L,R=301]

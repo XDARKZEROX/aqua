@@ -1,0 +1,11 @@
+[2017-12-26 14:17:55.246439] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'msolisbocos@hotmail.com'
+    nombre: 'Maria'
+    apellido: 'Solis bocos'
+    empresa: ''
+    telefono: '677000711'
+    direccion: 'Calle san luis 1 3A'
+    provincia: 'Valladolid'
+    ciudad: 'Valladokid'
+    postalcode: '47004'
+    factura: ''

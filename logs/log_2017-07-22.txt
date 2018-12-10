@@ -1,0 +1,28 @@
+[2017-07-22 5:09:51.595206] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'reizen.uit@tiscali.nl'
+    nombre: 'Gustav Olaf'
+    apellido: 'Sperl'
+    empresa: ''
+    telefono: '610932783'
+    direccion: 'Llano de los Olivos 3'
+    provincia: 'Granada'
+    ciudad: 'BenamaurelPuenteArriba'
+    postalcode: '18817'
+    factura: ''
+[2017-07-22 5:12:05.195827] [info] 681416088691
+[2017-07-22 5:12:05.302423] [info] Envio de correo del pedido: 681416088691 al comprador enviado correctamente.
+[2017-07-22 5:12:05.400484] [info] Envio de correo del pedido: 681416088691 al cliente enviado correctamente.
+[2017-07-22 12:48:43.912652] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'joanmaximax@gmail.com'
+    nombre: 'Joan'
+    apellido: 'Vilar Rius'
+    empresa: 'Speed Queen joan'
+    telefono: '690074322'
+    direccion: 'Horts 3 PISO 4'
+    provincia: 'Girona'
+    ciudad: 'LloretdeMar'
+    postalcode: '17310'
+    factura: ''
+[2017-07-22 12:51:21.321063] [info] 731387739054
+[2017-07-22 12:51:21.415513] [info] Envio de correo del pedido: 731387739054 al comprador enviado correctamente.
+[2017-07-22 12:51:21.476859] [info] Envio de correo del pedido: 731387739054 al cliente enviado correctamente.

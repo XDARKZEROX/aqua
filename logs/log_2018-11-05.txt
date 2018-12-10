@@ -1,0 +1,14 @@
+[2018-11-05 16:00:09.090847] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'magisa1966@hotmail.com'
+    nombre: 'Manuel'
+    apellido: 'Gil Salvatierra'
+    empresa: ''
+    telefono: '687429902'
+    direccion: 'avenida virgen del carmen 31 ,(cafeteria Cory)'
+    provincia: 'Algeciras'
+    ciudad: 'Algeciras'
+    postalcode: '11201'
+    factura: 'Entregar a Ionela Corina'
+[2018-11-05 16:06:08.635922] [info] 571461250747
+[2018-11-05 16:06:08.744704] [info] Envio de correo del pedido: 571461250747 al comprador enviado correctamente.
+[2018-11-05 16:06:08.833762] [info] Envio de correo del pedido: 571461250747 al cliente enviado correctamente.

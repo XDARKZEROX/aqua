@@ -1,0 +1,14 @@
+[2018-11-09 9:29:05.192445] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'rosapadin1@hotmail.com'
+    nombre: 'ROSA'
+    apellido: 'PADIN PINEIRO'
+    empresa: ''
+    telefono: '667571289'
+    direccion: 'AVDA CONSTITUCION 91 PRIMERO D'
+    provincia: 'CORUA'
+    ciudad: 'BOIRO'
+    postalcode: '15930'
+    factura: ''
+[2018-11-09 9:32:09.961555] [info] 464481307419
+[2018-11-09 9:32:10.109456] [info] Envio de correo del pedido: 464481307419 al comprador enviado correctamente.
+[2018-11-09 9:32:10.217469] [info] Envio de correo del pedido: 464481307419 al cliente enviado correctamente.

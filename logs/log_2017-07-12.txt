@@ -1,0 +1,41 @@
+[2017-07-12 10:08:58.188797] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ccasanovas14@gmail.com'
+    nombre: 'Cristina'
+    apellido: 'Casanovas Herrero'
+    empresa: ''
+    telefono: '620640150'
+    direccion: 'C/ Muntaner, 341, 7o2a'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08021'
+    factura: ''
+[2017-07-12 10:12:29.801498] [info] 443033194348
+[2017-07-12 10:12:29.860157] [info] Envio de correo del pedido: 443033194348 al comprador enviado correctamente.
+[2017-07-12 10:12:29.927140] [info] Envio de correo del pedido: 443033194348 al cliente enviado correctamente.
+[2017-07-12 12:25:08.509867] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'azucena.ambrinos@gmail.com'
+    nombre: 'Azucena'
+    apellido: 'Ambrinos'
+    empresa: ''
+    telefono: '679810767'
+    direccion: 'Concilio de trento 41 5o 4a izquierda'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08018'
+    factura: 'Si es posible la entrega a partir de las 17'
+[2017-07-12 12:30:58.905766] [info] 276789313375
+[2017-07-12 12:30:58.980335] [info] Envio de correo del pedido: 276789313375 al comprador enviado correctamente.
+[2017-07-12 12:30:59.039211] [info] Envio de correo del pedido: 276789313375 al cliente enviado correctamente.
+[2017-07-12 18:28:57.067382] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'arxendar@gmail.com'
+    nombre: 'Alberto'
+    apellido: 'Albuixech Ramirez'
+    empresa: ''
+    telefono: '629198642'
+    direccion: ' Meja Lequerica 18   4o 4a'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08028'
+    factura: 'Si no estoy presente dejar en conserjeria'
+[2017-07-12 18:30:28.037959] [info] 086266959108
+[2017-07-12 18:30:28.038080] [info] El pedido con codigo:  086266959108 se le ha denegado el pago

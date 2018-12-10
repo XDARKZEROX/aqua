@@ -1,0 +1,11 @@
+[2017-11-03 6:07:43.602914] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'awielandt@mailmax.be'
+    nombre: 'Annemieke'
+    apellido: 'Wielandt'
+    empresa: ''
+    telefono: '697761162'
+    direccion: 'Urb Lomas del sol 43'
+    provincia: 'Malaga'
+    ciudad: 'Benajarafe'
+    postalcode: '29790'
+    factura: ''

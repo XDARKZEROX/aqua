@@ -1,0 +1,42 @@
+[2017-07-15 0:33:03.961061] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'arxendar@gmail.com'
+    nombre: 'Alberto'
+    apellido: 'Albuixech Ramirez'
+    empresa: ''
+    telefono: '629198642'
+    direccion: 'c Mejia Lequerica 18   4o 4a'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08028'
+    factura: 'En caso de no haber nadie dejar entrega en conserjeria al Sr Manolo'
+[2017-07-15 0:34:04.050998] [info] 809418126716
+[2017-07-15 0:34:04.142323] [info] Envio de correo del pedido: 809418126716 al comprador enviado correctamente.
+[2017-07-15 0:34:04.199172] [info] Envio de correo del pedido: 809418126716 al cliente enviado correctamente.
+[2017-07-15 4:52:06.728984] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'gaizkagarcia1981@gmail.com'
+    nombre: 'Gaizka'
+    apellido: 'Garciacastresana'
+    empresa: 'Peluquería Sonia garcia'
+    telefono: '662204930'
+    direccion: 'huertas de la villa 3, Peluqueria sonia garcia'
+    provincia: 'Vizcaya'
+    ciudad: 'Bilbao'
+    postalcode: '48003'
+    factura: ''
+[2017-07-15 4:57:25.485820] [info] 834505951511
+[2017-07-15 4:57:25.544090] [info] Envio de correo del pedido: 834505951511 al comprador enviado correctamente.
+[2017-07-15 4:57:25.611468] [info] Envio de correo del pedido: 834505951511 al cliente enviado correctamente.
+[2017-07-15 19:34:45.181166] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pere.gomez@llap.jazztel.es'
+    nombre: 'Pere'
+    apellido: 'Gómez Castell'
+    empresa: ''
+    telefono: '656334946'
+    direccion: 'Carrer Bigai 11 entlo 4'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08022'
+    factura: 'si no hay nadie en casa dejarlo al portero'
+[2017-07-15 19:37:18.786211] [info] 517930307713
+[2017-07-15 19:37:18.893547] [info] Envio de correo del pedido: 517930307713 al comprador enviado correctamente.
+[2017-07-15 19:37:18.938268] [info] Envio de correo del pedido: 517930307713 al cliente enviado correctamente.

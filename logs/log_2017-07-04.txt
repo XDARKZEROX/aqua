@@ -1,0 +1,11 @@
+[2017-07-04 11:02:44.282810] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'nesto5555@gmail.com'
+    nombre: 'Ernesto'
+    apellido: 'Peña Ballano'
+    empresa: ''
+    telefono: '654535539'
+    direccion: 'Calle Literato Azorin 14 bajo dcha'
+    provincia: 'Valencia'
+    ciudad: 'Valencia'
+    postalcode: '46006'
+    factura: ''

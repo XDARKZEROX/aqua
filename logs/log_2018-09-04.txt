@@ -1,0 +1,80 @@
+[2018-09-04 7:00:57.610932] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monica.prado6432@gmail.com'
+    nombre: 'Monica'
+    apellido: 'Chacon Prado'
+    empresa: ''
+    telefono: '600286722'
+    direccion: 'Misericordia 61'
+    provincia: 'Barcelona'
+    ciudad: 'Cerdanyola'
+    postalcode: '08290'
+    factura: 'ENTREGAR LUNES A VIERNES DE 9 30 A 13 30 GRACIAS'
+[2018-09-04 7:02:03.676284] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'monica.prado6432@gmail.com'
+    nombre: 'Monica'
+    apellido: 'Chacon Prado'
+    empresa: ''
+    telefono: '600286722'
+    direccion: 'Misericordia 61'
+    provincia: 'Barcelona'
+    ciudad: 'Cerdanyola'
+    postalcode: '08290'
+    factura: 'Entregar de lunes a viernes de 9 30 a 13 30'
+[2018-09-04 7:05:07.770610] [info] 476600429104
+[2018-09-04 7:05:07.855248] [info] Envio de correo del pedido: 476600429104 al comprador enviado correctamente.
+[2018-09-04 7:05:07.923491] [info] Envio de correo del pedido: 476600429104 al cliente enviado correctamente.
+[2018-09-04 7:27:57.420510] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karola.atencio@yahoo.com'
+    nombre: 'Karolina'
+    apellido: 'Atencio'
+    empresa: ''
+    telefono: '663883371'
+    direccion: 'Calle Mallorca 277 7 2'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08037'
+    factura: ''
+[2018-09-04 7:30:08.855184] [info] 659032083192
+[2018-09-04 7:30:08.855318] [info] El pedido con codigo:  659032083192 se le ha denegado el pago
+[2018-09-04 8:11:13.128344] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karola.atencio@yahoo.com'
+    nombre: 'Karolina'
+    apellido: 'Atencio'
+    empresa: ''
+    telefono: '663883371'
+    direccion: 'Calle Mallorca 277 7 2'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08037'
+    factura: ''
+[2018-09-04 8:12:12.882390] [info] 609172437050
+[2018-09-04 8:12:13.034445] [info] Envio de correo del pedido: 609172437050 al comprador enviado correctamente.
+[2018-09-04 8:12:13.117269] [info] Envio de correo del pedido: 609172437050 al cliente enviado correctamente.
+[2018-09-04 10:43:18.935697] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'ANNA'
+    apellido: 'ROMERO MONTERO'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Av MARQUES DE sANT mORI 69 1 2'
+    provincia: 'BADALONA'
+    ciudad: 'BADALONA'
+    postalcode: '08913'
+    factura: ''
+[2018-09-04 10:45:03.887706] [info] 381061746107
+[2018-09-04 10:45:04.080368] [info] Envio de correo del pedido: 381061746107 al comprador enviado correctamente.
+[2018-09-04 10:45:04.167673] [info] Envio de correo del pedido: 381061746107 al cliente enviado correctamente.
+[2018-09-04 12:42:29.034320] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'pintos84@hotmail.com'
+    nombre: 'Alejandro'
+    apellido: 'Pintos Dafonte'
+    empresa: 'La sala '
+    telefono: '661806733'
+    direccion: 'C/manuel antonio n12 bajo'
+    provincia: 'Pontevedra'
+    ciudad: 'Vilagarcía'
+    postalcode: '36600'
+    factura: ''
+[2018-09-04 12:45:29.900202] [info] 161869788610
+[2018-09-04 12:45:30.018148] [info] Envio de correo del pedido: 161869788610 al comprador enviado correctamente.
+[2018-09-04 12:45:30.083662] [info] Envio de correo del pedido: 161869788610 al cliente enviado correctamente.

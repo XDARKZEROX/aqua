@@ -1,0 +1,42 @@
+[2017-05-31 8:22:03.542937] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'isabelnerecan@yahoo.es'
+    nombre: 'Isabel'
+    apellido: 'Nerecan Fuentes'
+    empresa: ''
+    telefono: '609436819'
+    direccion: 'Calle Iztueta 9  4dcha'
+    provincia: 'Guipuzcoa'
+    ciudad: 'SanSebastian'
+    postalcode: '20001'
+    factura: 'llamar para concertar entrega'
+[2017-05-31 8:23:24.097569] [info] 792937815967
+[2017-05-31 8:23:24.205133] [info] Envio de correo del pedido: 792937815967 al comprador enviado correctamente.
+[2017-05-31 8:23:24.265634] [info] Envio de correo del pedido: 792937815967 al cliente enviado correctamente.
+[2017-05-31 13:06:28.397269] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ccasanovas14@gmail.com'
+    nombre: 'Cristina'
+    apellido: 'Casanovas Herrero'
+    empresa: ''
+    telefono: '620640150'
+    direccion: 'Calle Muntaner 341 7o2a'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08021'
+    factura: 'Si no hay nadie en casa avisar al portero para que abra'
+[2017-05-31 13:08:01.316541] [info] 799478373951
+[2017-05-31 13:08:01.386873] [info] Envio de correo del pedido: 799478373951 al comprador enviado correctamente.
+[2017-05-31 13:08:01.438607] [info] Envio de correo del pedido: 799478373951 al cliente enviado correctamente.
+[2017-05-31 14:37:05.990602] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'dj.gus82@gmail.com'
+    nombre: 'Gustavo'
+    apellido: 'Butron Agullo'
+    empresa: 'Materiales Cano, S.L.'
+    telefono: '637335362'
+    direccion: 'Partida de La Marina Pol. 1 Nº161, 161'
+    provincia: 'Alacant'
+    ciudad: 'Elche'
+    postalcode: '03194'
+    factura: ''
+[2017-05-31 14:38:13.814311] [info] 288807517346
+[2017-05-31 14:38:13.939465] [info] Envio de correo del pedido: 288807517346 al comprador enviado correctamente.
+[2017-05-31 14:38:14.035423] [info] Envio de correo del pedido: 288807517346 al cliente enviado correctamente.

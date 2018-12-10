@@ -1,0 +1,52 @@
+[2017-10-15 16:35:35.410176] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'juan.dela.paz@hotmail.com'
+    nombre: 'JUAN DE LA PAZ'
+    apellido: 'FERNANDEZ MARTINEZ'
+    empresa: ''
+    telefono: '666954069'
+    direccion: 'CALLE JUAN RAMON JIMENEZ N 16  6D'
+    provincia: 'MURCIA'
+    ciudad: 'MURCIA'
+    postalcode: '30011'
+    factura: ''
+[2017-10-15 16:36:32.795363] [info] Envio de correo del pedido: 786123540502 al comprador enviado correctamente.
+[2017-10-15 16:36:32.842570] [info] Envio de correo del pedido: 786123540502 al cliente enviado correctamente.
+[2017-10-15 19:39:58.415682] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Susanylaia@gmail.com'
+    nombre: 'Susana'
+    apellido: 'Madrid Ruiz'
+    empresa: ''
+    telefono: '650799234'
+    direccion: 'Lluís Millet, 10 3-3'
+    provincia: 'Barcelona '
+    ciudad: 'Sant Joan Despí '
+    postalcode: '08970'
+    factura: ''
+[2017-10-15 19:41:03.299421] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Susanylaia@gmail.com'
+    nombre: 'Susana'
+    apellido: 'Madrid Ruiz'
+    empresa: ''
+    telefono: '650799234'
+    direccion: 'Lluís Millet, 10 3-3'
+    provincia: 'Barcelona '
+    ciudad: 'Sant Joan Despí '
+    postalcode: '08970'
+    factura: ''
+[2017-10-15 19:42:51.060597] [info] 585185382084
+[2017-10-15 19:42:51.156347] [info] Envio de correo del pedido: 585185382084 al comprador enviado correctamente.
+[2017-10-15 19:42:51.200944] [info] Envio de correo del pedido: 585185382084 al cliente enviado correctamente.
+[2017-10-15 20:39:55.869395] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'sandrapbaldo@yahoo.com'
+    nombre: 'Sandra'
+    apellido: 'Planelles'
+    empresa: ''
+    telefono: '691813381'
+    direccion: 'Gran Via Marques del Turia, 73. P-10'
+    provincia: 'Valencia'
+    ciudad: 'Valencia'
+    postalcode: '46005'
+    factura: ''
+[2017-10-15 20:41:53.056066] [info] 502518022518
+[2017-10-15 20:41:53.130393] [info] Envio de correo del pedido: 502518022518 al comprador enviado correctamente.
+[2017-10-15 20:41:53.218533] [info] Envio de correo del pedido: 502518022518 al cliente enviado correctamente.

@@ -1,0 +1,14 @@
+[2018-06-24 14:49:11.520939] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'dra.pirone@gmail.com'
+    nombre: 'Maria Augusta '
+    apellido: 'Pirone'
+    empresa: ''
+    telefono: '600861915'
+    direccion: 'Calle de Vidal y de Valenciano n19 piso 1 puerta 3'
+    provincia: 'Barcelona '
+    ciudad: 'Barcelona '
+    postalcode: '08006'
+    factura: 'De no haber nadie pedir al portero que reciba el pedido'
+[2018-06-24 14:50:58.044842] [info] 641574217911
+[2018-06-24 14:50:58.149715] [info] Envio de correo del pedido: 641574217911 al comprador enviado correctamente.
+[2018-06-24 14:50:58.225507] [info] Envio de correo del pedido: 641574217911 al cliente enviado correctamente.

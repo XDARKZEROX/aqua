@@ -1,0 +1,70 @@
+/* ==========================================================================
+	#pjCpFormActions
+========================================================================== */
+[id^=pjWrapper] .pjCpFormActions { margin-top: 10px; }
+[id^=pjWrapper] .pjCpFormRating { margin-top: 5px; }
+[id^=pjWrapper] .pjCpCheckbox { margin-top: 7px; }
+[id^=pjWrapper] .pjCpUpload { margin-top: 5px; }
+[id^=pjWrapper] .pjCpCheckbox input,
+[id^=pjWrapper] .pjCpUpload input { cursor: pointer; }
+[id^=pjWrapper] .submitRequestButton{height: 100px;}
+
+[id^=pjWrapper] .pjCpAvatar{ margin-right: 12px;}
+[id^=pjWrapper] .pjCpMessageContainer{margin-bottom: 16px;}
+[id^=pjWrapper] .pjCpErrorContainer{display:none;}
+[id^=pjWrapper] .pjCpErrorContainer ul{padding-left: 16px;}
+[id^=pjWrapper] .pjCpFormRating a{ font-size: 18px; }
+/* ==========================================================================
+	Tiny Dialog
+========================================================================== */
+#tinybox {
+	position: absolute;
+	display: none;
+	padding: 10px;
+	background: #fff;
+	border: 10px solid #e3e3e3;
+	z-index: 2000;
+	font: 12px normal Arial, sans-serif;
+}
+
+#tinymask {
+	position: absolute;
+	display: none;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	background: #000;
+	z-index: 1500;
+	opacity: 0.5 !important;	
+}
+
+#tinycontent {
+	background: #fff
+}
+#tinybox .btn{
+	-moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-bottom: 0;
+    padding: 5px 10px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+#tinybox .btn-default{
+	background-color: #fff;
+    border-color: #ccc;
+    color: #333;
+}
+#tinybox .btn-default:hover{
+	background-color: #e6e6e6;
+    border-color: #adadad;
+    color: #333;
+}

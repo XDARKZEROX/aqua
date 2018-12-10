@@ -1,0 +1,14 @@
+[2018-06-23 9:41:11.396787] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'ani_ch93@hotmail.com'
+    nombre: 'Ani'
+    apellido: 'Chakhoyan'
+    empresa: 'Bar kebab carolina'
+    telefono: '911738228'
+    direccion: 'Juan gris n1 portal 3 2b'
+    provincia: 'Torrejon de ardoz'
+    ciudad: 'Torrejon de ardoz'
+    postalcode: '28850'
+    factura: ''
+[2018-06-23 9:42:36.414772] [info] 729915050137
+[2018-06-23 9:42:36.499576] [info] Envio de correo del pedido: 729915050137 al comprador enviado correctamente.
+[2018-06-23 9:42:36.609183] [info] Envio de correo del pedido: 729915050137 al cliente enviado correctamente.

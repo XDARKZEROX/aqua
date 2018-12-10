@@ -1,0 +1,39 @@
+[2018-09-26 7:40:28.035345] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'leonor.psique@gmail.com'
+    nombre: 'Leonor'
+    apellido: 'Fernández'
+    empresa: ''
+    telefono: '629642513'
+    direccion: 'San Eusebi 57 ático segunda'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08006'
+    factura: ''
+[2018-09-26 7:41:16.793962] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'leonor.psique@gmail.com'
+    nombre: 'Leonor'
+    apellido: 'Fernández'
+    empresa: ''
+    telefono: '629642513'
+    direccion: 'San Eusebi 57 ático segunda'
+    provincia: 'Barcelona'
+    ciudad: 'Barcelona'
+    postalcode: '08006'
+    factura: ''
+[2018-09-26 7:42:57.092889] [info] 500214815357
+[2018-09-26 7:42:57.195116] [info] Envio de correo del pedido: 500214815357 al comprador enviado correctamente.
+[2018-09-26 7:42:57.297179] [info] Envio de correo del pedido: 500214815357 al cliente enviado correctamente.
+[2018-09-26 7:59:15.462553] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'jafd2604@gmail.com'
+    nombre: 'José Andrés'
+    apellido: 'Fernández Domínguez'
+    empresa: ''
+    telefono: '639153749'
+    direccion: 'Avda de la Peregrina n 2A 3E'
+    provincia: 'la Coruña'
+    ciudad: 'Bertamirans'
+    postalcode: '15220'
+    factura: 'Confirmar entrega en tfno 639153749'
+[2018-09-26 8:00:46.250797] [info] 680440816352
+[2018-09-26 8:00:46.363285] [info] Envio de correo del pedido: 680440816352 al comprador enviado correctamente.
+[2018-09-26 8:00:46.453275] [info] Envio de correo del pedido: 680440816352 al cliente enviado correctamente.

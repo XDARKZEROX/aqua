@@ -1,0 +1,15 @@
+{
+    "name": "usuario/test",
+    "description": "Web de la pagina aquaph9.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Guzman",
+            "email": "nocturnal.classical@gmail.com"
+        }
+    ],
+    "require": {
+      "phpmailer/phpmailer": "~5.2",
+      "katzgrau/klogger": "dev-master"
+    }
+}

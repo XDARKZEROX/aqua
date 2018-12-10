@@ -1,0 +1,14 @@
+[2018-03-16 21:02:09.765734] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'montillaj@hotmail.es'
+    nombre: 'JUAN'
+    apellido: 'MONTILLA LUQUE'
+    empresa: ''
+    telefono: '655453858'
+    direccion: 'Calle FERIA 48'
+    provincia: 'Cordoba'
+    ciudad: 'Valenzuela'
+    postalcode: '14670'
+    factura: ''
+[2018-03-16 21:05:16.786899] [info] 687593808486
+[2018-03-16 21:05:16.937282] [info] Envio de correo del pedido: 687593808486 al comprador enviado correctamente.
+[2018-03-16 21:05:17.045594] [info] Envio de correo del pedido: 687593808486 al cliente enviado correctamente.

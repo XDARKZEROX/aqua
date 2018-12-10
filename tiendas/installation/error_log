@@ -1,0 +1,1 @@
+[29-Dec-2014 13:09:11 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'aquavita_psl'@'localhost' (using password: YES) in /home/aquavitaeph9/public_html/installation/install.php on line 78

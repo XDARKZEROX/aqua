@@ -1,0 +1,438 @@
+[21-Nov-2016 23:09:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php on line 20
+[21-Nov-2016 23:09:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[21-Nov-2016 23:10:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[22-Nov-2016 04:07:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php on line 20
+[22-Nov-2016 04:07:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[22-Nov-2016 04:08:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php on line 20
+[22-Nov-2016 04:08:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[22-Nov-2016 04:14:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php on line 20
+[22-Nov-2016 04:14:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[22-Nov-2016 23:34:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php on line 20
+[22-Nov-2016 23:34:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[22-Nov-2016 23:44:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[23-Nov-2016 19:38:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php on line 20
+[23-Nov-2016 19:38:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[23-Nov-2016 19:42:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/prueba/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/prueba/application/controller/transactionController.php on line 244
+[24-Nov-2016 21:13:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[24-Nov-2016 21:13:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 21:13:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 21:17:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 21:30:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 21:42:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 21:44:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 21:51:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 22:58:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[24-Nov-2016 22:58:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 23:04:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[24-Nov-2016 23:04:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 23:05:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[24-Nov-2016 23:05:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[24-Nov-2016 23:09:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[25-Nov-2016 00:11:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[25-Nov-2016 00:11:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[25-Nov-2016 01:28:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[25-Nov-2016 01:28:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[25-Nov-2016 11:16:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[25-Nov-2016 11:16:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[25-Nov-2016 15:46:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[25-Nov-2016 15:46:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[25-Nov-2016 23:09:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[25-Nov-2016 23:09:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[27-Nov-2016 14:52:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[27-Nov-2016 14:52:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[27-Nov-2016 14:52:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[27-Nov-2016 14:52:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[27-Nov-2016 16:48:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[27-Nov-2016 16:48:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[28-Nov-2016 01:23:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[28-Nov-2016 01:23:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[28-Nov-2016 10:46:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[28-Nov-2016 10:46:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[28-Nov-2016 11:45:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[28-Nov-2016 11:45:57 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[28-Nov-2016 12:05:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[28-Nov-2016 12:05:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[29-Nov-2016 09:24:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[29-Nov-2016 09:24:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[29-Nov-2016 11:03:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[29-Nov-2016 11:03:09 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[29-Nov-2016 13:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[29-Nov-2016 13:08:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[29-Nov-2016 16:58:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[29-Nov-2016 16:58:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[29-Nov-2016 22:20:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[29-Nov-2016 22:20:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 11:12:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[30-Nov-2016 11:12:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 15:35:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[30-Nov-2016 15:35:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 15:40:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[30-Nov-2016 15:40:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 15:40:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[30-Nov-2016 15:40:37 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 15:41:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[30-Nov-2016 15:41:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 17:01:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[30-Nov-2016 17:01:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 17:19:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[30-Nov-2016 17:19:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 17:24:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 17:28:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 17:30:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[30-Nov-2016 20:16:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', NULL, Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[27-Dec-2016 16:19:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 20
+[27-Dec-2016 16:19:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Order code must have more than 4 digits and less than 12' in /home/aquavitaeph9/public_html/application/controller/transactionController.php:244
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/transactionController.php(101): transactionController->getOrder('')
+#1 /home/aquavitaeph9/public_html/application/controller/Pago.php(67): transactionController->setFormHiddens(Array)
+#2 /home/aquavitaeph9/public_html/application/controller/Pago.php(50): procesarPago(Array, '')
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('', '1', Object(mysqli), Array)
+#4 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/transactionController.php on line 244
+[26-Apr-2017 17:14:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aquavitaeph9/public_html/application/controller/Pago.php on line 22
+[26-Apr-2017 17:14:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Field <strong>Amount</strong> is empty and required' in /home/aquavitaeph9/public_html/application/controller/Signature.php:22
+Stack trace:
+#0 /home/aquavitaeph9/public_html/application/controller/Signature.php(8): Signature::calculate('Ds_Merchant_', Array, Array, 'JJDCdeEA9P3J5Ai...')
+#1 /home/aquavitaeph9/public_html/application/controller/transactionController.php(271): Signature::fromValues('Ds_Merchant_', Array, 'JJDCdeEA9P3J5Ai...')
+#2 /home/aquavitaeph9/public_html/application/controller/transactionController.php(136): transactionController->getValuesSignature()
+#3 /home/aquavitaeph9/public_html/application/controller/Pago.php(83): transactionController->getFormHiddens()
+#4 /home/aquavitaeph9/public_html/application/controller/Pago.php(63): procesarPago(Array, '891174843863')
+#5 /home/aquavitaeph9/public_html/application/controller/Pago.php(10): grabarTransaccion('891174843863', '0', Object(mysqli), Array)
+#6 {main}
+  thrown in /home/aquavitaeph9/public_html/application/controller/Signature.php on line 22

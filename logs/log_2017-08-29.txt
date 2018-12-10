@@ -1,0 +1,63 @@
+[2017-08-29 9:18:49.563349] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'martyta_mmm@hotmail.com'
+    nombre: 'Marta'
+    apellido: 'Morales Martín'
+    empresa: ''
+    telefono: '679165351'
+    direccion: 'Carretera de Collblanc 157, 11D'
+    provincia: 'Barcelona'
+    ciudad: 'Hospitalet de Llobregat'
+    postalcode: '08904'
+    factura: ''
+[2017-08-29 9:19:06.823417] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'martyta_mmm@hotmail.com'
+    nombre: 'Marta'
+    apellido: 'Morales Martín'
+    empresa: ''
+    telefono: '679165351'
+    direccion: 'Carretera de Collblanc 157, 11D'
+    provincia: 'Barcelona'
+    ciudad: 'Hospitalet de Llobregat'
+    postalcode: '08904'
+    factura: ''
+[2017-08-29 9:23:48.391483] [info] 291560074009
+[2017-08-29 9:23:48.391597] [info] El pedido con codigo:  291560074009 se le ha denegado el pago
+[2017-08-29 9:24:26.449558] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'martyta_mmm@hotmail.com'
+    nombre: 'Marta'
+    apellido: 'Morales Martín'
+    empresa: ''
+    telefono: '679165351'
+    direccion: 'Carretera de Collblanc 157, 11D'
+    provincia: 'Barcelona'
+    ciudad: 'Hospitalet de Llobregat'
+    postalcode: '08904'
+    factura: ''
+[2017-08-29 9:24:43.735480] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'martyta_mmm@hotmail.com'
+    nombre: 'Marta'
+    apellido: 'Morales Martín'
+    empresa: ''
+    telefono: '679165351'
+    direccion: 'Carretera de Collblanc 157, 11D'
+    provincia: 'Barcelona'
+    ciudad: 'Hospitalet de Llobregat'
+    postalcode: '08904'
+    factura: ''
+[2017-08-29 9:26:21.420686] [info] 283945676916
+[2017-08-29 9:26:21.515805] [info] Envio de correo del pedido: 283945676916 al comprador enviado correctamente.
+[2017-08-29 9:26:21.562879] [info] Envio de correo del pedido: 283945676916 al cliente enviado correctamente.
+[2017-08-29 12:06:16.577477] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'amaia.alzola@gmail.com'
+    nombre: 'Amaia '
+    apellido: 'Alzola Elizondo'
+    empresa: ''
+    telefono: '657717634'
+    direccion: 'Barrio Biterino 1'
+    provincia: 'Bizkaia'
+    ciudad: 'Dima'
+    postalcode: '48141'
+    factura: ''
+[2017-08-29 12:17:18.651954] [info] 654090201564
+[2017-08-29 12:17:18.737826] [info] Envio de correo del pedido: 654090201564 al comprador enviado correctamente.
+[2017-08-29 12:17:18.783413] [info] Envio de correo del pedido: 654090201564 al cliente enviado correctamente.

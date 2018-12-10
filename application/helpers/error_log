@@ -1,0 +1,1 @@
+[30-Nov-2016 15:02:07 UTC] PHP Parse error:  syntax error, unexpected '$body' (T_VARIABLE) in /home/aquavitaeph9/public_html/application/helpers/form_insert.php on line 14

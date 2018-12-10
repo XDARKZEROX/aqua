@@ -1,0 +1,38 @@
+[2017-06-20 22:32:53.367553] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'garcia.lavandeira@gmail.com'
+    nombre: 'Loly'
+    apellido: 'Ferreiro Lopez'
+    empresa: ''
+    telefono: '663520561'
+    direccion: 'C Monte dos Postes 35'
+    provincia: 'ACoruna'
+    ciudad: 'Santiago deCompostela'
+    postalcode: '15703'
+    factura: ''
+[2017-06-20 22:38:29.846412] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'garcia.lavandeira@gmail.com'
+    nombre: 'Loly'
+    apellido: 'Ferreiro Lopez'
+    empresa: ''
+    telefono: '663520561'
+    direccion: 'C Monte dos Postes 35'
+    provincia: 'ACoruna'
+    ciudad: 'Santiago deCompostela'
+    postalcode: '15703'
+    factura: ''
+[2017-06-20 22:40:00.481246] [info] 993689469612
+[2017-06-20 22:40:00.481359] [info] El pedido con codigo:  993689469612 se le ha denegado el pago
+[2017-06-20 22:42:14.379287] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'garcia.lavandeira@gmail.com'
+    nombre: 'Loly'
+    apellido: 'Ferreiro Lopez'
+    empresa: ''
+    telefono: '663520561'
+    direccion: 'Calle Monte dos Postes 35'
+    provincia: 'A Coruña'
+    ciudad: 'Santiago de Compostela'
+    postalcode: '15703'
+    factura: ''
+[2017-06-20 22:43:23.107543] [info] 150092495985
+[2017-06-20 22:43:23.211370] [info] Envio de correo del pedido: 150092495985 al comprador enviado correctamente.
+[2017-06-20 22:43:23.278821] [info] Envio de correo del pedido: 150092495985 al cliente enviado correctamente.

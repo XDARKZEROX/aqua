@@ -1,0 +1,64 @@
+[2017-07-05 4:26:55.858386] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'mjrubiom@hotmail.es'
+    nombre: 'MªJose Rubio Muñoz'
+    apellido: 'Rubio Muñoz'
+    empresa: ''
+    telefono: '627926273'
+    direccion: 'lerida n 5  piso 1o   3a'
+    provincia: 'Barcelona'
+    ciudad: 'SantaMargaritadeMontbuy'
+    postalcode: '08710'
+    factura: 'A ser posible entregar de 15h a 17h'
+[2017-07-05 4:30:10.702636] [info] 912876445585
+[2017-07-05 4:30:10.849585] [info] Envio de correo del pedido: 912876445585 al comprador enviado correctamente.
+[2017-07-05 4:30:10.919415] [info] Envio de correo del pedido: 912876445585 al cliente enviado correctamente.
+[2017-07-05 6:31:49.604109] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'daviniamt@yahoo.es'
+    nombre: 'Davinia'
+    apellido: 'Martinez tapia'
+    empresa: ''
+    telefono: '663844221'
+    direccion: 'Urb tres pins bloque I1 2º1ª'
+    provincia: 'Barcelona'
+    ciudad: 'Santamargaridaielsmonjos'
+    postalcode: '08730'
+    factura: ''
+[2017-07-05 6:37:09.651499] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'daviniamt@yahoo.es'
+    nombre: 'Davini'
+    apellido: 'Martinez tapia'
+    empresa: ''
+    telefono: '663844221'
+    direccion: 'Urb tres pins bloque I1 2º1ª'
+    provincia: 'Barcelona'
+    ciudad: 'Santamargaridaielsmonjos'
+    postalcode: '08730'
+    factura: ''
+[2017-07-05 6:38:23.656024] [info] 400767699927
+[2017-07-05 6:38:23.720524] [info] Envio de correo del pedido: 400767699927 al comprador enviado correctamente.
+[2017-07-05 6:38:23.764101] [info] Envio de correo del pedido: 400767699927 al cliente enviado correctamente.
+[2017-07-05 14:39:04.454183] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'isabel@iconspain.com'
+    nombre: 'isabel'
+    apellido: 'arroyo perez'
+    empresa: 'Icon'
+    telefono: '649212625'
+    direccion: 'Eslovaquia 4'
+    provincia: 'Alicante'
+    ciudad: 'Algorfa'
+    postalcode: '03169'
+    factura: 'Urb lo crispin '
+[2017-07-05 14:41:44.083223] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'isabel@iconspain.com'
+    nombre: 'isabel'
+    apellido: 'arroyo perez'
+    empresa: 'Icon'
+    telefono: '649212625'
+    direccion: 'Eslovaquia 4'
+    provincia: 'Alicante'
+    ciudad: 'Algorfa'
+    postalcode: '03169'
+    factura: 'Urb lo crispin '
+[2017-07-05 14:43:06.291305] [info] 950529180735
+[2017-07-05 14:43:06.356075] [info] Envio de correo del pedido: 950529180735 al comprador enviado correctamente.
+[2017-07-05 14:43:06.443954] [info] Envio de correo del pedido: 950529180735 al cliente enviado correctamente.

@@ -1,0 +1,39 @@
+[2017-12-14 14:18:20.502146] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'luky65@msn.com'
+    nombre: 'ignacio '
+    apellido: 'aduriz recalde '
+    empresa: ''
+    telefono: '943492315'
+    direccion: 'plaza san esteban 13 '
+    provincia: 'guipuzkoa'
+    ciudad: 'oiartzun'
+    postalcode: '20180'
+    factura: ''
+[2017-12-14 14:18:36.793495] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'luky65@msn.com'
+    nombre: 'ignacio '
+    apellido: 'aduriz recalde '
+    empresa: ''
+    telefono: '943492315'
+    direccion: 'plaza san esteban 13 '
+    provincia: 'guipuzkoa'
+    ciudad: 'oiartzun'
+    postalcode: '20180'
+    factura: ''
+[2017-12-14 14:20:40.970436] [info] 068081629871
+[2017-12-14 14:20:41.189997] [info] Envio de correo del pedido: 068081629871 al comprador enviado correctamente.
+[2017-12-14 14:20:41.290275] [info] Envio de correo del pedido: 068081629871 al cliente enviado correctamente.
+[2017-12-14 16:17:21.217406] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'Cris.mar_@hotmail.com'
+    nombre: 'Cristina '
+    apellido: 'Marco cladera'
+    empresa: ' Cafeteria Ca'n Matxet'
+    telefono: '630512928'
+    direccion: 'C/Renou 128'
+    provincia: ' Islas Baleares ( Mallorca)'
+    ciudad: 'Sa pobla'
+    postalcode: '07420'
+    factura: ''
+[2017-12-14 16:20:25.800189] [info] 745104354658
+[2017-12-14 16:20:25.913106] [info] Envio de correo del pedido: 745104354658 al comprador enviado correctamente.
+[2017-12-14 16:20:26.011624] [info] Envio de correo del pedido: 745104354658 al cliente enviado correctamente.

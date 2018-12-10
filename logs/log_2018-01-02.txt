@@ -1,0 +1,25 @@
+[2018-01-02 14:28:17.419325] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'anna-romo@hotmail.com'
+    nombre: 'Ana'
+    apellido: 'Romero Montero'
+    empresa: ''
+    telefono: '692177820'
+    direccion: 'Av Marques de Sant Mori 69 75 1 2'
+    provincia: 'Barcelona'
+    ciudad: 'Badalona'
+    postalcode: '08913'
+    factura: ''
+[2018-01-02 15:43:10.858659] [debug] Se recibieron los datoa desde la plataforma de pago : 
+    email: 'karme32@hotmail.com'
+    nombre: 'Josefina'
+    apellido: 'Flor'
+    empresa: ''
+    telefono: '667965801'
+    direccion: 'Rambla de la Pau 65-1-2'
+    provincia: 'Barcelona'
+    ciudad: 'Vilanova i la Geltrú'
+    postalcode: '08800'
+    factura: ''
+[2018-01-02 15:45:08.810853] [info] 325398443848
+[2018-01-02 15:45:08.963377] [info] Envio de correo del pedido: 325398443848 al comprador enviado correctamente.
+[2018-01-02 15:45:09.091902] [info] Envio de correo del pedido: 325398443848 al cliente enviado correctamente.

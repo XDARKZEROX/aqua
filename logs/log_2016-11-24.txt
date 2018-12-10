@@ -1,0 +1,4 @@
+[2016-11-24 21:42:00.152614] [info] No se recibio nada por POST
+[2016-11-24 21:42:48.036717] [info] 269884540281
+[2016-11-24 21:42:48.036850] [info] El pedido con codigo:   se le ha denegado el pago
+[2016-11-24 21:45:48.833374] [info] 668868276110
